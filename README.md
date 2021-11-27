@@ -1,4 +1,4 @@
-# bruna-lab-website
+# Bruna Lab Website Repository
 
 
 

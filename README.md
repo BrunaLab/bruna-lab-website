@@ -3,7 +3,7 @@
 
 
 ### Resources for troubleshooting & Editing
-* [Wowchemy documentation](https://wowchemy.com/docs/) and [themes homepages](wowchemy themes homepage: https://wowchemy.com/hugo-themes/)
+* [Wowchemy documentation](https://wowchemy.com/docs/) and [wowchemy themes homepage](https://wowchemy.com/hugo-themes/)
 * [Getting Started by Arnoud Plantinga](https://www.arnoudplantinga.nl/post/getting-started/)
 * [Troubleshooting with Blogdown and Academic theme by Christophe Nicault](https://www.christophenicault.com/post/write_post/)
 * [Managing publications by Emmanuel Teitelbaum](https://www.emmanuelteitelbaum.com/post/managing-pubs-academic-website/)

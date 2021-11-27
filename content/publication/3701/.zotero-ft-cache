@@ -1,0 +1,142 @@
+    Skip to Article Content
+    Skip to Article Information
+
+Working off-campus? Learn about our remote access options
+The Ecological Society of America
+Search within
+
+    Search term
+
+Login / Register
+
+    Journals
+
+    Become a Member
+    ESA.org
+
+Journal list menu
+The Bulletin of the Ecological Society of America
+Volume 93, Issue 4 p. 390-393 The Bulletin of the Ecological Society of America
+EMERGING TECHNOLOGIES
+Free Access
+Harnessing Smartphones for Ecological Education, Research, and Outreach
+Matthew J. Palumbo ,
+Shelly A. Johnson ,
+Fabiane M. Mundim ,
+Anthony Lau ,
+Andrea C. Wolf ,
+Subramaniam Arunachalam ,
+Oscar Gonzalez ,
+Jennifer L. Ulrich ,
+Amy Washuta ,
+Emilio M. Bruna ,
+: e-mail:
+First published: 01 October 2012
+https://doi.org/10.1890/0012-9623-93.4.390
+Citations: 6
+
+The first four authors contributed equally to the writing of the manuscript; their order on the list of authors was determined using the Random Numbers Generator app (v 3.4.0) for the Android operating system.
+Sections
+PDF PDF
+Tools
+Share
+
+Mobile phones equipped with PC-like operating systems, GPS, internet connectivity, cameras, and video capabilities (e.g., smartphones ) are used by 49% of Americans between the ages of 18 and 24 ( Smith 2011 ). Immersed in digital technology from early childhood, members of this “Millennial Generation” are often frustrated with the passivity and isolation inherent in traditional forms of teaching ( Chodorow 1996 , Lieberman and Mace 2010 ). To meet the pedagogical challenges these students present, faculty are increasingly encouraged to emphasize group-based learning and incorporate technology in the classroom to better engage students and enhance learning ( Chodorow 1996 , Jonas-Dwyer and Pospisil 2004 ).
+
+Courses in environmental biology provide a unique opportunity to complement traditional course activities with smartphone-based experiential learning. Many university campuses—even urban ones—have arboreta, are landscaped with native flora, or are near parks. To show how teachers can take advantage of these resources for teaching with smartphones, our graduate course in plant–animal interactions created an application (app) for identifying trees on the University of Florida campus. This app includes information on the animals with which these trees interact, a glossary, quizzes, and maps of each tree's location so that users can navigate to them with the phone's GPS. Conceived as a tool for use in undergraduate ecology, forestry, landscape architecture, and plant taxonomy classes, the application was produced over the course of a semester ( Fig. 1 ). Its development allowed students to hone essential research, teaching, and professional skills (e.g., working collaboratively and in a cross-disciplinary mode, utilizing project design and execution, preparing educational materials, plant identification skills) while also mastering course content. By developing it for an open-source operating system and making the code freely available, we hope our app will serve as a template for instructors interested in developing similar activities.
+figure image
+Figure 1
+Open in figure viewer PowerPoint
+
+A flow chart illustrating steps to integrate the creation of a mobile application into a semester-long course. We use as an example the creation of an application by a graduate seminar in plant–animal interactions to map and identify native tree species on the campus of the University of Florida. We began by (1) identifying project goals and (2) identifying locations where trees would be mapped. Two locations on the University of Florida campus were selected based on accessibility and potential for use by students, faculty, and community members. (3) Students were divided into “research,” “education,” and “outreach” teams (i.e., research the interactions of native plant species with animals, develop education materials, map/verify data points, liaison with the computer programmer). (4) A graduate student from the Department of Computer Sciences with experience in mobile application development was hired to write the code; we chose to develop the application for the Android operating system because the source code for Android is free and open source and its use of Java-compatible libraries makes it easier to find programmers with the requisite skills. (5) The chosen campus locations were surveyed to verify the presence of the selected tree species, collect locality data, and photograph individual trees. (6) Research on environmental education and outreach techniques was conducted to explore how to facilitate the use of this application as an education and outreach tool, and (7) information on the plant–animal interactions for each tree species was collected by the graduate course students from sources ranging from primary literature to natural history guides. (8) Students met with the programmer to conduct a requirements analysis and define the formats in which data needed to be recorded. (9) Activities were designed to facilitate undergraduate students and the general public using the application to learn about plant–animal interactions, and (10) we generated a glossary of terms used in the study of plant–animal interactions (e.g., mutualism, commensalism, parasitism) and plant identification (e.g., anther, gall, pistil). After drafting a layout of the application, students met with the programmer to discuss and finalize it (11). After final approval of the layout, the database of photos, locations, and biological information was edited, revised, and sent to the programmer for implementation (12) and outreach materials were developed (13). Our programmer went through the process of coding, implementation, and verification, with frequent feedback from other team members to ensure that the information was correct and the educational objectives were being met by the application structure (14). After beta versions were tested, the final version was released on Android Market on 21 September 2011 (15–16).
+
+We emphasize, however, that instructors need not develop their own apps to incorporate smartphones in courses. In particular, numerous apps are available, several of which are free, that complement courses that emphasize field methods and data collection. For instance, students can design data sheets, record observations with their phones, and automatically upload data to a web-based database (e.g., EpiCollect), thereby reducing errors that accompany data transfer and accidental data loss ( Aanensen et al. 2009 ). Students can also use the phone's GPS to rapidly obtain information on local soils (e.g., SoilWeb), light conditions (e.g., LightTracker), water levels (e.g., RiverFlows), and other environmental conditions. Field observations and photos taken with the phone's camera can also be georeferenced to generate spatially explicit data sets or maps of field sites (e.g., Google Maps, Ushahidi). Finally, many field guides for identifying plants, animals, and even animal tracks are available (e.g., iBird, TrackWildlife), several of which complement photos with video or audio files or are constantly updated by user communities (e.g., SciSpy, Project Noah). Among the most sophisticated of these resources is Leafsnap, which uses advanced image recognition software to identify tree species based on photographs of their leaves. Coupled with applications that can generate random numbers, measure tree heights, and estimate the distance to objects (e.g., Random Numbers, Smart Measure, Theodolite), students can learn ecological concepts and practice field methods with minimal equipment needs beyond a smartphone.
+
+Finally, mobile technology provides a novel means for students to disseminate the results of their research or enlist the public in their research. For instance, students can engage “citizen scientists” to report observations of focal species or ecological processes (e.g., Project Budburst, What's Invasive!), or develop smartphone-based self-guided nature tours for their field sites or campuses (e.g., http://natl.ifas.ufl.edu ). By taking advantage of on-campus expertise, the budget for developing apps is surprisingly reasonable; we spent <US$3000 developing our campus tree guide, most of which was for hiring a programmer. This is well within the budget limits of many funding sources to which students apply.
+
+The use of smartphones in courses, either by using existing apps or developing new ones, is a new and cost-effective means of incorporating technology in the classroom to enhance student learning, research, and outreach. In doing so, educators may also be surprised to find that smartphones can become an invaluable part of their own research programs.
+Supplementary data
+
+Links to the apps referenced in the text and information on the UF Tree Guide app, including instructions for obtaining the source code, and can be found at www.BrunaLab.org .
+Literature cited
+Citing Literature
+
+Volume 93 , Issue 4
+
+October 2012
+
+Pages 390-393
+
+    Figures
+    References
+    Related
+    Information
+
+Recommended
+
+    Harnessing bits and bytes to transform ecology education
+    Robert D Stevenson , Kenneth M Klemow , Louis J Gross ,
+    Frontiers in Ecology and the Environment
+
+    Looking beyond research in doctoral education
+    Steven P. Campbell , Angela K. Fuller , David AG Patrick ,
+    Frontiers in Ecology and the Environment
+
+    Transforming Graduate Training in STEM Education
+    Sierra M. Love Stowell M.A. , Amber C. Churchill M.S. , Amanda K. Hund , Katharine C. Kelsey M.A. , Miranda D. Redmond , Sarah A. Seiter Ph.D. , Nichole N. Barger Ph.D. ,
+    The Bulletin of the Ecological Society of America
+
+    An Introduction to Ecological Archives
+    Jane L. Bain ,
+    The Bulletin of the Ecological Society of America
+
+    Pumilio: A Web‐Based Management System for Ecological Recordings
+    Luis J. Villanueva-Rivera , Bryan C. Pijanowski ,
+    The Bulletin of the Ecological Society of America
+
+Download PDF
+back
+The Ecological Society of America Logo
+© 2021 Ecological Society of America. All rights reserved.
+
+    Advertising
+
+    Media Kit
+
+    About the ESA
+
+ESA Headquarters
+1990 M Street, NW
+Suite 700
+Washington, DC 20036
+phone 202-833-8773
+email: esajournals@esa.org
+© 2021 Ecological Society of America. All rights reserved.
+Additional links
+About Wiley Online Library
+
+    Privacy Policy
+    Terms of Use
+    Cookies
+    Accessibility
+    Publishing Policies
+
+Help & Support
+
+    Contact Us
+    Training and Support
+    DMCA & Reporting Piracy
+
+Opportunities
+
+    Subscription Agents
+    Advertisers & Corporate Partners
+
+Connect with Wiley
+
+    The Wiley Network
+    Wiley Press Room
+
+Copyright © 1999-2021 John Wiley & Sons, Inc . All rights reserved
+Wiley Home Page
+

@@ -19,7 +19,7 @@ main:
     weight: 2
   - identifier: "Lab Members3"
     name: "Lab Alumni"
-    url: "/lab_alumni/lab_alumni"
+    url: "/pages/lab_alumni/lab_alumni"
     parent: "Lab Members"
     weight: 3
   - name: Lab Members

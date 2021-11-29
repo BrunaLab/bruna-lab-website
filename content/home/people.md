@@ -38,5 +38,5 @@ design:
 
  
 ---
-[Lab Alumni]({{< relref "/lab_alumni/lab_alumni" >}})
-
+[Lab Alumni]({{< relref "/lab-alumni/lab-alumni" >}})  
+[Information for Prospective Students]({{< relref "/post/join-us" >}})

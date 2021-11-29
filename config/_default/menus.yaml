@@ -7,22 +7,27 @@ main:
   - name: Home
     url: '#hero'
     weight: 10
-  - identifier : "Lab Members1"
+  - identifier : "Our Team1"
     name: "Emilio M. Bruna"
     url: "#about"
-    parent: "Lab Members"
+    parent: "Our Team"
     weight: 1
-  - identifier: "Lab Members2"
+  - identifier: "Our Team2"
     name: "Current Lab Members"
     url: "#people"
-    parent: "Lab Members"
+    parent: "Our Team"
     weight: 2
-  - identifier: "Lab Members3"
+  - identifier: "Our Team3"
     name: "Lab Alumni"
-    url: "/pages/lab_alumni/lab_alumni"
-    parent: "Lab Members"
+    url: "/lab-alumni/lab-alumni"
+    parent: "Our Team"
     weight: 3
-  - name: Lab Members
+  - identifier: "Our Team4"
+    name: "Join us"
+    url: "/post/join-us"
+    parent: "Our Team"
+    weight: 4
+  - name: Our Team
     url: '#about'
     weight: 20
   - name: Projects
@@ -31,18 +36,18 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 30
-  - identifier : "Publications1"
-    name: "Recent Publications"
-    url: "#publications"
-    parent: "Publications"
-    weight: 1
-  - identifier: "Publications2"
-    name: "Complete List"
-    url: "/publication/"
-    parent: "Publications"
-    weight: 2
+  # - identifier : "Publications1"
+  #   name: "Recent Publications"
+  #   url: "#publications"
+  #   parent: "Publications"
+  #   weight: 1
+  # - identifier: "Publications2"
+  #   name: "Complete List"
+  #   url: "/publication/"
+  #   parent: "Publications"
+  #   weight: 2
   - name: Publications
-    url: '#publication/'
+    url: '#publications'
     weight: 40
   - name: Courses
     url: courses/

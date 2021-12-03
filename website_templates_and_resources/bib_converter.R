@@ -13,8 +13,11 @@ outfold<-"./content/publication"
 bibtex_2academic <- function(bibfile,
                              outfold,
                              abstract = FALSE,
-                             overwrite = FALSE) {
+                             overwrite = TRUE) {
 
+
+  abstract = FALSE
+  overwrite = TRUE
   library(RefManageR)
   library(tidyverse)
   library(anytime)
@@ -27,6 +30,7 @@ bibtex_2academic <- function(bibfile,
     mutate_all(funs(str_remove_all(.,"[{}\"]"))) %>%   ### remove {}" from bibtext entries
     mutate_all(funs(str_replace_all(.,'\\\\%', '%')))  ### some replace double escaped % for markdown
 
+  mypubs$rowname<-gsub("_","-",mypubs$rowname)
 
   # make bibtype the name of the type column (default for WriteBib)
   if (has_name(mypubs, "document_type") & !(has_name(mypubs, "bibtype"))) {
@@ -55,6 +59,7 @@ bibtex_2academic <- function(bibfile,
   # create a function which populates the md template based on the info
   # about a publication
   # x<-mypubs[2,]
+  # x<-mypubs
   create_md <- function(x) {
 
     # define a date and create filename by appending date and start of title
@@ -63,21 +68,31 @@ bibtex_2academic <- function(bibfile,
     } else {
       x[["date"]] <- "2999-01-01"
     }
+    #
+    #
+    #
+    # foldername <- paste(x[["date"]], x[["title"]] %>%
+    #                       str_replace_all(fixed(" "), "_") %>%
+    #                       str_remove_all(fixed(":")) %>%
+    #                       str_sub(1, 20), sep = "_")
+    #
+    # define a date and create filename by using the rowname for each article
+    foldername <- x[["rowname"]]
 
-    foldername <- paste(x[["date"]], x[["title"]] %>%
-                          str_replace_all(fixed(" "), "_") %>%
-                          str_remove_all(fixed(":")) %>%
-                          str_sub(1, 20), sep = "_")
+    folder = paste0(outfold, "/", foldername)
+    sapply(folder, dir.create)
 
-    #folder = paste0(outfold, "/", foldername)
-    dir.create(file.path(outfold, foldername), showWarnings = FALSE)
+    # dir.create(file.path(outfold, foldername), showWarnings = TRUE)
     filename = "index.md"
     # start writing
     outsubfold = paste(outfold, foldername, sep="/")
+
     # start writing
+
     if (!file.exists(file.path(outsubfold, filename)) | overwrite) {
       fileConn <- file.path(outsubfold, filename)
       write("+++", fileConn)
+      # write(fileConn)
 
       # Title and date
       write(paste0("title = \"", x[["title"]], "\""), fileConn, append = T)
@@ -143,6 +158,7 @@ bibtex_2academic <- function(bibfile,
       write("caption = \"\"", fileConn, append = T)
 
       write("+++", fileConn, append = T)
+      # write(fileConn, append = T)
     }
     # convert entry back to data frame
     df_entry = as.data.frame(as.list(x), stringsAsFactors=FALSE) %>%
@@ -161,32 +177,33 @@ bibtex_2academic <- function(bibfile,
 
 
 
-# option 2 ----------------------------------------------------------------
-
-
-
-# https://amirdjv.netlify.app/post/converting-bibtex-files-to-md-files/
-# https://github.com/petzi53/bib2academic
-devtools::install_github("petzi53/bib2academic")
-library(bib2academic)
-library(bibtex)
-bib2acad(bibfile = "./EMB_publications.bib", copybib = TRUE, abstract = TRUE,overwrite = FALSE)
-
-bib2acad(
-  paste(
-    getwd(),
-    "./EMB_publications.bib",
-    sep = "/"),
-  copybib = TRUE, abstract = TRUE, overwrite = TRUE)
-
-bibFiles <- list.files("my-bib-folder", full.names = TRUE)
-mdFiles <- list.files("my-md-folder", full.names = TRUE)
-
-
-file.copy(from = bibFiles, to = "static/files/citations/")
-file.copy(from = mdFiles, to = "content/publication/")
-
-blogdown::serve_site()
-
-
-
+# # option 2 ----------------------------------------------------------------
+#
+# #
+# # NOT AS COOL
+#
+# # https://amirdjv.netlify.app/post/converting-bibtex-files-to-md-files/
+# # https://github.com/petzi53/bib2academic
+# devtools::install_github("petzi53/bib2academic")
+# library(bib2academic)
+# library(bibtex)
+# bib2acad(bibfile = "./EMB_publications/EMB_publications.bib", copybib = TRUE, abstract = TRUE,overwrite = FALSE)
+#
+# bib2acad(
+#   paste(
+#     getwd(),
+#     "./EMB_publications.bib",
+#     sep = "/"),
+#   copybib = TRUE, abstract = TRUE, overwrite = TRUE)
+#
+# bibFiles <- list.files("my-bib-folder", full.names = TRUE)
+# mdFiles <- list.files("my-md-folder", full.names = TRUE)
+#
+#
+# file.copy(from = bibFiles, to = "static/files/citations/")
+# file.copy(from = mdFiles, to = "content/publication/")
+#
+# blogdown::serve_site()
+# #
+# #
+# #

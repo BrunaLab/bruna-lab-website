@@ -1,4 +1,14 @@
 
+# description -------------------------------------------------------------
+
+
+# Code for converting exported bibtex file into format that:
+# 1) is read into Academic and 2) the pdfs are renamed after being copied
+# into the relevant folder
+# TODO: not all abstracts being read (may be that some are called "summary")
+# TODO: "strings cannot contain newlines" error in some abstracts
+# TODO: is tehre a way to automate the copy paste of files into folder?
+
 # http://www.pik-potsdam.de/~pichler/blog/post/set-this-up/setting-up-this-site/
 
 #' @title bibtex_2academic
@@ -6,22 +16,37 @@
 #' @author Lorenzo Busetto, phD (2017) <lbusett@gmail.com>
 #' @modified Peter Paul Pichler (2019) <pichler@pik-potsdam.de>
 
+
+# load libraries  ---------------------------------------------------------
+
+library(RefManageR)
+library(tidyverse)
+library(anytime)
+library(tibble)
+
+
+# load data ---------------------------------------------------------------
+
+
+# Read in the file
 bibfile<-"./EMB_publications/EMB_publications.bib"
 
+
+# select destination folder -----------------------------------------------
+
+
+# Identify the folder in which publications are keps
 # outfold<-paste(getwd(),"outfold", sep="/")
 outfold<-"./content/publication"
-bibtex_2academic <- function(bibfile,
-                             outfold,
-                             abstract = FALSE,
-                             overwrite = TRUE) {
+#
+# bibtex_2academic <- function(bibfile,
+#                              outfold,
+#                              abstract = FALSE,
+#                              overwrite = TRUE) {
 
 
-  abstract = FALSE
+  abstract = TRUE
   overwrite = TRUE
-  library(RefManageR)
-  library(tidyverse)
-  library(anytime)
-  library(tibble)
 
   # Import the bibtex file and convert to data.frame
   mypubs   <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8") %>%
@@ -124,6 +149,8 @@ bibtex_2academic <- function(bibfile,
       write(paste0("publication = \"", publication,"\""), fileConn, append = T)
       write(paste0("publication_short = \"", publication,"\""),fileConn, append = T)
 
+
+      # TODO: FOR SOME REASON ABSTRACT IS NOT BEING READ IN from mypubs
       # Abstract and optional shortened version.
       if (abstract) {
         write(paste0("abstract = \"", x[["abstract"]],"\""), fileConn, append = T)
@@ -131,6 +158,8 @@ bibtex_2academic <- function(bibfile,
         write("abstract = \"\"", fileConn, append = T)
       }
       write(paste0("abstract_short = \"","\""), fileConn, append = T)
+
+
 
       # other possible fields are kept empty. They can be customized later by
       # editing the created md
@@ -171,10 +200,49 @@ bibtex_2academic <- function(bibfile,
   # the different "md" files.
   # x<-mypubs
   apply(mypubs, FUN = function(x) create_md(x), MARGIN = 1)
-}
+# }
+
+
+  # To rename the pdfs
+  # directory<-"./EMB_publications/files"
+  path = "./content/publication/"
+  folder_names<-list.files(path)
+  file_paths<-paste(path,folder_names,sep="")
+    # directory<-as.data.frame(directory)
+  # list.files(file_paths) # only file name
+  # list.files(file_paths, full.names=TRUE) # full path
+  old_file_names<-list.files(file_paths, full.names=TRUE) # full path
+  # get only the ones that are pdf
+  old_file_names<-Filter(function(x) str_detect(x, "pdf$"), old_file_names)
+  pathsplit<-str_split(old_file_names, "/", simplify = TRUE)
+  new_file_names<-paste(pathsplit[,1],pathsplit[,2],pathsplit[,3],pathsplit[,4],pathsplit[,4],sep="/")
+  new_file_names<-paste(new_file_names,".pdf",sep="")
+  file.rename(old_file_names,new_file_names)
 
 
 
+  #
+  # new_name_fcn <- function(x) {
+  #   new_name<-paste(x, list.files(x),sep="/")
+  #   return(new_name)
+  # }
+  #
+  # library(purrr)
+  # x <- nrow(directory)
+  #  <- map(1:x, paste(directory, list.files[.directory,sep="/"))
+  #
+  # file_names_new<-new_name_fcn(directory)
+  # new_name_fcn(x)<-paste(x, list.files(x),sep="/")
+  # file_names_new<-sapply(directory,new_name_fcn)
+  directory<-directory[10]
+  file_names_old<-list.files(directory)
+  file_names_new <- paste0(folder_names,".pdf")
+  file.rename(
+    paste0(directory,file_names_old,sep="/"),       # Rename files
+              paste0(directory[10], "/",file_names_new[10])
+
+  file.rename("./EMB_publications/files/3739/3739.pdf",
+              "./EMB_publications/files/3739/Araujo_etal_2013_PlantEcology.pdf")
 
 
 # # option 2 ----------------------------------------------------------------

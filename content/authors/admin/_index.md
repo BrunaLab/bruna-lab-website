@@ -21,8 +21,9 @@ interests:
 - Tropical ecology and conservation
 - Plant population ecology
 - Plant-animal interactions
+- Habitat Fragmentation
+- Amazonia & The Cerrado
 - Scientometrics, Science of Science
-- Science & science policy in Latin America  
 organizations:
 - name: Dept. of Wildlife Ecology and Conservation
   url: https://wec.ifas.ufl.edu/
@@ -57,5 +58,7 @@ social:
 
 ---
 I use field experiments, long-term demographic studies, mathematical models, and computational approaches to study (1) how the demography and population dynamics of tropical plants are influenced by human activities such as deforestation and climate change, and (2) factors influencing geographic disparities in the production and spread of knowledge, with an emphasis on scholarship from Latin America.  
+
+I currently serve as Past-President of the [Association for Tropical Biology & Conservation](https://tropicalbiology.org/) and Secretary of the [Ecological Society of America](https://www.esa.org/).
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EmilioMBruna_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

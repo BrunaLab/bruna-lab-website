@@ -30,15 +30,19 @@ content:
   - name: Metascience
     tag: Metascience
   - name: Plant Demography
-    tag: Demo
-  - name: Ant-Plant Mutualisms
-    tag: Demo
-  - name: Cerrado Ecology
-    tag: Demo
+    tag: Plant Demography
+  - name: Plant-Animal Interactions
+    tag: Plant-Animal Interactions
+  - name: Cerrado
+    tag: Cerrado
+  - name: Amazonia
+    tag: Amazonia
+  - name: Habitat Fragmentation
+    tag: Habitat Fragmentation
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List

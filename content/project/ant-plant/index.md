@@ -14,6 +14,8 @@ summary: "   "
 tags:
 - plant demography
 - Amazonia
+- Plant Demography
+- Plant-Animal Interactions
 - BDFFP
 - mutualisms
 title: Ecology of ant-plant mutualisms

@@ -23,23 +23,23 @@ social:
 #   link: https://github.com/BrunaLab
 
 # bio: 
-# education:
-#   courses:
-#   - course: Ph.D. in Population Biology
-#     institution: University of California, Davis
-#     year: 2001
-#   - course: M.S. in Biology
-#     institution: University of California, San Diego
-#     year: 1995
-#   - course: B.S. in Ecology, Behavior, & Evolution with a Minor in Literature  
-#     institution: Revelle College, University of California, San Diego
-#     year: 1994
-# email: "embruna@ufl.edu"
-# highlight_name: true
-# interests:
-# - Tropical ecology and conservation
-# - Plant population ecology
-# - Plant-animal interactions
+education:
+   courses:
+#   - course: Ph.D. in Wildlife Ecology & Conservation
+#     institution: University of Florida
+#     year: 2022
+    - course: M.S. in Zoology 
+      institution: University of Hawai'i at Manoa
+      year: 2016
+    - course: B.S. in Zoology
+      institution: University of Hawai'i at Manoa
+      year: 2009
+email: "thomassmith@ufl.edu"
+highlight_name: true
+interests:
+- Habitat fragmentation
+- insect community ecology
+- Plant-insect interactions
 # - Scientometrics, Science of Science
 organizations:
 - name: Department of Wildlife Ecology and Conservation

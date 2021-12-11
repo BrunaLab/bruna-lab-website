@@ -14,6 +14,8 @@ summary: "  "
 tags:
 - Habitat Fragmentation
 - Amazonia
+- Plant Demography
+- Plant-Animal Interactions
 - BDFFP
 - Brazil
 title: Plant demography in fragmented landscapes

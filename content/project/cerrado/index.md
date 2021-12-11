@@ -12,6 +12,10 @@ image:
 # slides: example
 summary: "   "
 tags:
+- Habitat Fragmentation
+- Plant-Animal Interactions
+- Plant Demography
+- Cerrado
 - Atta
 - Savannas
 - N-limitation

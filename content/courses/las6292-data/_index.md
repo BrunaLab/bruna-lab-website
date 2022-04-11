@@ -6,8 +6,6 @@ title: "\U0001F4CA Data Collection & Management (LAS 6292)"
 type: book
 ---
 
-{{< figure src="featured.png" >}}
-
 {{< toc hide_on="xl" >}}
 
 ## Course Objectives  
@@ -59,4 +57,5 @@ This course is in the _TCD Methods_ category, so PhD students earning the TCD co
 
 {{< cta cta_text="Link to Course Website" cta_link="https://las6292.netlify.app/" >}}
 
+{{< figure src="featured.png" >}}
 

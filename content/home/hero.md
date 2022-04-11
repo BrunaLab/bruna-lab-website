@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Our Mission
+title: "Our Mission:"
 hero_media: bruna-lab-logo.png
 cta:
   label: '**News Coverage**'
@@ -22,4 +22,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
-We study the consequences of deforestation, habitat fragmentation, climate change, and other human activities for plant-animal interactions and plant population dynamics. While we work in many ecosystems, most of our research is conducted in tropical rain forests and savannas. 
+To understand the consequences of deforestation, habitat fragmentation, climate change, and other human activities for plant-animal interactions and plant population dynamics. While we work in many ecosystems, most of our research is conducted in tropical rain forests and savannas. 

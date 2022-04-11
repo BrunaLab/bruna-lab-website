@@ -7,32 +7,31 @@ main:
   - name: Home
     url: '#hero'
     weight: 10
-  - identifier : "Our Team1"
-    name: "Emilio M. Bruna"
+  # - identifier : "Emilio M. Bruna"
+  - name: "Emilio M. Bruna"
     url: "#about"
-    parent: "Our Team"
-    weight: 1
-  - identifier: "Our Team2"
-    name: "Current Lab Members"
-    url: "#people"
-    parent: "Our Team"
-    weight: 2
-  - identifier: "Our Team3"
-    name: "Lab Alumni"
-    url: "/lab-alumni/lab-alumni"
-    parent: "Our Team"
-    weight: 3
-  - identifier: "Our Team4"
-    name: "Join us"
-    url: "/post/join-us"
-    parent: "Our Team"
-    weight: 4
-  - name: Our Team
-    url: '#about'
+    # parent: "Our Team"
     weight: 20
+  - name: "Lab Members"
+    url: "#people"
+    # parent: "Our Team"
+    weight: 30
+  # - identifier: "Our Team3"
+  #   name: "Lab Alumni"
+  #   url: "/lab-alumni/lab-alumni"
+  #   parent: "Our Team"
+  #   weight: 3
+  # - identifier: "Our Team4"
+  #   name: "Join us"
+  #   url: "/post/join-us"
+  #   parent: "Our Team"
+  #   weight: 4
+  # - name: Our Team
+  #   url: '#about'
+  #   weight: 20
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 40
   # - name: Talks
   #   url: '#talks'
   #   weight: 30
@@ -48,13 +47,13 @@ main:
   #   weight: 2
   - name: Publications
     url: '#publications'
-    weight: 40
+    weight: 50
   - name: Courses
     url: courses/
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
   # - name: Posts
   #   url: '#posts'
   #   weight: 70

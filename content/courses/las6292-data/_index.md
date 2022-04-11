@@ -6,7 +6,7 @@ title: "\U0001F4CA Data Collection & Management (LAS 6292)"
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured.png" >}}
 
 {{< toc hide_on="xl" >}}
 
@@ -31,13 +31,13 @@ I believe there is no better way to learn than by doing, which is why this cours
 All students will clean and organize real data sets — ideally their own — and prepare a data collection and management plan for their research projects. 
 
 
-## Topics Covered
+<!-- ## Topics Covered
 
 {{< list_children >}}
 
 ## Meet your instructor
 
-{{< mention "admin" >}}
+{{< mention "admin" >} -->}
 
 ## FAQs
 
@@ -57,6 +57,6 @@ This course was created for students in the TCD and MALAS program, whose multidi
 This course is in the _TCD Methods_ category, so PhD students earning the TCD concentration can count this course towards their contration requirements.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Limnk to Course Website" cta_link="https://las6292.netlify.app/" >}}
 
 

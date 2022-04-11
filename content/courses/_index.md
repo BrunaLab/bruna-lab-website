@@ -6,4 +6,4 @@ title: "\U0001F4DA Courses"
 type: page
 ---
 
-Below are links for each of my course sites. If you have any questions, feel free to send me a message using the "Contact" page on the main menu.
+For information on the courses I teach follow the links below. If you have any questions, you can send me a message using the "Contact" page on the main menu.

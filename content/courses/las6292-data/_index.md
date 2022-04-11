@@ -12,7 +12,7 @@ type: book
 
 ## Course Objectives  
 
-This course is designed for graduate students from any discipline – social sciences, humanities, biophysical sciences – and at all stages of their graduate program. It is an introduction to methods for collecting, organizing, managing, and visualizing both qualitative and quantitative data. Students will gain hands-on experience with best practices and tools; **_at the conclusion of this course students will be able to:_**
+This course is for graduate students from any discipline – social sciences, humanities, biophysical sciences – and at all stages of their graduate program. It is an introduction to methods for collecting, organizing, managing, and visualizing both qualitative and quantitative data. Students will gain hands-on experience with best practices and tools; **_at the conclusion of this course students will be able to:_**
 
 - Describe the different types of research data;
 - Explain the need for and benefits of data management and sharing;

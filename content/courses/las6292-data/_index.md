@@ -24,11 +24,11 @@ This course is designed for graduate students from any discipline – social sci
 - Create and Implement and a Data Management Plan;  
 - Identify and properly use tools and techniques for more efficient and secure data collection in the field.  
 
-## Course format
+<!--- ## Course format
 
 I believe there is no better way to learn than by doing, which is why this course is taught (mostly) using active learning approaches. Students are expected to complete each week’s assigned reading or watch brief video lectures prior class. The in-class session will typically include an opportunity for students to ask questions about the pre-class materials and for the instructor to briefly summarize material or demonstrate challenging concepts. Occasionally there will be a class discussion about the assigned reading. However, most of each class session will be spent working individually or in small groups on exercises that reinforce that week’s concepts and techniques. Throughout the session I will be circulating between groups to assist with the assignment, work though mistakes, and discuss how the techniques can be applied to each student’s research.
 
-All students will clean and organize real data sets — ideally their own — and prepare a data collection and management plan for their research projects. 
+All students will clean and organize real data sets — ideally their own — and prepare a data collection and management plan for their research projects. --->
 
 
 <!-- ## Topics Covered

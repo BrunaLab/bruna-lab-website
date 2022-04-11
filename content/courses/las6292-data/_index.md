@@ -57,6 +57,6 @@ This course was created for students in the TCD and MALAS program, whose multidi
 This course is in the _TCD Methods_ category, so PhD students earning the TCD concentration can count this course towards their contration requirements.
 {{< /spoiler >}}
 
-{{< cta cta_text="Limnk to Course Website" cta_link="https://las6292.netlify.app/" >}}
+{{< cta cta_text="Link to Course Website" cta_link="https://las6292.netlify.app/" >}}
 
 

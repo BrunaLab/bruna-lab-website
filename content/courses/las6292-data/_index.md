@@ -37,7 +37,7 @@ All students will clean and organize real data sets — ideally their own — an
 
 ## Meet your instructor
 
-{{< mention "admin" >} -->}
+{{< mention "admin" >}} -->
 
 ## FAQs
 

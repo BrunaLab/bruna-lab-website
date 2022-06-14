@@ -6,3 +6,4 @@
 Thumbs.db
 /resources/
 /public/
+.hugo_build.lock

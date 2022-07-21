@@ -5,6 +5,7 @@ summary: Graduate, 3 credits, Spring Semester (even years)
 # title: "\U0001F4CA Data Collection & Management (LAS 6292)"
 title: "Data Collection & Management (LAS 6292)"
 type: book
+weight: 10
 ---
 
 {{< toc hide_on="xl" >}}

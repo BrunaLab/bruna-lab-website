@@ -4,6 +4,7 @@ linkTitle: Quest 2 - The Future of Rain Forests (IDS 2935)
 summary: Undergraduate, 3 credits, Fall Semester (annually) 
 title: "The Future of Rain Forests (IDS 2935)"
 type: book
+weight: 20
 ---
 
 {{< figure src="featured.jpeg" >}}

@@ -4,6 +4,7 @@ linkTitle: Fundraising for Tropical Conservation & Development (LAS 6291)
 summary: Graduate, 3 credits, Spring Semester (odd years) 
 title: "Fundraising for Tropical Conservation & Development (LAS 6291)"
 type: book
+weight: 30
 ---
 
 {{< figure src="featured.jpeg" >}}

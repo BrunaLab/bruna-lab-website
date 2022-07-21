@@ -2,7 +2,8 @@
 date: "2021-01-24"
 linkTitle: Data Collection & Management (LAS 6292)
 summary: Graduate, 3 credits, Spring Semester (even years) 
-title: "\U0001F4CA Data Collection & Management (LAS 6292)"
+# title: "\U0001F4CA Data Collection & Management (LAS 6292)"
+title: "Data Collection & Management (LAS 6292)"
 type: book
 ---
 

@@ -2,11 +2,11 @@
 date: "2021-01-24"
 linkTitle: Quest 2 - The Future of Rain Forests (IDS 2935)
 summary: Undergraduate, 3 credits, Fall Semester (annually) 
-title: "\U0001F4CA The Future of Rain Forests (IDS 2935)"
+title: "The Future of Rain Forests (IDS 2935)"
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured.jpeg" >}}
 
 {{< toc hide_on="xl" >}}
 
@@ -19,4 +19,3 @@ Students will explore these questions by reading and discussing a research studi
 
 {{< cta cta_text="Link to Course Website" cta_link="https://ids2935.netlify.app/" >}}
 
-{{< figure src="featured.jpeg" >}}

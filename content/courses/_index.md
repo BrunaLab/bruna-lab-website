@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: "\U0001F4DA Courses"
+title: "Courses"
 type: page
 ---
 

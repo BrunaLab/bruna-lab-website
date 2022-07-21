@@ -2,7 +2,7 @@
 date: "2021-01-24"
 linkTitle: Fundraising for Tropical Conservation & Development (LAS 6291)
 summary: Graduate, 3 credits, Spring Semester (odd years) 
-title: "\U0001F4CA Fundraising for Tropical Conservation & Development (LAS 6291)"
+title: "Fundraising for Tropical Conservation & Development (LAS 6291)"
 type: book
 ---
 
@@ -26,17 +26,13 @@ Many of the graduates from the Tropical Conservation and Development program wor
 There are no prerequisites other than graduate student standing
 {{< /spoiler >}}
 
-{{< spoiler text="Can I take the class if I have no prior programming experience?" >}}
-YES! I assume you have no prior experience with programming
-{{< /spoiler >}}
-
 {{< spoiler text="Is this course for students from particular disciplines?" >}}
-This course was created for students in the TCD and MALAS program, whose multidisciplinary projects often require collecting a combination of quantitative and qualitative data. It is appropriate for students from *all* fields: biophysical sciences, social sciences, humanities, education, journalism, etc. 
+This course was created for students in the TCD and MALAS program, whose multidisciplinary projects often require creative fundraising. It is appropriate for students from *all* fields: biophysical sciences, social sciences, humanities, education, journalism, etc. 
 {{< /spoiler >}}
 
 {{< spoiler text="Does this course count towards the TCD concentration?" >}}
-This course is in the _TCD Methods_ category, so PhD students earning the TCD concentration can count this course towards their contration requirements.
+This course is in the _TCD Methods_ category, so PhD students earning the TCD concentration can count this course towards their concentration.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+# {{< cta cta_text="Begin the course" cta_link="python" >}}
 

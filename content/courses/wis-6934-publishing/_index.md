@@ -7,7 +7,7 @@ title: "Scientific Publishing Workshop (WIS 6934)"
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured.jpeg" >}}
 
 {{< toc hide_on="xl" >}}
 

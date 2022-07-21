@@ -7,7 +7,7 @@ title: "Tropical Wildlife Ecology & Conservation (WIS 3434)"
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured.jpeg" >}}
 
 {{< toc hide_on="xl" >}}
 

@@ -58,5 +58,5 @@ This course is in the _TCD Methods_ category, so PhD students earning the TCD co
 
 {{< cta cta_text="Link to Course Website" cta_link="https://las6292.netlify.app/" >}}
 
-{{< figure src="featured.png" >}}
+{{< figure src="featured.jpeg" >}}
 

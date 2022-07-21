@@ -26,6 +26,8 @@ out.width: "100%"
 
 ## Postdoctoral Scholars  
 
+- **Eric Scott:** Lagged effects of climate and habitat fragmentation on *H. acuminata* demography.  Currently a Scientific Programmer & Educator at University of Arizona, College of Agriculture and Life Sciences.
+
 - **Maria Rosa Darrigo: ** *Science Without Borders Postdoctoral Fellow*, Variation in avian dispersal ability and *H. acuminata* demography. 
 
 - **Paul Gagnon:** The cumulative effects of chronically reduced plant growth in forest fragments. Currently an Ecologist / Social Scientist for the US Army Corps of Engineers, Institute for Water Resources.

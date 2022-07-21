@@ -1,7 +1,7 @@
 ---
 title: Eric R. Scott
 role: Postdoctoral Researcher
-user_groups: ["Current Lab Members"]
+user_groups: ["Alumni"]
 social:
 # - icon: envelope
 #   icon_pack: fas

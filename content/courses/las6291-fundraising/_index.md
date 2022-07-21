@@ -12,9 +12,7 @@ type: book
 
 ## Course Objectives  
 Many of the graduates from the Tropical Conservation and Development program work outside of traditional academia in non-profit organizations, research institutes, or consulting.  Even those in academia are confronted with raising funds for programs that fall outside of the standard research grant proposal model. Traditional graduate student courses in conservation and development do not address the practical and critical skill of developing and funding programs. The objectives of this course are (1) to introduce students to the diverse set of private and public sources for funding their activities (2) to develop the skills needed to fundraise from these sources, including the development of donor profiles, constructing fundraising plans, applying fundraising strategies and tactics, and understanding ethical and legal issues surrounding fundraising. Students will learn by doing: all students will (1) develop and implement a fund-raising project focused on their work and (2) work as a group to develop a fundraising plan for an organization.
-## Topics Covered
 
-{{< list_children >}}
 
 ## Meet your instructor
 

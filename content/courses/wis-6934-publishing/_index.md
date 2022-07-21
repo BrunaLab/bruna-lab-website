@@ -25,9 +25,6 @@ COURSE OBJECTIVES:  This course covers (1) the process by which scientific artic
 *	Describe emerging trends, developments, and innovations in scientific publishing
 Students will learn by doing! All course participants will work on their own manuscripts and work in collaboration with other students to conduct a Metascience research project.  
 
-## Topics Covered
-
-{{< list_children >}}
 
 ## Meet your instructor
 

@@ -6,7 +6,7 @@ title: "Fundraising for Tropical Conservation & Development (LAS 6291)"
 type: book
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured.jpeg" >}}
 
 {{< toc hide_on="xl" >}}
 
@@ -20,7 +20,7 @@ Many of the graduates from the Tropical Conservation and Development program wor
 
 {{< mention "admin" >}}
 
-## FAQs
+## FAQs  
 
 {{< spoiler text="Are there prerequisites?" >}}
 There are no prerequisites other than graduate student standing
@@ -33,6 +33,4 @@ This course was created for students in the TCD and MALAS program, whose multidi
 {{< spoiler text="Does this course count towards the TCD concentration?" >}}
 This course is in the _TCD Methods_ category, so PhD students earning the TCD concentration can count this course towards their concentration.
 {{< /spoiler >}}
-
-# {{< cta cta_text="Begin the course" cta_link="python" >}}
 

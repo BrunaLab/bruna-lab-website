@@ -61,4 +61,6 @@ I use field experiments, long-term demographic studies, mathematical models, and
 
 I currently serve as Past-President of the [Association for Tropical Biology & Conservation](https://tropicalbiology.org/) and Secretary of the [Ecological Society of America](https://www.esa.org/).
 
+[_Curriculuum vitae_](https://github.com/BrunaLab/EmilioMBruna_CV/blob/32b7770e51fd9a927dfca58ed1963227959d031d/EmilioMBruna_CV.pdf)
+
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EmilioMBruna_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

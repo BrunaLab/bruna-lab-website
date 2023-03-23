@@ -63,4 +63,4 @@ I currently serve as Past-President of the [Association for Tropical Biology & C
 
 <!---[_Curriculuum vitae_](https://nbviewer.org/github/BrunaLab/EmilioMBruna_CV/blob/32b7770e51fd9a927dfca58ed1963227959d031d/EmilioMBruna_CV.pdf) --->
 
-{{< icon name="download" pack="fas" >}} {{< staticref "https://nbviewer.org/github/BrunaLab/EmilioMBruna_CV/blob/32b7770e51fd9a927dfca58ed1963227959d031d/EmilioMBruna_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "https://brunalab.github.io/EmilioMBruna_CV/EmilioMBruna_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

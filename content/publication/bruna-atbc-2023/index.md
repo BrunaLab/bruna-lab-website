@@ -2,7 +2,7 @@
 title = "Climate change & understory plant demography: Assessing the relative effects of forest fragmentation and drought frequency on population viability"
 date = "2023-07-06"
 authors = ["Emilio M. Bruna", "Eric Scott", "Maria Uriarte", "Katia Ferraz"]
-publication_types = ["2"]
+publication_types = ["1"]
 publication = "ATBC 2023 Presentation"
 publication_short = "ATBC 2023 Presentation"
 abstract = "Introduction: The local extinction of species from tropical forest fragments is common; although the demographic mechanisms underlying these extinctions are rarely known, many of them are thought to be driven by reduced rates of individual growth, reproduction, or survivorship. Species in fragmented landscapes must also cope with climate change, whose effects may be particularly acute in tropical ecosystems. While studies assessing the demographic responses of plants to droughts are increasingly common, almost none have been conducted in fragmented landscapes. Those that have typically assess the consequences of only a single drought, so it is unknown if the observed results are typical or an artefact of drought severity. Furthermore, studies of how tropical plants respond to fragmentation or drought typically focus on a limited set of demographic stages (e.g., adults, seedlings). However, without considering multiple life-history stages simultaneously it is challenging to predict how disturbances, either independently or in concert, influence population dynamics and extinction risk. 

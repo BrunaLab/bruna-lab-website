@@ -1,7 +1,7 @@
 +++
 title = "2022 ATBC Honorary Fellows"
 date = "2022-01-01"
-authors = ["Bruna, E., Powers, J.S. and Lohmann, L.G."]
+authors = ["E. M. Bruna", "J. S. Powers", "L. G. Lohmann"]
 publication_types = ["2"]
 publication = "Biotropica, 54: 1521-1522. https://doi.org/10.1111/btp.13170"
 publication_short = "Biotropica, 54: 1521-1522. https://doi.org/10.1111/btp.13170"

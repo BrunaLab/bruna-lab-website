@@ -1,7 +1,7 @@
 +++
-title = "Priorities for Synthesis Research in Ecology and Environmental Science”
+title = "Priorities for Synthesis Research in Ecology and Environmental Science"
 date = "2023-01-01"
-authors = ["Halpern, Benjamin S., Boettiger, Carl, Dietze, Michael C., Gephart, Jessica A., Gonzalez, Patrick, Grimm, Nancy B., Groffman, Peter M., et al. "]
+authors = ["Benjamin S Halpern", "Carl Boettiger", "Michael C Dietze", "Jessica A Gephart", "Patrick Gonzalez", "Nancy B Grimm", "Peter M Groffman", "et al"]
 publication_types = ["2"]
 publication = "Ecosphere 14(1): e4342. https://doi.org/10.1002/ecs2.4342"
 publication_short = "Ecosphere 14(1): e4342. https://doi.org/10.1002/ecs2.4342"

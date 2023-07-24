@@ -1,7 +1,7 @@
 ---
 title: Thomas Smith
 role: Ph.D. Student
-user_groups: ["Current Lab Members"]
+user_groups: ["Alumni"]
 social:
 # - icon: envelope
 #   icon_pack: fas

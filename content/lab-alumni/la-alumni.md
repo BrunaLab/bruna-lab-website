@@ -28,7 +28,7 @@ out.width: "100%"
 
 - **Eric Scott:** Lagged effects of climate and habitat fragmentation on *H. acuminata* demography.  
 
-- **Maria Rosa Darrigo: ** *Science Without Borders Postdoctoral Fellow*, Variation in avian dispersal ability and *H. acuminata* demography. 
+- **Maria Rosa Darrigo:** *Science Without Borders Postdoctoral Fellow*, Variation in avian dispersal ability and *H. acuminata* demography. 
 
 - **Paul Gagnon:** The cumulative effects of chronically reduced plant growth in forest fragments. 
  

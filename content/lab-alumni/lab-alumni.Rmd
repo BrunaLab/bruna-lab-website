@@ -26,61 +26,62 @@ out.width: "100%"
 
 ## Postdoctoral Scholars  
 
-- **Eric Scott:** Lagged effects of climate and habitat fragmentation on *H. acuminata* demography.  Currently a Scientific Programmer & Educator at University of Arizona, College of Agriculture and Life Sciences.
+- **Eric Scott:** Lagged effects of climate and habitat fragmentation on *H. acuminata* demography.  
 
 - **Maria Rosa Darrigo: ** *Science Without Borders Postdoctoral Fellow*, Variation in avian dispersal ability and *H. acuminata* demography. 
 
-- **Paul Gagnon:** The cumulative effects of chronically reduced plant growth in forest fragments. Currently an Ecologist / Social Scientist for the US Army Corps of Engineers, Institute for Water Resources.
+- **Paul Gagnon:** The cumulative effects of chronically reduced plant growth in forest fragments. 
  
-- **Heather Passmore:** Effect of forest fragmentation on the structure of Amazonian ant-plant mutualist networks. Currently a Senior Data Scientist at GreatSchools.org.
+- **Heather Passmore:** Effect of forest fragmentation on the structure of Amazonian ant-plant mutualist networks. 
  
-- **Thiago Izzo:** Population dynamics of ant-plant mutualist systems.  Currently a Professor at the Universidade Federal de Mato Grosso in Brazil.
+- **Thiago Izzo:** Population dynamics of ant-plant mutualist systems.  
 
 ## Students
 
-- **Fabiane Mundim**, Ph.D. in Wildlife Ecology & Conservation, 2016  
-Fabiane's research was on above- and below-ground plant-herbivore interactions and how they are influenced by climate change. She did her field work in Brazil's Cerrado.
+- **Thomas Smith**, Ph.D. in Wildlife Ecology & Conservation, 2023.  
+Matrix effects on movement and population dynamics in experimentally fragmented systems. _Co-advised with Dr. Robert Fletcher._
 
-- **Ernane Vieira-Neto**, Ph.D. in Wildlife Ecology & Conservation, 2016  
-Ernane's research was on how the expansion of road networks in Brazil's Cerrado influences the demography and spread of leaf-cutter ants.
+- **Fabiane Mundim**, Ph.D. in Wildlife Ecology & Conservation, 2016.  
+Above- and below-ground plant-herbivore interactions in Brazil's Cerrado and how they are influenced by climate change. 
 
-- **Elan Simon Parsons**, MA in Latin American Studies, 2018
-Simon's research was on the prevalence and functional form of edge-effects in fragmented landscapes.
+- **Ernane Vieira-Neto**, Ph.D. in Wildlife Ecology & Conservation, 2016.    
+The influence of the expansion of road networks in Brazil's Cerrado on the demography and spread of leaf-cutter ants.
+
+- **Elan Simon Parsons**, MA in Latin American Studies, 2018.  
+Prevalence and functional form of edge-effects in fragmented landscapes.
 
 - **Ana Cecilia Silva**, M.A. Student in Latin American Studies, 2015.  
-Ana Cecilia completed her BA in Anthropology at the University of Florida with a minor in German. He MA thesis was on how Brazilian’s attitudes regarding extensive executive power influence support for affirmative action.
+How Brazilian’s attitudes regarding extensive executive power influence support for affirmative action.
 
 - **Paulo Rubim**, Ph.D., Universidade Federal de São Carlos, 2013  
-Paulo completed his BS and MSc at UNESP where he studied the phenology of Atlantic forest tree species. His Ph.D. was on factors influencing Heliconia acuminata distribution and reproduction at multiple spatial scales. I co-advised Paulo with Dr. Dalva Mattos.
+Factors influencing _Heliconia acuminata_ distribution and reproduction at multiple spatial scales. _Co-advised with Dr. Dalva Mattos_.
 
 - **Cris Follman Jurinitz**, Ph.D. in Ecology, Universidade de São Paulo, 2012  
-Cris studied tree demography in primary and regenerating Atlantic rain forests. I co-advised Cris with Alexandre Oliveira
+Tree demography in primary and regenerating Atlantic rain forests. _Co-advised with Dr. Alexandre Oliveira._
 
-- **Christine Lucas**, Ph.D. in WEC & TCD, 2010  
-Christine did her research on how flooding and disturbance from cattle ranching influence the regeneration of Varzea forests in the Brazilian Amazon. She is currently a faculty member at the Universidad de la República (Uruguay).
+- **Christine Lucas**, Ph.D. in Wildlife Ecology & Conservation, 2010.
+Influence of flooding and disturbance from cattle ranching on the regeneration of _Varzea_ forests in the Brazilian Amazon. 
 
-- **Stella Copeland**, M.S. in WEC, 2009  
-Stella’s thesis was on how nitrogen enrichment and simulated changes in precipitation influenced two Cerrado grasses. She went on to complete her Ph.D. at UC Davis with Dr. Susan Harrison.
+- **Stella Copeland**, M.S. in WEC, 2009.  
+Effect of nitrogen enrichment and simulated changes in precipitation on two _Cerrado_ grasses. 
 
-- **Gwen Iacona**, M.S. in WEC, 2008  
-Gwen was co-advised with Dr. Kay Kirkman at the Jones Ecological Research Center. Her research was on seedling establishment along productivity gradients in Longleaf Pine savannas. She completed her Ph.D. at the University of Tennessee, and is now a Postdoc in Australia with Dr. High Possingham's group.
+- **Gwen Iacona**, M.S. in WEC, 2008.  
+Seedling establishment along productivity gradients in Longleaf Pine savannas. _Co-advised with Dr. Kay Kirkman, Jones Ecological Research Center_. 
 
 - **Pedro Braunger**, M.S. in Biology, Universidade Federal de Uberlândia  
-Pedro studied investigated how roads influenced the diversity of cerrado plant communities. He is currently a PhD. student at the University of Brasilia and a member of the Military Police of the Distrito Federal, Brazil.
+Effect of roads on the diversity of _Cerrado_ plant communities. 
 
 - **Alana Vaz Ferreira**, M.S. in Biology, Universidade Federal de Uberlandia, 2007  
-Alana studied seed predation by ants, birds, and rodents in Brazil’s Cerrado. She is currently a member of the State Police in Minas Gerais, Brazil
+Seed predation by ants, birds, and rodents in Brazil’s _Cerrado_. 
 
 - **Ian Fiske**, M.S. in WEC, 2006  
-Ian studied sampling in plant demographic studies and the implications of alternative approaches for matrix model projections. He completed a PhD in Statistics at NCSU and now works as a Data Scientists in Jacksonville, FL.
+Sampling in plant demographic studies and the implications for matrix model projections.
 
 - **Matthew Trager**, M.S. in SNRE, 2006  
-Matt's thesis was on the effects of nutrient manipulation on ant-plant mutualisms. He completed a PhD with Dr. Jaret Daniels and is now wit the US Forest Service.
+The effects of nutrient manipulation on ant-plant mutualisms. 
 
 - **Maria Beatriz Nogueira Ribeiro**, M.S. in Ecology, Universidade de São Paulo, 2005  
-Bia's thesis research was on plant regeneration in Amazonian secondary forests. She worked at the Biological Dynamics of Forest Fragments Project.
-
-
+Plant regeneration in Amazonian secondary forests. 
 
 
 ## Visiting Graduate Students
@@ -92,7 +93,7 @@ Bia's thesis research was on plant regeneration in Amazonian secondary forests. 
 - **Rodolfo de Abreu**, USP-ESALQ  
 - **Simone Athayde**, Instituto Socioambiental  
 - **Rita Quitete Portela**, UNICAMP  
-- **Camilla Castanh**o, Universidade de São Paulo  
+- **Camilla Castanho**, Universidade de São Paulo  
 
 ## Sabbatical Visitors
 

@@ -1,17 +1,17 @@
 +++
 title = "Employing plant functional groups to advance seed dispersal ecology and conservation"
 date = "2019-01-01"
-authors = ["Clare Aslan", "Noelle G Beckman", "Haldre S Rogers", "Judie Bronstein", "Damaris Zurell", "Florian Hartig", "Katriona Shea", "Liba Pejchar", "Mike Neubert", "John Poulsen", "Janneke HilleRisLambers", "Maria Miriti", "Bette Loiselle", "Edu Effiom", "Jenny Zambrano", "Geno Schupp", "Gesine Pufal", "Jeremy Johnson", "James M Bullock", "Jedediah Brodie", "Emilio Bruna", "Robert Stephen Cantrell", "Robin Decker", "Evan Fricke", "Katie Gurski", "Alan Hastings", "Oleg Kogan", "Onja Razafindratsima", "Manette Sandor", "Sebastian Schreiber", "Rebecca Snell", "Christopher Strickland", "Ying Zhou"]
+authors = ["Clare Aslan", "Noelle G. Beckman", "Haldre S. Rogers", "Judie Bronstein", "Damaris Zurell", "Florian Hartig", "Katriona Shea", "Liba Pejchar", "Mike Neubert", "John Poulsen", "Janneke HilleRisLambers", "Maria Miriti", "Bette Loiselle", "Edu Effiom", "Jenny Zambrano", "Geno Schupp", "Gesine Pufal", "Jeremy Johnson", "James M. Bullock", "Jedediah Brodie", "Emilio Bruna", "Robert Stephen Cantrell", "Robin Decker", "Evan Fricke", "Katie Gurski", "Alan Hastings", "Oleg Kogan", "Onja Razafindratsima", "Manette Sandor", "Sebastian Schreiber", "Rebecca Snell", "Christopher Strickland", "Ying Zhou"]
 publication_types = ["2"]
-publication = "AoB PLANTS, (11), 2, https://doi.org/10.1093/aobpla/plz006"
-publication_short = "AoB PLANTS, (11), 2, https://doi.org/10.1093/aobpla/plz006"
-abstract = "Seed dispersal enables plants to reach hospitable germination sites and escape natural enemies. Understanding when and how much seed dispersal matters to plant fitness is critical for understanding plant population and community dynamics. At the same time, the complexity of factors that determine if a seed will be successfully dispersed and subsequently develop into a reproductive plant is daunting. Quantifying all factors that may influence seed dispersal effectiveness for any potential seed-vector relationship would require an unrealistically large amount of time, materials and financial resources. On the other hand, being able to make dispersal predictions is critical for predicting whether single species and entire ecosystems will be resilient to global change. Building on current frameworks, we here posit that seed dispersal ecology should adopt plant functional groups as analytical units to reduce this complexity to manageable levels. Functional groups can be used to distinguish, for their constituent species, whether it matters (i) if seeds are dispersed, (ii) into what context they are dispersed and (iii) what vectors disperse them. To avoid overgeneralization, we propose that the utility of these functional groups may be assessed by generating predictions based on the groups and then testing those predictions against species-specific data. We suggest that data collection and analysis can then be guided by robust functional group definitions. Generalizing across similar species in this way could help us to better understand the population and community dynamics of plants and tackle the complexity of seed dispersal as well as its disruption."
+publication = "Aob Plants, (11), 2"
+publication_short = "Aob Plants, (11), 2"
+abstract = "NA"
 abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://doi.org/10.1093/aobpla/plz006"
+url_pdf = "NA"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

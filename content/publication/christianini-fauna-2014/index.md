@@ -1,10 +1,10 @@
 +++
 title = "Fauna in decline: Meek shall inherit"
 date = "2014-01-01"
-authors = ["Alexander V. Christianini", "Paulo S. Oliveira", "Emilio M. Bruna", "Heraldo L. Vasconcelos"]
+authors = ["A. V. Christianini", "P. S. Oliveira", "E. M. Bruna", "H. L. Vasconcelos"]
 publication_types = ["2"]
-publication = "Science, (345), 6201, _pp. 1129--1129_, https://doi.org/10.1126/science.345.6201.1129-a"
-publication_short = "Science, (345), 6201, _pp. 1129--1129_, https://doi.org/10.1126/science.345.6201.1129-a"
+publication = "Science (New York, N.Y.), (345), 6201, _pp. 1129--1129_"
+publication_short = "Science (New York, N.Y.), (345), 6201, _pp. 1129--1129_"
 abstract = "NA"
 abstract_short = ""
 image_preview = ""

@@ -1,17 +1,17 @@
 +++
-title = "Cryptic Species of Pacific Skinks (Emoia): Further Support from Mitochondrial DNA Sequences"
+title = "Cryptic species of Pacific skinks (Emoia): Further support from mitochondrial DNA sequences"
 date = "1995-01-01"
-authors = ["Emilio M. Bruna", "Robert N. Fisher", "Ted J. Case"]
+authors = ["E. M. Bruna", "R. N. Fisher", "T. J. Case"]
 publication_types = ["2"]
-publication = "Copeia, (1995), 4, _pp. 981_, https://doi.org/10.2307/1447050"
-publication_short = "Copeia, (1995), 4, _pp. 981_, https://doi.org/10.2307/1447050"
+publication = "Copeia, (1995), 4, _pp. 981--983_"
+publication_short = "Copeia, (1995), 4, _pp. 981--983_"
 abstract = "NA"
 abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://www.jstor.org/stable/1447050?origin=crossref"
+url_pdf = "NA"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

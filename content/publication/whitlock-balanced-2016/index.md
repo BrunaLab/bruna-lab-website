@@ -1,17 +1,17 @@
 +++
 title = "A Balanced Data Archiving Policy for Long-Term Studies"
 date = "2016-01-01"
-authors = ["Michael C. Whitlock", "Judith L. Bronstein", "Emilio M. Bruna", "Aaron M. Ellison", "Charles W. Fox", "Mark A. McPeek", "Allen J. Moore", "Mohamed A.F. Noor", "Mark D. Rausher", "Loren H. Rieseberg", "Michael G. Ritchie", "Ruth G. Shaw"]
+authors = ["M. C. Whitlock", "J. L. Bronstein", "E. M. Bruna", "A. M. Ellison", "C. W. Fox", "M. A. McPeek", "A. J. Moore", "M. A. F. Noor", "M. D. Rausher", "L. H. Rieseberg", "M. G. Ritchie", "R. G. Shaw"]
 publication_types = ["2"]
-publication = "Trends in Ecology and Evolution, (31), 2, _pp. 84--85_, https://doi.org/10.1016/j.tree.2015.12.001"
-publication_short = "Trends in Ecology and Evolution, (31), 2, _pp. 84--85_, https://doi.org/10.1016/j.tree.2015.12.001"
+publication = "Trends in Ecology \\& Evolution, (31), 2, _pp. 84--85_"
+publication_short = "Trends in Ecology \\& Evolution, (31), 2, _pp. 84--85_"
 abstract = "NA"
 abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://linkinghub.elsevier.com/retrieve/pii/S0169534715002980"
+url_pdf = "NA"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

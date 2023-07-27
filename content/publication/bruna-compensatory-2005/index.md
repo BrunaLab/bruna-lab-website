@@ -1,17 +1,17 @@
 +++
-title = "The compensatory responses of an understory herb to experimental damage are habitat‐dependent"
+title = "The compensatory responses of an understory herb to experimental damage are habitat-dependent"
 date = "2005-01-01"
-authors = ["Emilio M. Bruna", "Maria Beatriz Nogueira Ribeiro"]
+authors = ["E. M. Bruna", "M. B. Nogueria Ribeiro"]
 publication_types = ["2"]
-publication = "American Journal of Botany, (92), 12, _pp. 2101--2106_, https://doi.org/10.3732/ajb.92.12.2101"
-publication_short = "American Journal of Botany, (92), 12, _pp. 2101--2106_, https://doi.org/10.3732/ajb.92.12.2101"
+publication = "American Journal of Botany, (92), 12, _pp. 2101--210_"
+publication_short = "American Journal of Botany, (92), 12, _pp. 2101--210_"
 abstract = "NA"
 abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://onlinelibrary.wiley.com/doi/10.3732/ajb.92.12.2101"
+url_pdf = "NA"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

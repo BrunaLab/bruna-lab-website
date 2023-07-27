@@ -1,17 +1,17 @@
 +++
-title = "Volume and Geographical Distribution of Ecological Research in the Andes and the Amazon, 1995–2008"
+title = "Volume and geographical distribution of ecological research in the Andes and the Amazon, 1995-2008."
 date = "2011-01-01"
-authors = ["Nigel C. A. Pitman", "Jocelyn Widmer", "Clinton N. Jenkins", "Gabriela Stocks", "Lisa Seales", "Franklin Paniagua", "Emilio M. Bruna"]
+authors = ["N. C. A. Pitman", "J. Widmer", "C. N. Jenkins", "G. Stocks", "L. Seales", "F. Paniagua", "E. M. Bruna"]
 publication_types = ["2"]
-publication = "Tropical Conservation Science, (4), 1, _pp. 64--81_, https://doi.org/10.1177/194008291100400107"
-publication_short = "Tropical Conservation Science, (4), 1, _pp. 64--81_, https://doi.org/10.1177/194008291100400107"
-abstract = "The Andes range and the Amazon basin represent the most diverse biological community on earth and the largest tropical forest on earth, respectively, but they are historically understudied by biologists. In this paper we provide the first quantitative description of the volume and geographical distribution of ecological research in these regions. We compiled a dataset of all articles based on the Andes and Amazon regions published in two prominent international tropical ecology journals between 1995 and 2008. During this period, the number of scientific articles based on research in the Amazon was half that based on research in Central America, while the Andes scored among the least-studied of all tropical regions. Brazil was the leading base for Amazonian studies and Ecuador the primary location for Andean studies, but Ecuador led both categories and Brazil came last when research effort was standardized by area. Most Amazonian research took place in three regions—Manaus, southeastern Peru, and eastern Ecuador—with \textasciitilde31 percent of all papers coming from four field stations in those regions. Andean research focused overwhelmingly on the northern Andes. Research in the Andes range and the Amazon basin remains scattered, patchy, and far below its potential. We propose steps that funding agencies can take to increase research output and reduce geographical bias in the study of South America's richest ecosystems."
+publication = "Tropical Conservation Science, (4), 1, _pp. 64--81_"
+publication_short = "Tropical Conservation Science, (4), 1, _pp. 64--81_"
+abstract = "NA"
 abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "http://journals.sagepub.com/doi/10.1177/194008291100400107"
+url_pdf = "NA"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

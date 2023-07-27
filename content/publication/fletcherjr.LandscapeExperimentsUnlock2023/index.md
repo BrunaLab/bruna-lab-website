@@ -1,0 +1,28 @@
++++
+title = "Landscape experiments unlock relationships among habitat loss, fragmentation, and patch-size effects"
+date = "2023-01-01"
+authors = ["Robert J. Fletcher Jr.", "Thomas A. H. Smith", "Nicholas Kortessis", "Emilio M. Bruna", "Robert D. Holt"]
+publication_types = ["2"]
+publication = "Ecology, (104), 5, _pp. e4037_, https://doi.org/10.1002/ecy.4037"
+publication_short = "Ecology, (104), 5, _pp. e4037_, https://doi.org/10.1002/ecy.4037"
+abstract = "Habitat loss is often considered the greatest near-term threat to biodiversity, while the impact of habitat fragmentation remains intensely debated. A key issue of this debate centers on the problem of scale–landscape or patch–at which to assess the consequences of fragmentation. Yet patterns are often confounded across scales, and experimental designs that could solve this scaling problem remain scarce. We conducted two field experiments in 30 experimental landscapes in which we manipulated habitat loss, fragmentation, and patch size for a community of four insect herbivores that specialize on the cactus Opuntia. In the first experiment, we destroyed 2088 Opuntia patches in either aggregated or random patterns and compared the relative effects of landscape-scale loss and fragmentation to those of local patch size on species occurrence. This experiment focused on manipulating the relative separation of remaining patches, where we hypothesized that aggregated loss would disrupt dispersal more than random loss, leading to lower occurrence. In the second experiment, we destroyed 759 Opuntia patches to generate landscapes that varied in patch number and size for a given amount of habitat loss and assessed species occurrence. This experiment focused on manipulating the subdivision of remaining habitat, where we hypothesized that an increase in the number of patches for a given amount of loss would lead to negative effects on occurrence. For both, we expected that occurrence would increase with patch size. We find strong evidence for landscape-scale effects of habitat fragmentation, with aggregated loss and a larger number of patches for a given amount of habitat loss leading to a lower frequency of patches occupied in landscapes. In both experiments, occurrence increased with patch size, yet interactions of patch size and landscape-scale loss and fragmentation drove species occurrence in patches. Importantly, the direction of effects were consistent across scales and effects of patch size were sufficient to predict the effects of habitat loss and fragmentation across entire landscapes. Our experimental results suggest that changes at both the patch and landscape scales can impact populations, but that a long-standing pattern—the patch-size effect—captures much of the key variation shaping patterns of species occurrence."
+abstract_short = ""
+image_preview = ""
+selected = false
+projects = []
+tags = []
+url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4037"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++

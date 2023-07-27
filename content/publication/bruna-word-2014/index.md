@@ -1,10 +1,10 @@
 +++
 title = "A Word from the Editor-in-Chief"
 date = "2014-01-01"
-authors = ["Emilio M. Bruna"]
+authors = ["E. M. Bruna"]
 publication_types = ["2"]
-publication = "Biotropica, (46), 4, _pp. 377--377_, https://doi.org/10.1111/btp.12129"
-publication_short = "Biotropica, (46), 4, _pp. 377--377_, https://doi.org/10.1111/btp.12129"
+publication = "Biotropica, (46), 4, _pp. 377--377_"
+publication_short = "Biotropica, (46), 4, _pp. 377--377_"
 abstract = "NA"
 abstract_short = ""
 image_preview = ""

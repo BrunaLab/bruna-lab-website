@@ -1,7 +1,7 @@
 +++
 title = "Integrating tropical research into biology education is urgently needed"
 date = "2022"
-authors = ["Russell, Ann E", "Aide, T Mitchell", "Braker, Elizabeth", "Bruna, Emilio M", "Ganong, Carissa N","Hardin, Rebecca D","Holl, Karen D", "Hotchkiss, Sara C", and "Klemens, Jeffrey A", "Kuprewicz, Erin K", "McClearn, Deedra", "et al."]
+authors = ["Russell, Ann E", "Aide, T Mitchell", "Braker, Elizabeth", "Bruna, Emilio M", "Ganong, Carissa N","Hardin, Rebecca D","Holl, Karen D", "Hotchkiss, Sara C", "Klemens, Jeffrey A", "Kuprewicz, Erin K", "McClearn, Deedra", "et al."]
 publication_types = ["2"]
 publication = "PLoS Biology, _e3001674_, https://doi.org/10.1371/journal.pbio.3001674"
 publication_short = "PLoS Biology, _e3001674_, https://doi.org/10.1371/journal.pbio.3001674"

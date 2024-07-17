@@ -36,7 +36,8 @@ directions: The Tropical Ecology and Conservation Lab is located at 711 Newell D
 office_hours:
 #   - 'Monday 10:00 to 15:00'
 #   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://embruna.youcanbook.me'
+# appointment_url: 'https://embruna.youcanbook.me'
+appointment_url: 'https://outlook.office365.com/bookwithme/user/2e877188eda54d26be6c678d1b82e9d2@ufl.edu/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink'
 contact_links:
   # - icon: twitter
   #   icon_pack: fab

@@ -1,6 +1,6 @@
 ---
 date: "2021-01-24"
-linkTitle: Quest 2: The Future of Rain Forests (WIS 2323)
+linkTitle: Quest 2 - The Future of Rain Forests (WIS 2323)
 summary: Undergraduate, 3 credits, Fall Semester (annually) 
 title: "The Future of Rain Forests (WIS 2323)"
 type: book

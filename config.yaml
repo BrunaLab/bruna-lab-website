@@ -8,6 +8,8 @@ title: The Bruna Lab | UF # Website name
 baseurl: 'https://academic-demo.netlify.app/' # Website URL
 copyright: '© {year} Emilio M. Bruna' # Footer text, e.g. '© {year} Me'
 logo: "bruna_LOGO.png"
+disableKinds: ["404", "taxonomy", "term"]
+
 # logo = ""
 ############################
 ## LANGUAGE

@@ -18,7 +18,7 @@ tags = ["widgets",
         ]
 features = ["page builder", "widgets", "color themes", "dark mode", "customizable", "filterable portfolio",
             "blog", "create landing pages", "gallery", "contact form"]
-
+disableKinds = ["404", "taxonomy", "term"]
 [author]
   name = "George Cushen"
   homepage = "https://georgecushen.com"

@@ -7,7 +7,7 @@ preview:
 website:
   title: "The Bruna Lab"
   site-url: "https://brunalab.org/"
-  repo-url: "https://github.com/BrunaLab/QuartoBrunaWebsite"
+  repo-url: "https://github.com/BrunaLab/bruna-lab-website"
   favicon: images/bruna-logo-bird.png
   # google-analytics: "UA-177339812-1"
   twitter-card: true
@@ -23,7 +23,7 @@ website:
     #   [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=105px}](https://quarto.org/) 
     right: Made with {{< fa brands r-project size=2x >}} and 
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" height=30px}](https://quarto.org/) <br>
-      Code at {{< fa brands github  size=2x >}}<br>
+      Code at {{< fa brands github href="https://github.com/BrunaLab/bruna-lab-website" size=2x >}}<br>
     
     
       # - icon: github color: fill='#465672' {fig-alt="Quarto" width=105px}

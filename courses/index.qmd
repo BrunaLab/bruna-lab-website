@@ -1,0 +1,12 @@
+---
+title: Current courses
+listing:
+  id: courses
+  type: grid
+page-layout: full
+toc: false
+---
+
+<!-- ### COURSES -->
+
+<!-- For information on the courses I teach follow the links below. If you have any questions, you can send me a message using the "Contact" page on the main menu. -->

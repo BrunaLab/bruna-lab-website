@@ -1,0 +1,18 @@
+---
+title: Current Projects
+listing:
+  id: projects
+  type: grid
+page-layout: full
+# fields: [title, subtitle, image]
+fields: [title, image]
+
+---
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('images/chalkboard_sm.jpg'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+
+<!-- </style> -->

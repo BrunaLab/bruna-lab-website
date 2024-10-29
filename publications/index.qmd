@@ -1,0 +1,23 @@
+---
+pagetitle: "Publications"
+toc: false
+title-block-style: default  # default, plain, none
+listing:
+  - id: articles
+    contents: ../publications/articles/**/*.qmd
+    template: ../_ejs/article.ejs
+    categories: false
+    sort:
+      - "year desc"
+      - "title"
+    sort-ui: [title,author,publication,year]
+    filter-ui: [title,author,publication,year]
+    page-size: 50
+    field-display-names: 
+      publication: "Publication"
+      year: "Year"
+format:
+  html: 
+    fontsize: 0.8em
+---
+

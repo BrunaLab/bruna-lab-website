@@ -1,15 +1,4 @@
-# Bruna Lab Website Repository
+## Welcome to the Bruna Lab Website Repository
 
+This website is built with [Quarto](https://quarto.org), an open source scientific and technical publishing system. It is based on the website created by the [Masiello Group](https://github.com/MasielloGroup/MasielloGroupWebsite), which they graciously made available on Github for others to learn from and use as a template. Note: the `_utils` directory contains helper scripts they created to use when migrating from Wowchemy / Hugo Academic to Quarto.
 
-
-### Resources for troubleshooting & Editing
-* [Wowchemy documentation](https://wowchemy.com/docs/) and [wowchemy themes homepage](https://wowchemy.com/hugo-themes/)
-* [Getting Started by Arnoud Plantinga](https://www.arnoudplantinga.nl/post/getting-started/)
-* [Troubleshooting with Blogdown and Academic theme by Christophe Nicault](https://www.christophenicault.com/post/write_post/)
-* [Managing publications by Emmanuel Teitelbaum](https://www.emmanuelteitelbaum.com/post/managing-pubs-academic-website/)
-* [Automatically importing publications from bibtex to a hugo academic blog by L. Busett](https://lbusett.netlify.app/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/)
-
-### Other Academic theme websites
-* [Bromberg Lab](https://bromberglab.org/)
-* [CICL Lab](https://cicl.stanford.edu/)
-* [Transport Systems Lab](https://transport-systems.imperial.ac.uk)

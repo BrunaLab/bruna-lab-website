@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "641c87e3-6e87-4700-a0e9-993437e26354"
+      url: "https://tropicos.netlify.app/"

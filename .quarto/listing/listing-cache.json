@@ -1,0 +1,16 @@
+{
+  "listingMap": {
+    "publications/index.qmd": [
+      "../publications/articles/**/*.qmd"
+    ],
+    "projects/index.qmd": [
+      "B3049D40"
+    ],
+    "courses/index.qmd": [
+      "B3049D40"
+    ],
+    "people/index.qmd": [
+      "B3049D40"
+    ]
+  }
+}

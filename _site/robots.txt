@@ -1,1 +1,1 @@
-Sitemap: https://brunalab.org/sitemap.xml
+Sitemap: https://tropicos.netlify.app/sitemap.xml

@@ -454,5 +454,8 @@
   },
   "misc-pages/prospectives.qmd": {
     "prospectives.html": "77cd688e"
+  },
+  "people/prospectives.qmd": {
+    "prospectives.html": "51e434f7"
   }
 }

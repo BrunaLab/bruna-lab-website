@@ -1,5 +1,5 @@
 ---
-title: &TITLE Emilio Miguel Bruna
+title: &TITLE Emilio M. Bruna
 last: Bruna
 first: Emilio
 people_group: pi

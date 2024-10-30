@@ -46,16 +46,7 @@ about:
       
 ---
 
-## Research Interests 
-
-- Tropical ecology and conservation
-- Plant population ecology
-- Plant-animal interactions
-- Habitat Fragmentation
-- Amazonia & The Cerrado
-- Scientometrics, Science of Science
-
-<hr>
+<!-- <hr> -->
 
 <!-- {{< ai orcid >}} -->
 <!-- https://github.com/mcanouil/quarto-iconify -->
@@ -81,7 +72,16 @@ I have previously served as President of the [Association for Tropical Biology &
 
 
 
+## Research Interests 
 
+- Tropical ecology and conservation
+- Plant population ecology
+- Plant-animal interactions
+- Habitat Fragmentation
+- Amazonia & The Cerrado
+- Scientometrics, Science of Science
+
+Research Interests: Tropical ecology and conservation, Plant population ecology, Plant-animal interactions, Habitat Fragmentation, Amazonia & The Cerrado, Scientometrics, Science of Science
 <!-- social: -->
 <!-- - icon: envelope -->
 <!--   icon_pack: fas -->

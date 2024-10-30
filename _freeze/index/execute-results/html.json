@@ -1,0 +1,15 @@
+{
+  "hash": "0f48fb1e6cbd77c4a9f0e262f1cdb42a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: 'THE BRUNA LAB | <span style=\"color:#238456\">University of Florida</span>'\n# subtitle: '<span style=\"color:#238456\">University of Florida</span>'\npage-layout: full\n---\n\n<!-- <br> -->\n\n<!-- <div class=\"gradient-text\"> -->\n<!-- <div class=\"welcome-headline\"> -->\n<!-- THE BRUNA LAB -->\n<!-- <!-- <br> -->\n<!-- </div> -->\n<!-- <div class=\"welcome-subheadline\"> -->\n<!-- University of Florida -->\n<!-- </div> -->\n<!-- <br> -->\n\n\n:::: {layout=\"[ 38, 62 ]\"}\n\n::: {#first-column}\n\n**Research in our lab focuses primarily on these three topics: (1) the ecology and conservation of tropical biodiversity, (2) plant population dynamics and plant-animal interactions in fragmented tropical landscapes, and (3) the structure of scientific institutions and networks, and how  these structures influence global patterns of scientific productivity.**\n\n&nbsp;\n&nbsp;\n\n<a class=\"btn btn-primary\" href=\"news/index.qmd\" role=\"button\">The Bruna Lab in the News</a>. \n\n\n<!-- <a class=\"btn btn-outline-primary btn-sm\" href=\"#\" role=\"button\">Link</a>.  -->\n:::\n\n::: {#second-column}\n![](./images/br174.jpg)\n:::\n\n::::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n5+5\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 10\n```\n\n\n:::\n\n```{.r .cell-code}\n#| echo: false\n```\n:::\n\n\n\n<!-- :::: {layout=\"[ 25, 25, 25, 25 ]\"} -->\n\n<!-- ::: {#first-column} -->\n<!-- <!-- ![](./images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png) --> \n<!-- ::: -->\n\n<!-- ::: {#second-column} -->\n<!-- <!-- ![](./images/wec.png) --> \n<!-- ::: -->\n\n<!-- ::: {#third-column} -->\n<!-- <!-- ![](./images/bitr.png) -->\n<!-- ::: -->\n\n<!-- ::: {#fourth-column} -->\n<!-- ![](./images/atbc.png) -->\n<!-- ::: -->\n\n<!-- ::: -->",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

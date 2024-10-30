@@ -76,7 +76,7 @@ format:
 
 ## Information for Prospective Students
 
-If you are interested in joining our lab, [start here](./misc-pages/prospectives.qmd).
+If you are interested in joining our lab, [start here](misc-pages/prospectives.qmd).
 
 <!-- ::: sand-background -->
 <!-- ## Principal Investigator -->

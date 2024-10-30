@@ -38,12 +38,6 @@ page-layout: full
 ::::
 
 
-```{r}
-5+5
-#| echo: false
-```
-
-
 <!-- :::: {layout="[ 25, 25, 25, 25 ]"} -->
 
 <!-- ::: {#first-column} -->

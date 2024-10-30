@@ -9,7 +9,7 @@ education:
 subtitle: "Professor & Distinguished Teaching Scholar"
 description: ""
 affiliation: University of Florida
-image: avatar.jpg
+image: avatar_2.jpg
 # listing:
 #   id: pubs
 #   template: ../../_ejs/publications-people.ejs 

@@ -22,24 +22,30 @@ website:
     center: '[![](/images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png){fig-alt="UF logo" height=110px}](https://www.ufl.edu/)'
     # center: Made by Emilio M. Bruna with <br> {{< fa brands r-project fa-2xs >}} and 
     #   [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=105px}](https://quarto.org/) 
-    right: Made with {{< fa brands r-project size=2x >}} and 
-      [![](https://quarto.org/quarto.png){fig-alt="Quarto" height=30px}](https://quarto.org/) <br>
-      <a href="https://github.com/BrunaLab/bruna-lab-website"> <i class="fa brands github fa-2x"></i></a><br>
-      Code at {{< fa brands github href="https://github.com/BrunaLab/bruna-lab-website" size=2x >}}<br>
-    
+    right: Made with {{< fa brands r-project size=1x >}} and 
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" height=20px}](https://quarto.org/) <br>
     
       # - icon: github color: fill='#465672' {fig-alt="Quarto" width=105px}
       #   href: https://github.com/BrunaLab/QuartoBrunaWebsite
       # 
     
   navbar:
+    tools:
+      # - icon: twitter
+      #   href: https://twitter.com
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://github.com/BrunaLab/bruna-lab-website
+          - text: Suggest a change
+            href:  https://github.com/BrunaLab/bruna-lab-website/issues
     search: true
     title: false
-    # logo: images/bruna-logo-bird.png
+    pinned: true
     logo: images/bruna-logo-full.png
     background: "#FFFFFF"
     logo-alt: "Bruna Lab"
-    left:
+    right:
       - href: people/embruna/index.qmd
         text: Emilio M. Bruna
       - href: people/index.qmd

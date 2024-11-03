@@ -83,7 +83,8 @@ format:
   html:
     theme:
       dark: lux
-      light: [lux, styles/custom.scss]
+      light: lux
+      # light: [lux, styles/custom.scss]
     fontcolor: black
     fontsize: x-large
     mainfont: Nunito Sans

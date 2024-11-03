@@ -2,7 +2,13 @@
 title: 'THE BRUNA LAB | <span style="color:#238456">University of Florida</span>'
 # subtitle: '<span style="color:#238456">University of Florida</span>'
 page-layout: full
-lightbox: true
+# lightbox: true
+lightbox:
+  match: auto
+  effect: zoom
+  desc-position: right
+  loop: false
+  css-class: "my-css-class"
 ---
 
 <!-- <br> -->

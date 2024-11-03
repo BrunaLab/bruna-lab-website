@@ -76,8 +76,8 @@ website:
 format:
   html:
     theme:
-      light: lux
-      dark: [lux, styles/custom.scss]
+      dark: lux
+      light: [lux, styles/custom.scss]
     fontcolor: black
     fontsize: x-large
     mainfont: Nunito Sans

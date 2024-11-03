@@ -2,7 +2,9 @@
 title: 'THE BRUNA LAB | <span style="color:#238456">University of Florida</span>'
 # subtitle: '<span style="color:#238456">University of Florida</span>'
 page-layout: full
+lightbox: true
 ---
+
 <!-- <br> -->
 
 <!-- <div class="gradient-text"> -->
@@ -32,7 +34,10 @@ page-layout: full
 :::
 
 ::: {#second-column}
-![](./images/br174.jpg)
+![](./images/br174.jpg){group="my-group"}
+![](./images/bruna-logo-bird.png){group="my-group"}
+![](./images/sloth.jpg){group="my-group"}
+
 :::
 
 ::::

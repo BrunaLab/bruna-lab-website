@@ -8,7 +8,6 @@ lightbox:
   effect: zoom
   desc-position: right
   loop: false
-  css-class: "my-css-class"
 ---
 
 <!-- <br> -->

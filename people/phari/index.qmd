@@ -7,7 +7,7 @@ email: "phariharan1@ufl.edu"
 education:
   - M.S. in Ecology and Environmental Sciences | Pondicherry University | 2018 <br> B.S. in Zoology | University of Madras | 2016
 subtitle: Ph. D. Student, School of Natural Resources & Environment
-image: avatar.jpg
+image: avatar.JPG
 # listing:
 #   id: pubs
 #   template: ../../_ejs/publications-people.ejs 

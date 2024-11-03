@@ -17,7 +17,7 @@ website:
   search: true
   # body-footer: 'TEST'
   page-footer: 
-    background: "#FFFFFF"
+    # background: "#FFFFFF"
     left: '[![](/images/bruna-logo-full.png){fig-alt="brunalab logo" height=110px}](https://tropicos.netlify.app/)'
     center: '[![](/images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png){fig-alt="UF logo" height=110px}](https://www.ufl.edu/)'
     # center: Made by Emilio M. Bruna with <br> {{< fa brands r-project fa-2xs >}} and 
@@ -42,8 +42,8 @@ website:
     search: true
     title: false
     pinned: true
-    logo: images/bruna-logo-full.png
-    background: "#FFFFFF"
+    logo: images/bruna-logo-bird.png
+    # background: "#FFFFFF"
     logo-alt: "Bruna Lab"
     right:
       - href: people/embruna/index.qmd

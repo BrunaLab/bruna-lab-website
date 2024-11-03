@@ -9,7 +9,8 @@ website:
   site-url: "https://brunalab.org/"
   repo-url: "https://github.com/BrunaLab/bruna-lab-website"
   favicon: images/bruna-logo-bird.png
-  # google-analytics: "UA-177339812-1"
+  open-graph: true
+  google-analytics: "G-VJ8YNDL9Z6"
   twitter-card: true
   back-to-top-navigation: true
   page-navigation: false
@@ -75,7 +76,9 @@ format:
   html:
     theme: 
       - styles/custom.scss
-      - lux
+      # - lux
+    light: lux
+    dark: lux
     fontcolor: black
     fontsize: x-large
     mainfont: Nunito Sans

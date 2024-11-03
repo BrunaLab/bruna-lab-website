@@ -24,7 +24,7 @@ website:
     #   [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=105px}](https://quarto.org/) 
     right: Made with {{< fa brands r-project size=2x >}} and 
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" height=30px}](https://quarto.org/) <br>
-      Code at {{< fa icon="brands github" href="https://github.com/BrunaLab/bruna-lab-website" size="2x" >}}<br>
+      <a href="https://github.com/BrunaLab/bruna-lab-website"> <i class="fa brands github fa-2x"></i></a><br>
       Code at {{< fa brands github href="https://github.com/BrunaLab/bruna-lab-website" size=2x >}}<br>
     
     

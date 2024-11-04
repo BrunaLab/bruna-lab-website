@@ -17,8 +17,8 @@ website:
   # body-footer: 'TEST'
   page-footer: 
     background: "#FFFFFF"
-    left: '[![](/images/bruna-logo-full.png){fig-alt="brunalab logo" height=110px}](https://tropicos.netlify.app/)'
-    center: '[![](/images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png){fig-alt="UF logo" height=110px}](https://www.ufl.edu/)'
+    # left: '[![](/images/bruna-logo-full.png){fig-alt="brunalab logo" height=110px}](https://tropicos.netlify.app/)'
+    left: '[![](/images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png){fig-alt="UF logo" height=110px}](https://www.ufl.edu/)'
     # center: Made by Emilio M. Bruna with <br> {{< fa brands r-project fa-2xs >}} and 
     #   [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=105px}](https://quarto.org/) 
     right: Made with {{< fa brands r-project size=2x >}} <br>  
@@ -39,12 +39,13 @@ website:
           - text: Suggest a change
             href:  https://github.com/BrunaLab/bruna-lab-website/issues
     search: true
-    # title: The Bruna Lab
+    title: false
     pinned: true
     background: "#FFFFFF"
     # logo: images/bruna-logo-bird.png
-    # logo-alt: "Bruna Lab"
-    left:
+    logo: images/bruna-logo-full.png
+    logo-alt: "Bruna Lab"
+    right:
       - text: Lab Members
         menu:
         - people/embruna/index.qmd

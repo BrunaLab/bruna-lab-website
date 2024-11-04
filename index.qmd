@@ -11,32 +11,12 @@ page-layout: full
 ---
 
 
-
-
-
-
-
-<!-- **Research in our lab focuses primarily on: (1) the ecology and conservation of tropical biodiversity, (2) plant population dynamics and plant-animal interactions in fragmented tropical landscapes, and (3) the structure of scientific institutions and networks, and how  these structures influence global patterns of scientific productivity.** -->
-<!-- &nbsp; -->
-<!-- &nbsp; -->
-
-
-<!-- ::: {#second-column} -->
-
-<!-- <a class="btn btn-primary" href="news/index.qmd" role="button">The Bruna Lab in the News</a>.  -->
-
-<!-- ::: -->
-
-
-<!-- ![](./images/sloth.jpg)   -->
-
-
-
 :::: {layout="[ 45, 55 ]"}
 
 ::: {#first-column}
 
-**We study the ecology and conservation of tropical biodiversity. Most of our research is on (1) how human activities such as habitat fragmentation influence plant demography, plant population dynamics, and plant-animal interactions, and (2) factors influencing the production and spread of knowledge related to tropical ecosystems and how this is shaped by the structure of scientific institutions and networks.**
+**We are broadly interested in the ecology and conservation of tropical ecosystems.** Most of our research is on: **(1)** the demography and population dynamics of understory plants, **(2)** how deforestation and habitat fragmentation influence ecological communities and processes, and **(3)** Global disparities in the production and spread of scientific information, how they are shaped by the structure of scientific institutions, and the consequences of these disparities for our understanding of tropical biology.
+
 
 &nbsp;
 &nbsp; 

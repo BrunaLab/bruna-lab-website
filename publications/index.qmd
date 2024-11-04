@@ -2,6 +2,7 @@
 pagetitle: "Publications"
 toc: false
 title-block-style: default  # default, plain, none
+page-layout: full
 listing:
   - id: articles
     contents: ../publications/articles/**/*.qmd

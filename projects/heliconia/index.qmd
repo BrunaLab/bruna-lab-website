@@ -1,7 +1,10 @@
 ---
 title: 'Plant demography in fragmented landscapes'
-image: featured.jpg
+about:
+  template: jolla
+  image: featured.jpg
 alias: &ALIAS heliconia
+page-layout: full
 # listing:
 #   id: pubs
 #   template: ../../_ejs/publications-people.ejs 

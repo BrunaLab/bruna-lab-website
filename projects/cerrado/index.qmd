@@ -1,7 +1,10 @@
 ---
 title: 'Trophic cascades in Neotropical Savannas'
 alias: &ALIAS cerrado
-image: featured.jpg
+about:
+  template: jolla
+  image: featured.jpg
+page-layout: full
 # listing:
   # id: pubs
   # template: ../../_ejs/publications-people.ejs 

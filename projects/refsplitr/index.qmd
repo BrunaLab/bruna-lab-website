@@ -1,7 +1,12 @@
 ---
 title: 'refsplitr'
+subtitle: 'Author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.'
 alias: &ALIAS refplitr
-image: featured.png
+page-layout: full
+# image: featured.png
+about:
+  template: jolla
+  image: featured.png
 # listing:
   # id: pubs
   # template: ../../_ejs/publications-people.ejs 
@@ -28,10 +33,8 @@ description: 'refsplitr (v1.0) is an R package to parse and organize reference r
 
 ---
 
-Support for the development of refsplitr was provided by grants from the University of Florida Center for Latin American Studies and the University of Florida Informatics Institute.
 
-You can download the refsplitr package [here](https://docs.ropensci.org/refsplitr/).
+Support for the development of refsplitr was provided by grants from the University of Florida Center for Latin American Studies and the University of Florida Informatics Institute. **You can download the refsplitr package** [**here**](https://docs.ropensci.org/refsplitr/).
 
 
-![refsplitr: Author name disambiguation, author georeferencing, and mapping of coauthorship networks with Web of Science data.](./featured.jpg)[https://docs.ropensci.org/refsplitr/]
 

@@ -1,7 +1,10 @@
 ---
 title: Ecology of ant-plant mutualisms
 alias: &ALIAS ant_plants
-image: featured.jpg
+about:
+  template: jolla
+  image: featured.jpg
+page-layout: full
 # listing:
 #   id: pubs
 #   template: ../../_ejs/publications-people.ejs 

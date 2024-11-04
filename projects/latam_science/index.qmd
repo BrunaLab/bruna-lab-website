@@ -1,8 +1,10 @@
 ---
 title: 'The structure of scientific institutions & networks'
-subtitle: 'science'
 alias: &ALIAS science_of_science
-image: featured.jpg
+page-layout: full
+about:
+  template: jolla
+  image: featured.jpg
 # listing:
 #   id: pubs
 #   template: ../../_ejs/publications-people.ejs 

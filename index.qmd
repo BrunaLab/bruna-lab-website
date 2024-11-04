@@ -3,67 +3,53 @@ title: 'THE BRUNA LAB | <span style="color:#238456">University of Florida</span>
 # subtitle: '<span style="color:#238456">University of Florida</span>'
 page-layout: full
 # lightbox: true
-lightbox:
-  match: auto
-  effect: zoom
-  desc-position: right
-  loop: false
+# lightbox:
+#   match: auto
+#   effect: zoom
+#   desc-position: right
+#   loop: false
 ---
 
-<!-- <br> -->
-
-<!-- <div class="gradient-text"> -->
-<!-- <div class="welcome-headline"> -->
-<!-- THE BRUNA LAB -->
-<!-- <!-- <br> -->
-<!-- </div> -->
-<!-- <div class="welcome-subheadline"> -->
-<!-- University of Florida -->
-<!-- </div> -->
-<!-- <br> -->
 
 
-:::: {layout="[ 38, 62 ]"}
+
+
+
+
+<!-- **Research in our lab focuses primarily on: (1) the ecology and conservation of tropical biodiversity, (2) plant population dynamics and plant-animal interactions in fragmented tropical landscapes, and (3) the structure of scientific institutions and networks, and how  these structures influence global patterns of scientific productivity.** -->
+<!-- &nbsp; -->
+<!-- &nbsp; -->
+
+
+<!-- ::: {#second-column} -->
+
+<!-- <a class="btn btn-primary" href="news/index.qmd" role="button">The Bruna Lab in the News</a>.  -->
+
+<!-- ::: -->
+
+
+<!-- ![](./images/sloth.jpg)   -->
+
+
+
+:::: {layout="[ 45, 55 ]"}
 
 ::: {#first-column}
 
-**Research in our lab focuses primarily on these three topics: (1) the ecology and conservation of tropical biodiversity, (2) plant population dynamics and plant-animal interactions in fragmented tropical landscapes, and (3) the structure of scientific institutions and networks, and how  these structures influence global patterns of scientific productivity.**
+**We study the ecology and conservation of tropical biodiversity. Most of our research is on (1) how human activities such as habitat fragmentation influence plant demography, plant population dynamics, and plant-animal interactions, and (2) factors influencing the production and spread of knowledge related to tropical ecosystems and how this is shaped by the structure of scientific institutions and networks.**
 
 &nbsp;
-&nbsp;
+&nbsp; 
 
-<a class="btn btn-primary" href="news/index.qmd" role="button">The Bruna Lab in the News</a>. 
-
-
-<!-- <a class="btn btn-outline-primary btn-sm" href="#" role="button">Link</a>.  -->
+<a class="btn btn-primary" href="news/index.qmd" role="button">Bruna Lab in the News</a>
 :::
 
 ::: {#second-column}
-![](./images/br174.jpg){group="my-gallery"}
-![](./images/bruna-logo-bird.png){group="my-gallery"}
-![](./images/sloth.jpg){group="my-gallery"}
-
+<!-- ![](./images/sloth.jpg) -->
+![](./images/bruna-logo-bird.png)
 :::
-
 ::::
 
 
-<!-- :::: {layout="[ 25, 25, 25, 25 ]"} -->
 
-<!-- ::: {#first-column} -->
-<!-- <!-- ![](./images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png) --> 
-<!-- ::: -->
 
-<!-- ::: {#second-column} -->
-<!-- <!-- ![](./images/wec.png) --> 
-<!-- ::: -->
-
-<!-- ::: {#third-column} -->
-<!-- <!-- ![](./images/bitr.png) -->
-<!-- ::: -->
-
-<!-- ::: {#fourth-column} -->
-<!-- ![](./images/atbc.png) -->
-<!-- ::: -->
-
-<!-- ::: -->

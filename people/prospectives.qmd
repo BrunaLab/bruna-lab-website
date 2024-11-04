@@ -1,11 +1,15 @@
 ---
-pagetitle: "Information for Prospective Students"
-toc: false
+pagetitle: "Prospective Students"
+toc: true
 title-block-style: default  # default, plain, none
 format:
   html: 
     fontsize: 0.8em
 ---
+
+# Prospective Students
+
+## Gainesville
 
 Gainesville is a great place to live and UF is a phenomenal place to study ecology and conservation. If you are interested in joining my research group as a graduate student, here is some information that will help with application process. 
 

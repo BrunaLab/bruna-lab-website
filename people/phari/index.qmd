@@ -34,9 +34,13 @@ about:
     - icon: github
       text: GitHub 
       href: https://twitter.com/PriyankaHariH
-    - icon: orcid
-      text: orcid
-      href: https://orcid.org/0000-0002-1619-3519
+    - icon: link
+      text: website
+      href: https://priyankahariharan1.wixsite.com/priyanka
+      
+categories: 
+  - community ecology
+  - mixed-species flocks
 ---
 
 
@@ -47,8 +51,7 @@ about:
 :::{#about}  
 
 ## Bio
-Priyanka is interested in how alternative restoration strategies for tropical forests influence the structure of mixed species flocks and the and the ecosystem services they provide. For more please visit her [website](https://beakofthetiger.wordpress.com/author/priyankahariharan/).
-
+Priyanka is an applied ecologist interested in using interdisciplinary approaches to solve conservation issues. Her research focuses on the effect of landscape change on community interactions using tropical mixed-species flocks as a model system, and assessing the cost of adopting conservation monitoring technologies in the Global South.​ She is also a science writer always on the lookout for something to write about.
 
 interests:
 - community ecology

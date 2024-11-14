@@ -26,7 +26,7 @@ about:
   id: about
   template: trestles
   image-shape: round
-  image: avatar.jpeg
+  image: avatar.jpg
   links:
     - icon: envelope
       text: Email

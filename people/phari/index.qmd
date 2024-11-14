@@ -37,7 +37,6 @@ about:
     - icon: link
       text: website
       href: https://priyankahariharan1.wixsite.com/priyanka
-      
 categories: 
   - community ecology
   - mixed-species flocks
@@ -53,16 +52,18 @@ categories:
 ## Bio
 Priyanka is an applied ecologist interested in using interdisciplinary approaches to solve conservation issues. Her research focuses on the effect of landscape change on community interactions using tropical mixed-species flocks as a model system, and assessing the cost of adopting conservation monitoring technologies in the Global South.​ She is also a science writer always on the lookout for something to write about.
 
-interests:
+## Education  
+{{< meta education >}}
+
+## Research Interests  
+{{< meta categories >}}
+
 - community ecology
 - mixed-species flocks
 - forest restoration
 - tropical ecology
 - Western Ghats
 - Science Communication
-
-## Education
-{{< meta education >}}
 
 <br>
 

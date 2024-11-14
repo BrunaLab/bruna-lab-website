@@ -37,9 +37,9 @@ about:
     - icon: link
       text: website
       href: https://priyankahariharan1.wixsite.com/priyanka
-categories: 
-  - community ecology
-  - mixed-species flocks
+# categories: 
+#   - community ecology
+#   - mixed-species flocks
 ---
 
 
@@ -56,7 +56,7 @@ Priyanka is an applied ecologist interested in using interdisciplinary approache
 {{< meta education >}}
 
 ## Research Interests  
-{{< meta categories >}}
+<!-- {{< meta categories >}} -->
 
 - community ecology
 - mixed-species flocks

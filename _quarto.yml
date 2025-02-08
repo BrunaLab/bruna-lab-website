@@ -79,5 +79,5 @@ format:
 # filters:
 #   - auto-dark
 lightbox: true
-# execute:
-#   freeze: auto
+execute:
+  freeze: auto

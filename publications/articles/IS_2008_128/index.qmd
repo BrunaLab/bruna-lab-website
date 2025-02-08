@@ -11,10 +11,10 @@ abstract: "none"
 categories: 
   - 
 url: "none"
-image: featured.png
+# image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-bib: './articles/IS_2008_128/cite.bib'
-pdf: './articles/IS_2008_128/.pdf'
+# bib: './articles/IS_2008_128/cite.bib'
+# pdf: './articles/IS_2008_128/.pdf'
 ---

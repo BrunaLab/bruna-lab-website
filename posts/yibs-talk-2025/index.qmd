@@ -1,0 +1,12 @@
+---
+title: "Title of talk"
+excerpt: "Yibs Seminar"
+author: "Emilio M. Bruna"
+date: 2024-02-08
+categories:
+  - LATAM
+  - Scientometrics
+  - YIBS
+# image: "mapa.jpg"
+toc: true
+---

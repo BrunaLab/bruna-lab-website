@@ -2,7 +2,7 @@
 title: "Posts"
 listing:
   - id: talks
-    contents: "**/*/index.qmd"
+    contents: "**/index.qmd"
     type: grid
     fields: [image, date, title, subtitle]
     sort: "date desc"

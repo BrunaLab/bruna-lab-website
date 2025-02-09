@@ -11,7 +11,6 @@ abstract: "Although dispersal is generally viewed as a crucial determinant for t
 categories: 
   - 
 url: "https://doi.org/10.1093/aobpla/plz048"
-image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""

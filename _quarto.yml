@@ -5,7 +5,7 @@ preview:
     browser: true
 website:
   title: "The Bruna Lab"
-  site-url: "https://brunalab.org/"
+  site-url: "https://tropicos.netlify.app/"
   repo-url: "https://github.com/BrunaLab/bruna-lab-website"
   favicon: images/bruna-logo-bird.png
   open-graph: true

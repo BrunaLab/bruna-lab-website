@@ -1,0 +1,19 @@
+---
+title: "Lab Updates"
+listing: 
+  contents: updates # this name must match the name of the folder you created in step #1; here, all Quarto docs in the `posts` directory will be included on your listing page
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  fields: [image, date, title, subtitle]
+  sort: "date asc" # can also sort on more than one field
+  categories: true # allows you to sort posts by assigned categories 
+  sort-ui: true
+  filter-ui: true
+  # page-size: 36
+page-layout: full
+title-block-banner: false
+comments: false
+toc: true 
+---
+
+::: {#posts}
+:::

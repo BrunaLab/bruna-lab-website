@@ -1,0 +1,25 @@
+---
+title: "YIBS Seminar (2025)"
+description: "Yibs Seminar"
+date: 2024-02-08
+categories:
+  - Scientometrics
+  - YIBS
+  - Scienctific Productivity
+  - Open Access
+  - Latin America
+  - Editorial Boards
+image: "preview.png"
+# citation: 
+#   url: https://tropicos.netlify.app/posts/2025-02-08-yibs-seminar2/ 
+draft: false
+---
+
+![](preview.png)
+
+_"Global biases in the creation and diffusion of scientific knowledge"_ Presented at the Yale Institute for Biospheric Studies, Yale University, February 8th, 2025.
+
+You can download the slides my seminar [here](Bruna_YIBS_2025-compressed.pdf). Note that much of this is work in progress, so I welcome your questions or feeback. 
+
+Our publications on Open Access, Editorial Boards, and Collaboration that I mentioned in the seminar are available for download in the _"Publications"_ section of the lab webpage.
+

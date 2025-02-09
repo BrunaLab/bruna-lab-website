@@ -11,6 +11,18 @@
     ],
     "people/index.qmd": [
       "B3049D40"
+    ],
+    "posts/posts.qmd": [
+      "**/index.qmd"
+    ],
+    "posts/index.qmd": [
+      "**/index.qmd"
+    ],
+    "posts.qmd": [
+      "posts"
+    ],
+    "updates.qmd": [
+      "updates"
     ]
   }
 }

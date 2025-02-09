@@ -862,5 +862,38 @@
   },
   "publications/articles/pubs/ecological_entomology_2019_59/index.qmd": {
     "index.html": "459665b4"
+  },
+  "posts/yibs-talk-2025/index.qmd": {
+    "index.html": "854671ce"
+  },
+  "posts/posts.qmd": {
+    "posts.html": "aa4097bc"
+  },
+  "posts/wh-history/white_house_history.qmd": {
+    "white_house_history.html": "7898006a"
+  },
+  "posts/index.qmd": {
+    "index.html": "cf03e3d0"
+  },
+  "posts/wh-history/index.qmd": {
+    "index.html": "90bbe740"
+  },
+  "posts.qmd": {
+    "posts.html": "a5f26a8e"
+  },
+  "posts/2024-10-12-wh-history/index.qmd": {
+    "index.html": "8c0d10a8"
+  },
+  "posts/2025-02-08-yibs-seminar2/index.qmd": {
+    "index.html": "abc73984"
+  },
+  "updates/2024-10-12-wh-history/index.qmd": {
+    "index.html": "754aaf9d"
+  },
+  "updates/2025-02-08-yibs-seminar2/index.qmd": {
+    "index.html": "f39abee6"
+  },
+  "updates.qmd": {
+    "updates.html": "32bcbd26"
   }
 }

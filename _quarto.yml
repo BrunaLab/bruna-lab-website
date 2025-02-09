@@ -58,8 +58,8 @@ website:
         href: publications/index.qmd
       - text: courses
         href: courses/index.qmd
-      # - text: posts
-      #   href: posts/index.qmd
+      - text: updates
+        href: updates.qmd
       - text: contact
         href: contact.qmd
 format:

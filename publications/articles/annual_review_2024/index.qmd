@@ -11,7 +11,7 @@ abstract: "As the Anthropocene proceeds, the matrix in which remaining habitats 
 categories: 
   - 
 url: "https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-102722-025653"
-image: featured.png
+# image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""

@@ -1,7 +1,7 @@
 ---
 title: "YIBS Seminar (2025)"
 description: "Yibs Seminar"
-date: 2024-02-08
+date: 2025-02-08
 categories:
   - Scientometrics
   - YIBS

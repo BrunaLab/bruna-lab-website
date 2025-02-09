@@ -11,10 +11,10 @@ abstract: "none"
 categories: 
   - 
 url: "none"
-# image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-# bib: './articles/pc_2005_32/cite.bib'
-# pdf: './articles/pc_2005_32/.pdf'
 ---
+<!-- # image: featured.png -->
+<!-- # bib: './articles/pc_2005_32/cite.bib' -->
+<!-- # pdf: './articles/pc_2005_32/.pdf' -->

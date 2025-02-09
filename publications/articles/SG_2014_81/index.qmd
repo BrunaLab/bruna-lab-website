@@ -15,6 +15,6 @@ image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-bib: './articles/SG_2014_81/cite.bib'
-pdf: './articles/SG_2014_81/.pdf'
+# bib: './articles/SG_2014_81/cite.bib'
+# pdf: './articles/SG_2014_81/.pdf'
 ---

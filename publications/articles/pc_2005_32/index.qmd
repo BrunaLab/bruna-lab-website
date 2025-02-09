@@ -15,6 +15,6 @@ image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-bib: './articles/pc_2005_32/cite.bib'
-pdf: './articles/pc_2005_32/.pdf'
+# bib: './articles/pc_2005_32/cite.bib'
+# pdf: './articles/pc_2005_32/.pdf'
 ---

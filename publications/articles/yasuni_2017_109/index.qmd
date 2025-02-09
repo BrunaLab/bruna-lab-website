@@ -15,6 +15,6 @@ image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-bib: './articles/yasuni_2017_109/cite.bib'
-pdf: './articles/yasuni_2017_109/.pdf'
+# bib: './articles/yasuni_2017_109/cite.bib'
+# pdf: './articles/yasuni_2017_109/.pdf'
 ---

@@ -11,7 +11,7 @@ abstract: "none"
 categories: 
   - 
 url: "none"
-image: featured.png
+# image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""

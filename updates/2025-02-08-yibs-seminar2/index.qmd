@@ -21,5 +21,4 @@ _"Global biases in the creation and diffusion of scientific knowledge"_ Presente
 
 You can download the slides my seminar [here](Bruna_YIBS_2025-compressed.pdf). Note that much of this is work in progress, so I welcome your questions or feeback. 
 
-Our publications on Open Access, Editorial Boards, and Collaboration that I mentioned in the seminar are available for download in the _"Publications"_ section of the lab webpage.
-
+Our publications on Open Access, Editorial Boards, and Collaboration that I mentioned in the seminar are available for download in the _"Publications"_ section of the lab webpage. If you can't find them please send me an email.

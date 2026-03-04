@@ -240,7 +240,9 @@ page-layout: full
 <center>  
 
 **WUFT Radio** \| Jonathan Munoz\
-![Earth Day](images/wuft.png){width="35%" height="35%"}</center> <hr>
+![Earth Day](images/wuft.png){width="35%" height="35%"}
+
+</center> 
 
 <center>
 

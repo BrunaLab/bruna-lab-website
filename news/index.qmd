@@ -224,9 +224,9 @@ page-layout: full
 ![**Howler Magazine's *Dummy* & Slate's *Hang Up and Listen* Podcasts**\
 [The Tim Howard is Everywhere Edition](http://www.howlermagazine.com/world-cup-dummy-july-2/)](images/dummy.png){width="20%" height="20%"}
 
-<iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling="no" width="81%" height="150" frameborder="0" src="https://embed.radiopublic.com/e?if=hang-up-and-listen-j6BZQ6:NTIsNTcsNDQsNTIsNTcsNDQsNTMsNDgsNDQsNTIsNTIsNDQsNTMsNTUsNDQsNTMsNTUsNDQsNTIsNTIsNDQsNTIsNTcsNDQsNTIsNTcsNDQsNTMsNTA&amp;ge=s1!17fe580f34b194df2e8f63c0036f6a6cd88e6f55">
+<!-- <iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling="no" width="81%" height="150" frameborder="0" src="https://embed.radiopublic.com/e?if=hang-up-and-listen-j6BZQ6:NTIsNTcsNDQsNTIsNTcsNDQsNTMsNDgsNDQsNTIsNTIsNDQsNTMsNTUsNDQsNTMsNTUsNDQsNTIsNTIsNDQsNTIsNTcsNDQsNTIsNTcsNDQsNTMsNTA&amp;ge=s1!17fe580f34b194df2e8f63c0036f6a6cd88e6f55"> -->
 
-</iframe>
+<!-- </iframe> -->
 
 </center> <hr>
 
@@ -239,8 +239,8 @@ page-layout: full
 
 <center>  
 
-!**WUFT Radio** \| Jonathan Munoz\
-[Earth Day](images/wuft.png){width="35%" height="35%"}</center> <hr>
+**WUFT Radio** \| Jonathan Munoz\
+![Earth Day](images/wuft.png){width="35%" height="35%"}</center> <hr>
 
 <center>
 

@@ -31,10 +31,6 @@ Gainesville, FL 32611-0430
 <!-- #### {{< fa phone >}} &nbsp -->
 <!-- (352) 846-0634 -->
 
-## {{< fa calendar-check >}} Book an Appointment 
-
-
-To book an appointment with Dr. Bruna [click here](https://outlook.office365.com/bookwithme/user/2e877188eda54d26be6c678d1b82e9d2@ufl.edu/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink).
 
 ## {{< fa map-location-dot >}} Find us 
 

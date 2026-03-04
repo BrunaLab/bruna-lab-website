@@ -239,8 +239,8 @@ page-layout: full
 
 <center>  
 
-**WUFT Radio** \| Jonathan Munoz\
-![Earth Day](images/wuft.png){width="20%" height="20%"}
+![**WUFT Radio** \| Jonathan Munoz\
+[Earth Day](https://www.wuft.org/)](images/wuft.png){width="20%" height="20%"}
 
 </center> 
 

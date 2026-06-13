@@ -2,6 +2,7 @@
 title: Quest 2 - The Future of Rain Forests (WIS 2323)
 alias: &ALIAS quest
 image: featured.jpeg
+image-alt: "photo of a rain forest understory dominated by palms and ferns"
 page-layout: full
 toc: false
 # listing:

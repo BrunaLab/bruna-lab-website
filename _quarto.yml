@@ -8,6 +8,7 @@ website:
   site-url: "https://tropicos.netlify.app/"
   repo-url: "https://github.com/BrunaLab/bruna-lab-website"
   favicon: images/bruna-logo-bird.png
+  image-alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
   open-graph: true
   google-analytics: "G-VJ8YNDL9Z6"
   twitter-card: true
@@ -22,7 +23,7 @@ website:
     # center: Made by Emilio M. Bruna with <br> {{< fa brands r-project fa-2xs >}} and 
     #   [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=105px}](https://quarto.org/) 
     right: Made with {{< fa brands r-project size=2x >}} <br>  
-      and [![](https://quarto.org/quarto.png){fig-alt="Quarto" height=20px}](https://quarto.org/) <br>
+      and [![](https://quarto.org/quarto.png){fig-alt="Quarto Logo" height=20px}](https://quarto.org/) <br>
     
       # - icon: github color: fill='#465672' {fig-alt="Quarto" width=105px}
       #   href: https://github.com/BrunaLab/QuartoBrunaWebsite
@@ -44,7 +45,7 @@ website:
     background: "#FFFFFF"
     # logo: images/bruna-logo-bird.png
     logo: images/bruna-logo-full.png
-    logo-alt: "Bruna Lab"
+    logo-alt: "Bruna Lab logo"
     right:
       - text: Lab Members
         menu:

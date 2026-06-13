@@ -2,6 +2,7 @@
 title: Data Collection & Management \n(LAS 6292)
 alias: &ALIAS data
 image: featured.jpeg
+image-alt: "close-up photo of a person collecting data in a notebook"
 # listing:
 #   id: pubs
 #   template: ../../_ejs/publications-people.ejs

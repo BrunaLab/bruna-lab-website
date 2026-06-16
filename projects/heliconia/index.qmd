@@ -26,7 +26,7 @@ description: 'Plants in fragmented habitats are hypothesized to be at increased 
 
 
 ---
-![*Heliconia acuminata* is pollinated by *Phaethornis* hummingbirds. (Photo: EM Bruna)'](./featured.jpg)
+![*Heliconia acuminata* is pollinated by *Phaethornis* hummingbirds. (Photo: EM Bruna)'](./featured.jpg){fig-alt="Photo of a Heliconia acuminata being pollinated by a Phaethornis hummingbird"}
 
 
 

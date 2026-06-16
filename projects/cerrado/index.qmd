@@ -30,5 +30,5 @@ description: 'Decades of research have demonstrated plant communities in African
 ---
 
 
-![Tamandua bandeira at the Panga Ecological Station, Uberlândia, Minas Gerais, Brazil.](./featured.jpg)
+![Tamandua bandeira at the Panga Ecological Station, Uberlândia, Minas Gerais, Brazil.](./featured.jpg){fig-alt="photo of a Tamandua bandeira at the Panga Ecological Station, Uberlândia, Minas Gerais, Brazil."}
 

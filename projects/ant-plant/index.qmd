@@ -27,7 +27,7 @@ description: Ants that establish colonies inside of plants and in return defend 
 
 
 
-![*Maieta guianensis* (Melastomataceae), a myrmecophytic shrub from the central Amazon. (Photo: Brian Inouye)](./featured.jpg)
+![*Maieta guianensis* (Melastomataceae), a myrmecophytic shrub from the central Amazon. (Photo: Brian Inouye)](./featured.jpg){fig-alt="photo of Maieta guianensis, a myrmecophytic shrub from the central Amazon. Photo by Brian Inouye."}
 
 
 

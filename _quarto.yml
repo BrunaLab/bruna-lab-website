@@ -45,7 +45,7 @@ website:
     background: "#FFFFFF"
     # logo: images/bruna-logo-bird.png
     logo: images/bruna-logo-full.png
-    logo-alt: "Bruna Lab logo"
+    image-alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
     right:
       - text: Lab Members
         menu:

@@ -34,10 +34,9 @@ description: 'refsplitr (v1.0) is an R package to parse and organize reference r
 ---
 
 
-Support for the development of refsplitr was provided by grants from the University of Florida Center for Latin American Studies and the University of Florida Informatics Institute. **You can download the refsplitr package** [**here**](https://docs.ropensci.org/refsplitr/).
+**You can download the refsplitr package** [**here**](https://docs.ropensci.org/refsplitr/).
 
-
-![](./featured.jpg){fig-alt="Logo of the Refsplitr R package"}
+![Support for the development of refsplitr was provided by grants from the University of Florida Center for Latin American Studies and the University of Florida Informatics Institute.](./featured.jpg){fig-alt="Logo of the Refsplitr R package"}
 
 
 

@@ -72,7 +72,7 @@ website:
         # aria-label: View lab updates
       - text: contact
         href: contact.qmd
-        # aria-label: View lab contact information
+        aria-label: View lab contact information
 format:
   html:
     theme:

@@ -40,6 +40,7 @@ website:
             aria-label: View website source code
           - text: Suggest a change
             href:  https://github.com/BrunaLab/bruna-lab-website/issues
+            aria-label: View location to suggest edits to website
     search: true
     title: false
     pinned: true
@@ -49,6 +50,7 @@ website:
     image-alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
     right:
       - text: Lab Members
+        aria-label: View lab members
         menu:
         - people/embruna/index.qmd
       # - text: lab members
@@ -56,14 +58,19 @@ website:
         - people/prospectives.qmd
       - text: projects
         href: projects/index.qmd
+        aria-label: View lab projects
       - text: publications
         href: publications/index.qmd
+        aria-label: View lab papers
       - text: courses
         href: courses/index.qmd
+        aria-label: View course information
       - text: updates
         href: updates.qmd
+        aria-label: View lab updates
       - text: contact
         href: contact.qmd
+        aria-label: View lab contact information
 format:
   html:
     theme:

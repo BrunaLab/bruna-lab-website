@@ -37,10 +37,9 @@ website:
         menu:
           - text: Source Code
             href:  https://github.com/BrunaLab/bruna-lab-website
-            aria-label: role="menuitem"
+            aria-label: GitHub Repository
           - text: Suggest a change
             href:  https://github.com/BrunaLab/bruna-lab-website/issues
-            aria-label: role="menuitem"
     search: true
     title: false
     pinned: true
@@ -52,12 +51,9 @@ website:
       - text: Lab Members
         menu:
         - people/embruna/index.qmd
-          aria-label: role="menuitem"
       # - text: lab members
         - people/index.qmd
-          aria-label: role="menuitem"
         - people/prospectives.qmd
-          aria-label: role="menuitem"
       - text: projects
         href: projects/index.qmd
       - text: publications

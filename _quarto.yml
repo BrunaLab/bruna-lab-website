@@ -50,12 +50,14 @@ website:
     image-alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
     right:
       - text: Lab Members
-        aria-label: View lab members
         menu:
         - people/embruna/index.qmd
+          aria-label: View emilio bruna biography
       # - text: lab members
         - people/index.qmd
+          aria-label: View lab members
         - people/prospectives.qmd
+          aria-label: View info for prospectives
       - text: projects
         href: projects/index.qmd
         aria-label: View lab projects

@@ -6,6 +6,7 @@ listing:
 page-layout: full
 # fields: [title, subtitle, image]
 fields: [title, image]
+image-alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
 
 ---
 <!-- <style> -->

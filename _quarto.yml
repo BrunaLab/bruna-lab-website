@@ -50,31 +50,25 @@ website:
     image-alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
     right:
       - text: Lab Members
-        menu:
+      menu:
         - people/embruna/index.qmd
-          # aria-label: View emilio bruna biography
-      # - text: lab members
         - people/index.qmd
-          # aria-label: View lab members
         - people/prospectives.qmd
-          # aria-label: View info for prospectives
       - text: projects
         href: projects/index.qmd
-        aria-label:
-          string:
-            description: "Accessible label for the item."
+        aria-label: "View lab projects"
       - text: publications
         href: publications/index.qmd
-        # aria-label: View lab papers
+        aria-label: "View lab publications"
       - text: courses
         href: courses/index.qmd
-        # aria-label: View course information
+        aria-label: "View course information"
       - text: updates
         href: updates.qmd
-        # aria-label: View lab updates
+        aria-label: "View lab updates"
       - text: contact
         href: contact.qmd
-        # aria-label: 'View lab contact information'
+        aria-label: "View lab contact information"
 format:
   html:
     theme:

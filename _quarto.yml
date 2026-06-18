@@ -60,7 +60,9 @@ website:
           # aria-label: View info for prospectives
       - text: projects
         href: projects/index.qmd
-        aria-label: string
+        aria-label:
+          string:
+            description: "Accessible label for the item."
       - text: publications
         href: publications/index.qmd
         # aria-label: View lab papers

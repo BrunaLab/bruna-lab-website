@@ -3,6 +3,7 @@ title: 'Plant demography in fragmented landscapes'
 about:
   template: jolla
   image: featured.jpg
+  image-alt: "photo of a hummingbird visiting a flower of the amazonian understory herb heliconia acuminata"
 alias: &ALIAS heliconia
 page-layout: full
 # listing:

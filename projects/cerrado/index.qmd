@@ -4,6 +4,7 @@ alias: &ALIAS cerrado
 about:
   template: jolla
   image: featured.jpg
+  image-alt: "photo of a tamandua at panga ecological station, minas gerais state, brazil"
 page-layout: full
 # listing:
   # id: pubs

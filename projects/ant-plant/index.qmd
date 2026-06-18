@@ -4,6 +4,7 @@ alias: &ALIAS ant_plants
 about:
   template: jolla
   image: featured.jpg
+  image-alt: "photo of maieta guinanesis, an amazonian myrmecophyte"
 page-layout: full
 # listing:
 #   id: pubs

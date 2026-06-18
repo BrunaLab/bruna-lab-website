@@ -5,6 +5,7 @@ page-layout: full
 about:
   template: jolla
   image: featured.jpg
+  image-alt: "Coauthorship network of all articles in 55 ecological journals from 2010-2010 that include at least one coauthor from Costa Rica"
 # listing:
 #   id: pubs
 #   template: ../../_ejs/publications-people.ejs 

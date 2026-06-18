@@ -2,7 +2,7 @@ logo:
   small: images/ant_eqn.png
   medium: images/bruna-logo-full.png
   large: images/bruna-logo-full.png
-  alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
+  # alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
   
 # logo:
 #   images:

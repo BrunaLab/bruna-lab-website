@@ -7,7 +7,7 @@ website:
   title: "The Bruna Lab"
   site-url: "https://tropicos.netlify.app/"
   repo-url: "https://github.com/BrunaLab/bruna-lab-website"
-  # favicon: images/bruna-logo-bird.png
+  favicon: images/bruna-logo-bird.png
   image-alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
   open-graph: true
   google-analytics: "G-VJ8YNDL9Z6"

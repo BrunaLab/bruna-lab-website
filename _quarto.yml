@@ -37,8 +37,10 @@ website:
         menu:
           - text: Source Code
             href:  https://github.com/BrunaLab/bruna-lab-website
+            aria-label: role="menuitem"
           - text: Suggest a change
             href:  https://github.com/BrunaLab/bruna-lab-website/issues
+            aria-label: role="menuitem"
     search: true
     title: false
     pinned: true

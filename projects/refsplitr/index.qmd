@@ -7,7 +7,6 @@ page-layout: full
 about:
   template: jolla
   image: featured.png
-  image-alt: "hex-logo for the refsplitr r package"
 # listing:
   # id: pubs
   # template: ../../_ejs/publications-people.ejs 

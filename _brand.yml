@@ -1,4 +1,19 @@
-logo: 
-  small: images/bruna-logo-full.png
-  medium: images/bruna-logo-full.png
-  large: images/bruna-logo-full.png
+logo:
+  images:
+    icon:
+      path: images/bruna-logo-full.png
+      alt: "the Bruna Lab Logo - a stylized hummingbird visiting a flower"
+    # header:
+    #   path: logos/header-logo.png
+    #   alt: "Company name with logo"
+    # header-white:
+    #   path: logos/header-logo-white.png
+    #   alt: "Company name with logo in white"
+    # full:
+    #   path: logos/full-logo.svg
+    #   alt: "Full company logo with tagline"
+  small: icon
+  # medium:
+  #   light: header
+  #   dark: header-white
+  # large: full

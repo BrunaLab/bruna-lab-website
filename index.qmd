@@ -21,12 +21,11 @@ page-layout: full
 &nbsp;
 &nbsp; 
 
-<a class="btn btn-primary" href="news/index.qmd" role="button">Bruna Lab in the News</a>
+<a class="btn btn-primary" href="news/index.qmd" alt="button for news page" aria-label="button for lab news" role="button">Bruna Lab in the News</a>
 :::
 
 ::: {#second-column}
-<!-- ![](./images/sloth.jpg) -->
-![](./images/bruna-logo-bird.png)
+![](./images/bruna-logo-bird.png){fig-alt="Bruna Lab Logo - a stylized hummingbird visiting a flower"}
 :::
 ::::
 

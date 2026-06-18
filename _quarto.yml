@@ -52,9 +52,12 @@ website:
       - text: Lab Members
         menu:
         - people/embruna/index.qmd
+          aria-label: role="menuitem"
       # - text: lab members
         - people/index.qmd
+          aria-label: role="menuitem"
         - people/prospectives.qmd
+          aria-label: role="menuitem"
       - text: projects
         href: projects/index.qmd
       - text: publications

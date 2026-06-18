@@ -3,6 +3,7 @@ project:
 preview:
     port: 4200
     browser: true
+brand: styles/_brand.yml
 website:
   title: "The Bruna Lab"
   site-url: "https://tropicos.netlify.app/"
@@ -42,7 +43,8 @@ website:
     title: false
     pinned: true
     background: "#FFFFFF"
-    logo: images/bruna-logo-full.png
+    logo: medium
+    # logo: images/bruna-logo-full.png
     image-alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
     right:
       - text: Lab Members

@@ -9,7 +9,6 @@ website:
   site-url: "https://tropicos.netlify.app/"
   repo-url: "https://github.com/BrunaLab/bruna-lab-website"
   favicon: images/bruna-logo-bird.png
-  # image-alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
   open-graph: true
   google-analytics: "G-VJ8YNDL9Z6"
   twitter-card: true
@@ -43,9 +42,8 @@ website:
     title: false
     pinned: true
     background: "#FFFFFF"
-    logo: large
-    # logo: images/bruna-logo-full.png
-    # image-alt: "Bruna Lab Logo - a stylized hummingbird visiting a flower"
+    # logo: large
+    logo: images/bruna-logo-full.png
     right:
       - text: Lab Members
         menu:

@@ -2,7 +2,7 @@ logo:
   images:
     icon:
       path: images/bruna-logo-full.png
-      alt: "the Bruna Lab Logo - a stylized hummingbird visiting a flower"
+      image-alt: "the Bruna Lab Logo - a stylized hummingbird visiting a flower"
     # header:
     #   path: logos/header-logo.png
     #   alt: "Company name with logo"

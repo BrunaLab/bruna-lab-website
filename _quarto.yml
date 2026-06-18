@@ -60,7 +60,7 @@ website:
           # aria-label: View info for prospectives
       - text: projects
         href: projects/index.qmd
-        aria-label: projects
+        # aria-label: projects
       - text: publications
         href: publications/index.qmd
         # aria-label: View lab papers

@@ -3,7 +3,7 @@ project:
 preview:
     port: 4200
     browser: true
-# brand: styles/_brand.yml
+brand: styles/_brand.yml
 website:
   title: "The Bruna Lab"
   site-url: "https://tropicos.netlify.app/"
@@ -42,8 +42,8 @@ website:
     title: false
     pinned: true
     background: "#FFFFFF"
-    # logo: large
-    logo: images/bruna-logo-full.png
+    logo: large
+    # logo: images/bruna-logo-full.png
     right:
       - text: Lab Members
         menu:

@@ -3,7 +3,7 @@ project:
 preview:
     port: 4200
     browser: true
-brand: styles/_brand.yml
+brand: _brand.yml
 website:
   title: "The Bruna Lab"
   site-url: "https://tropicos.netlify.app/"

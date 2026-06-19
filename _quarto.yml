@@ -71,6 +71,7 @@ website:
         aria-label: "View lab contact information"
 format:
   html:
+    axe: true
     theme:
       # dark: lux
       light: [lux, styles/custom.scss]

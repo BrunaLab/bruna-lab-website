@@ -47,6 +47,11 @@ about:
       href: https://brunalab.github.io/EmilioMBruna_CV/EmilioMBruna_CV.pdf
       target: "_blank" # forces to open in new window 
       
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/brunalab.bsky.social
+      target: "_blank" # forces to open in new window 
+     
 ---
 
 <!-- <hr> -->

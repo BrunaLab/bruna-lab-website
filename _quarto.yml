@@ -19,6 +19,7 @@ website:
   page-footer: 
     background: "#FFFFFF"
     left: '[![](/images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png){fig-alt="UF logo" height=110px aria-label="link to uf website"}](https://www.ufl.edu/)'
+    center: '[![](/images/bruna-logo-cropped.png){fig-alt="Bruna Lab Logo" height=110px aria-label="link to lab website"}](https://tropicos.netlify.app/)'
     right: Made with {{< fa brands r-project size=2x >}} <br>  
       and [![](https://quarto.org/quarto.png){fig-alt="Quarto Logo" height=20px aria-label="link to quarto website"}](https://quarto.org/) <br>
     
@@ -43,7 +44,7 @@ website:
     pinned: true
     background: "#FFFFFF"
     # logo: large
-    logo: images/bruna-logo-full.png
+    logo: images/bruna-logo-bird.png
     right:
       - text: Lab Members
         menu:
@@ -63,9 +64,9 @@ website:
       - text: courses
         href: courses/index.qmd
         aria-label: "View course information"
-      - text: updates
-        href: updates.qmd
-        aria-label: "View lab updates"
+      # - text: updates
+      #   href: updates.qmd
+      #   aria-label: "View lab updates"
       - text: contact
         href: contact.qmd
         aria-label: "View lab contact information"

@@ -2,11 +2,17 @@
 title: Ecology of ant-plant mutualisms
 alias: &ALIAS ant_plants
 about:
-  template: jolla
+  template: marquee
   image: featured.jpg
-  image-alt: "photo of maieta guinanesis, an amazonian myrmecophyte"
+  image-alt: "photo of maieta guinanesis, a myrmecophytic shrub from the central Amazon. Photo by Brian Inouye"
 page-layout: full
-# listing:
+# jolla
+# trestles
+# solana
+# marquee
+# broadside
+  
+    # listing:
 #   id: pubs
 #   template: ../../_ejs/publications-people.ejs 
 #   # contents: ../../publications/**/*.qmd
@@ -27,8 +33,9 @@ description: Ants that establish colonies inside of plants and in return defend 
 ---
 
 
+*Maieta guianensis* (Melastomataceae), a myrmecophytic shrub from the central Amazon. (Photo: Brian Inouye).
 
-![*Maieta guianensis* (Melastomataceae), a myrmecophytic shrub from the central Amazon. (Photo: Brian Inouye)](./featured.jpg){fig-alt="photo of Maieta guianensis, a myrmecophytic shrub from the central Amazon. Photo by Brian Inouye."}
+<!-- ![*Maieta guianensis* (Melastomataceae), a myrmecophytic shrub from the central Amazon. (Photo: Brian Inouye)](./featured.jpg){fig-alt="photo of Maieta guianensis, a myrmecophytic shrub from the central Amazon. Photo by Brian Inouye."} -->
 
 
 

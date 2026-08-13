@@ -1,6 +1,6 @@
 ---
-title: 'THE BRUNA LAB | <span style="color:#238456">University of Florida</span>'
-# subtitle: '<span style="color:#238456">University of Florida</span>'
+# title: 'THE BRUNA LAB | <span style="color:#238456">University of Florida</span>'
+# # subtitle: '<span style="color:#238456">University of Florida</span>'
 page-layout: full
 # lightbox: true
 # lightbox:
@@ -11,9 +11,9 @@ page-layout: full
 ---
 
 
-:::: {layout="[ 45, 55 ]"}
 
-::: {#first-column}
+![](./images/bruna-logo-cropped.png){fig-alt="Bruna Lab Logo - a stylized hummingbird visiting a flower"}
+
 
 **We are broadly interested in the ecology and conservation of tropical ecosystems.** Most of our research is on: **(1)** the demography and population dynamics of understory plants, **(2)** how deforestation and habitat fragmentation influence ecological communities and processes, and **(3)** Global disparities in the production and spread of scientific information, how they are shaped by the structure of scientific institutions, and the consequences of these disparities for our understanding of tropical biology.
 
@@ -21,13 +21,29 @@ page-layout: full
 &nbsp;
 &nbsp; 
 
-<a class="btn btn-primary" href="news/index.qmd" alt="button for news page" aria-label="button for lab news" role="button">Bruna Lab in the News</a>
-:::
+<p style="text-align: center;">
+<a class="btn btn-primary" href="news/index.qmd" alt="button for news page" aria-label="button for lab news" role="button">The Bruna Lab in the News</a>
+</p>
 
-::: {#second-column}
-![](./images/bruna-logo-bird.png){fig-alt="Bruna Lab Logo - a stylized hummingbird visiting a flower"}
-:::
-::::
+
+
+<!-- :::: {layout="[ 45, 55 ]"} -->
+
+<!-- ::: {#first-column} -->
+
+<!-- **We are broadly interested in the ecology and conservation of tropical ecosystems.** Most of our research is on: **(1)** the demography and population dynamics of understory plants, **(2)** how deforestation and habitat fragmentation influence ecological communities and processes, and **(3)** Global disparities in the production and spread of scientific information, how they are shaped by the structure of scientific institutions, and the consequences of these disparities for our understanding of tropical biology. -->
+
+
+<!-- &nbsp; -->
+<!-- &nbsp;  -->
+
+<!-- <a class="btn btn-primary" href="news/index.qmd" alt="button for news page" aria-label="button for lab news" role="button">Bruna Lab in the News</a> -->
+<!-- ::: -->
+
+<!-- ::: {#second-column} -->
+<!-- ![](./images/bruna-logo-bird.png){fig-alt="Bruna Lab Logo - a stylized hummingbird visiting a flower"} -->
+<!-- ::: -->
+<!-- :::: -->
 
 
 

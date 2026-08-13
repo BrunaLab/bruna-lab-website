@@ -2,7 +2,7 @@
 title: 'Trophic cascades in Neotropical Savannas'
 alias: &ALIAS cerrado
 about:
-  template: jolla
+  template: marquee
   image: featured.jpg
   image-alt: "photo of a tamandua at panga ecological station, minas gerais state, brazil"
 page-layout: full
@@ -30,6 +30,8 @@ description: 'Decades of research have demonstrated plant communities in African
 
 ---
 
+_A Tamandua bandeira at the Panga Ecological Station, Uberlândia, Minas Gerais, Brazil. Photo: Emilio Bruna._
 
-![Tamandua bandeira at the Panga Ecological Station, Uberlândia, Minas Gerais, Brazil.](./featured.jpg){fig-alt="photo of a Tamandua bandeira at the Panga Ecological Station, Uberlândia, Minas Gerais, Brazil."}
+
+<!-- ![Tamandua bandeira at the Panga Ecological Station, Uberlândia, Minas Gerais, Brazil.](./featured.jpg){fig-alt="photo of a Tamandua bandeira at the Panga Ecological Station, Uberlândia, Minas Gerais, Brazil."} -->
 

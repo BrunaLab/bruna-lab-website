@@ -3,7 +3,7 @@ title: 'The structure of scientific institutions & networks'
 alias: &ALIAS science_of_science
 page-layout: full
 about:
-  template: jolla
+  template: marquee
   image: featured.jpg
   image-alt: "Coauthorship network of all articles in 55 ecological journals from 2010-2010 that include at least one coauthor from Costa Rica"
 # listing:
@@ -26,8 +26,9 @@ categories:
 - Collaboration
 ---
 
+_Coauthorship network of all articles in 55 ecological journals from 2010-2010 that include at least one coauthor from Costa Rica._
 
-![Coauthorship network of all articles in 55 ecological journals from 2010-2010 that include at least one coauthor from Costa Rica (Bruna & Hahn, unpubl. data).](./featured.jpg){fig-alt="Coauthorship network of all articles in 55 ecological journals from 2010-2010 that include at least one coauthor from Costa Rica"}
+<!-- ![Coauthorship network of all articles in 55 ecological journals from 2010-2010 that include at least one coauthor from Costa Rica (Bruna & Hahn, unpubl. data).](./featured.jpg){fig-alt="Coauthorship network of all articles in 55 ecological journals from 2010-2010 that include at least one coauthor from Costa Rica"} -->
 
   
 

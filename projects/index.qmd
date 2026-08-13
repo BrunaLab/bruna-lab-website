@@ -3,10 +3,18 @@ title: Projects
 listing:
   id: projects
   type: grid
-page-layout: full
 # fields: [title, subtitle, image]
-fields: [title, image]
-
+  fields: [title, subtitle, categories, image]
+  sort: "date-modified desc"
+  grid-columns: 2
+  image-height: 280px
+page-layout: full
+title-block-banner: false
+format:
+  html:
+    # css: ['../styles/strapless.css', '../styles/projects.css']
+    css: ['../styles/projects.css']
+      
 ---
 <!-- <style> -->
 <!--   body { -->

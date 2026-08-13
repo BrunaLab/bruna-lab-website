@@ -1,7 +1,7 @@
 ---
 title: 'Plant demography in fragmented landscapes'
 about:
-  template: jolla
+  template: marquee
   image: featured.jpg
   image-alt: "photo of a hummingbird visiting a flower of the amazonian understory herb heliconia acuminata"
 alias: &ALIAS heliconia
@@ -27,9 +27,9 @@ description: 'Plants in fragmented habitats are hypothesized to be at increased 
 
 
 ---
-![*Heliconia acuminata* is pollinated by *Phaethornis* hummingbirds. (Photo: EM Bruna)'](./featured.jpg){fig-alt="Photo of a Heliconia acuminata being pollinated by a Phaethornis hummingbird"}
+<!-- ![*Heliconia acuminata* is pollinated by *Phaethornis* hummingbirds. (Photo: EM Bruna)'](./featured.jpg){fig-alt="Photo of a Heliconia acuminata being pollinated by a Phaethornis hummingbird"} -->
 
-
+*Heliconia acuminata* is pollinated by *Phaethornis* hummingbirds. (Photo: Emilio Bruna).'
 
 <!-- ## Related Publications -->
 

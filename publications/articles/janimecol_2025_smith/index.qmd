@@ -16,5 +16,5 @@ url_preprint: ""
 url_code: ""
 url_dataset: ""
 bib: './articles/janimecol_2025_smith/cite.bib'
-pdf: './articles/janimecol_2025_smith/Smith_etal_2025_jae.pdf'
+pdf: './articles/janimecol_2025_smith/smith_etal_2025_jae.pdf'
 ---

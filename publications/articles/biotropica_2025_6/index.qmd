@@ -1,0 +1,21 @@
+---
+title: "ATBC Code of Ethics"
+date: "2025"
+author: ["Jedediah F. Brodie", "Farah Carrasco-Rueda", "Sumita Chatterjee", "Yolando Chirango", "Claudia J. Garnica-Diaz", "Vinita Gowda", "Bea Maas", "Flavia Montano-Centellas", "Rebecca Ostertag", "Priyanka Hariharan", "German Vargas", "Emilio M. Bruna", "Catherine L. Cardelus", "Norbert J. Cordeiro", "Gbadamassi G. O. Dossa", "Edu Effiom", "Lucia G. Lohmann", "Imma O. Menor", "Myriam Mujawamariya", "Pia Parolin", "Juan M. Posada", "Mariana Soto Rueda", "Yit Arn Teh", "Biplang Yadok", "Rakan A. Zahawi", "Louis Santiago"]
+publication: "Biotropica"
+volume: "57"
+number: "5"
+pages: "e70091"
+doi: "10.1111/btp.70091"
+abstract: "none"
+categories: 
+  - nonenone
+  - 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biotropica_2025_6/cite.bib'
+pdf: './articles/biotropica_2025_6/.pdf'
+---

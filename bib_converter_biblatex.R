@@ -24,7 +24,8 @@ library(RefManageR)
 library(tidyverse)
 library(anytime)
 library(tibble)
-
+library(here)
+library(biblio)
 
 # load data ---------------------------------------------------------------
 
@@ -40,10 +41,11 @@ outfold<-"./publications/articles"
 
 abstract = TRUE
 overwrite = TRUE
-
+# mypubs<-read_bib(here("publications/better_bibtex/EMB_publications/EMB_publications.bib"))
 # Import the bibtex file and convert to data.frame
-mypubs   <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8") %>%
-  as.data.frame() %>%
+
+mypubs   <- ReadBib(here("publications/better_bibtex/EMB_publications/EMB_publications.bib"), check = "warn", .Encoding = "UTF-8") %>%
+  as.data.frame() |> 
   rownames_to_column() %>% # retain rownames (as labels for bibtex re-export)
   mutate_all(funs(str_remove_all(.,"[{}\"]"))) %>%   ### remove {}" from bibtext entries
   mutate_all(funs(str_replace_all(.,'\\\\%', '%'))) ### some replace double escaped % for markdown

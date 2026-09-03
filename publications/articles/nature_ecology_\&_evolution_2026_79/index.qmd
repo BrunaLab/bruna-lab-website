@@ -1,0 +1,22 @@
+---
+title: "Landscape Quality Drives Ecological Responses to Habitat Loss and Fragmentation"
+date: "2026"
+author: ["Robert J. Fletcher", "Thomas A. H. Smith", "Maggie Jones", "Fredericke Schellenberg", "Rikki Payne", "Nicholas Kortessis", "Emilio M. Bruna", "Robert D. Holt"]
+publication: "Nature Ecology \& Evolution"
+volume: "10"
+number: "7"
+pages: "1265-1272"
+doi: "10.1038/s41559-026-03095-1"
+abstract: "Studies have suggested that the quality of the lands surrounding habitat patches can modify the effects of habitat loss and fragmentation on species and influence biodiversity predictions across regions. As landscape matrices tend to be complex and vary with habitat change, isolating such effects is challenging. Here we disentangle the effects of habitat loss, fragmentation and surrounding landscape quality in a large, multiscale manipulative experiment on a plant--herbivore system. We find that habitat loss, fragmentation and surrounding matrix quality all affect survival rates, with the greatest negative effects of fragmentation and lower matrix quality under high habitat loss. Demographic rate changes resulted in strong negative effects of habitat loss, fragmentation and low matrix quality on population size at the landscape scale. Our findings indicate that the benefits of high landscape quality are greater in landscapes with low habitat fragmentation, contesting the common expectation that the surrounding matrix matters only in the most fragmented landscapes. This underscores that the quality of the surrounding landscape can have outsized effects on biodiversity in remaining habitats."
+categories: 
+  - noneConservation biology
+  - Population dynamics
+  - 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/nature_ecology_\&_evolution_2026_79/cite.bib'
+pdf: './articles/nature_ecology_\&_evolution_2026_79/.pdf'
+---

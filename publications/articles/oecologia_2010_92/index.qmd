@@ -1,0 +1,56 @@
+---
+title: "Effects of Resource Availability on Seedling Recruitment in a Fire-Maintained Savanna"
+date: "2010"
+author: ["Gwenllian D. Iacona", "L. Katherine Kirkman", "Emilio M. Bruna"]
+publication: "Oecologia"
+volume: "163"
+number: "1"
+pages: "171-180"
+doi: "10.1007/s00442-009-1502-y"
+abstract: "none"
+categories: 
+  - plant-species richness
+  -  longleaf pine
+  -  relative importance
+  -  wiregrass savannas
+  -  ecosystem function
+  -  reef fish
+  -  limitation
+  -  diversity
+  -  productivity
+  -  patternscommunities
+  - diversity
+  - ecosystem
+  - establishment
+  - fish
+  - function
+  - importance
+  - limitation
+  - longleaf
+  - Longleaf pine savanna
+  - pine
+  - plant-species
+  - productivity
+  - recruitment
+  - Recruitment limitation
+  - reef
+  - relative
+  - resource
+  - Resource limitation
+  - richness
+  - safe-site
+  - Safe-site limitation
+  - savanna
+  - savannas
+  - seed
+  - Seed limitation
+  - wiregrass
+  - 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/oecologia_2010_92/cite.bib'
+pdf: './articles/oecologia_2010_92/.pdf'
+---

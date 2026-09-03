@@ -1,0 +1,28 @@
+---
+title: "Is There Really Such a Thing as Tropical Biology?"
+date: "2025"
+author: ["Emilio M. Bruna"]
+publication: "Biotropica"
+volume: "57"
+number: "1"
+pages: "e13387"
+doi: "10.1111/btp.13387"
+abstract: "The ecosystems of The Tropics comprise a majority of the planet's biodiversity, approximately 40% of its terrestrial surface area, and half the human population. Despite this, Tropical Biology has historically been conceptualized as a specialized subdiscipline of the Biological Sciences. I assessed the validity of this assumption and conclude that it depends on the framework and evidence used to evaluate it. I suggest that the way forward as a discipline is not for Tropical Biologists to drop the geographic adjective that unites them, but to recenter The Tropics as the foundation of ecology and evolutionary biology. Abstract in Spanish is available with online material."
+categories: 
+  - nonebibliometrics
+  - collaboration
+  - colonialism
+  - global south
+  - scholarly societies
+  - scientometrics
+  - temperate
+  - text-mining
+  - 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biotropica_2025_52/cite.bib'
+pdf: './articles/biotropica_2025_52/.pdf'
+---

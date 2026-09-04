@@ -11,11 +11,8 @@ abstract: ""
 categories: 
   - biology
   - Information Dissemination
-  - 
   - ethics
-  - 
   - methods Open Access Publishing
-  - 
   - ethics
   - Surveys and Questionnaires
 url: 

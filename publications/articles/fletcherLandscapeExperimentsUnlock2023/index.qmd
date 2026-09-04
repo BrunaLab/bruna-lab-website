@@ -20,6 +20,6 @@ image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-bib: './articles/fletcherjr.LandscapeExperimentsUnlock2023/cite.bib'
-pdf: './articles/fletcherjr.LandscapeExperimentsUnlock2023/RobertJFletcherJr_etal_2023_ecology.pdf'
+bib: './articles/fletcherLandscapeExperimentsUnlock2023/cite.bib'
+pdf: './articles/fletcherLandscapeExperimentsUnlock2023/RobertJFletcherJr_etal_2023_ecology.pdf'
 ---

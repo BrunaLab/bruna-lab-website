@@ -17,5 +17,5 @@ url_preprint: ""
 url_code: ""
 url_dataset: ""
 bib: './articles/science_next_wave_2003_31/cite.bib'
-pdf: './articles/science_next_wave_2003_31/.pdf'
+pdf: './articles/science_next_wave_2003_31/love-nature.pdf'
 ---

@@ -1,7 +1,7 @@
 # Need to do one of these for books, code, etcx.
 # description -------------------------------------------------------------
 
-# Export as Better BibTex
+# Export as  BibTex, background export, export files
 
 # Code for converting exported bibtex file into format that:
 # 1) is read into Academic and 2) the pdfs are renamed after being copied
@@ -26,6 +26,10 @@ library(anytime)
 library(tibble)
 library(here)
 library(biblio)
+
+# install.packages("remotes")
+# remotes::install_github("FRBCesab/zoteror")
+# library("zoteror")
 
 # load data ---------------------------------------------------------------
 
@@ -65,10 +69,10 @@ mypubs <-mypubs %>%
     .default = as.character(journal)))
 
 mypubs$jrnl_short<-gsub(" ","_",tolower(mypubs$journal))
-
-
+mypubs$jrnl_short<-gsub("\\&","and",tolower(mypubs$journal))
+mypubs$jrnl_short<-gsub("'","",tolower(mypubs$journal))
 mypubs<-mypubs %>% rowid_to_column() 
-mypubs$rowname=paste(mypubs$jrnl_short,mypubs$year,mypubs$rowid,sep="_")
+# mypubs$rowname=paste(mypubs$jrnl_short,mypubs$year,mypubs$rowid,sep="_")
 
 
 # make bibtype the name of the type column (default for WriteBib)
@@ -83,8 +87,7 @@ if (has_name(mypubs, "document_type") & !(has_name(mypubs, "bibtype"))) {
 # x[85,]
 x<-mypubs
 
-
-
+# x<-x[1:10,]
 
 
 create_qmd <- function(x) {
@@ -197,9 +200,9 @@ create_qmd <- function(x) {
     #   relocate(keywords2,.after=keywords1)
     # 
     # 
-    x[["keywords-plus"]]<-str_replace_all(x[["keywords-plus"]], c("[;]"=","))
-    x[["keywords-plus"]]<-tolower(x[["keywords-plus"]])
-    x[["keywords"]]<-paste0(x[["keywords-plus"]],x[["keywords"]], sep = ",")
+    # x[["keywords-plus"]]<-str_replace_all(x[["keywords-plus"]], c("[;]"=","))
+    # x[["keywords-plus"]]<-tolower(x[["keywords-plus"]])
+    # x[["keywords"]]<-paste0(x[["keywords-plus"]],x[["keywords"]], sep = ",")
     x[["keywords"]]<-str_replace_all(x[["keywords"]], c("NA,"=""))
     x[["keywords"]]<-str_replace_all(x[["keywords"]], c("NA"=""))
     x[["keywords"]]<-str_replace_all(x[["keywords"]], c("[//*]"=","))
@@ -241,17 +244,6 @@ create_qmd <- function(x) {
     # 3 = Manuscript, 4 = Report, 5 = Book,  6 = Book section
     # write(paste0("type: \"", x[["bibtype"]],"\""),
     #       fileConn, append = T)
-    
-    
-    pdf_folder <- x[["file"]]
-    pdf_folder<-as_tibble(pdf_folder) 
-    
-    pdf_info<-pdf_folder %>% 
-      separate(value,c("value","folder"),extra="drop") %>% 
-      mutate(value=paste("./publications/articles/files",folder,"*.pdf",sep = "/")) %>% 
-      replace_na(list(folder="missing"))
-    pdf_folder<-as.vector(pdf_info$value)
-    folder<-as.vector(pdf_info$folder)
     
     
     
@@ -305,25 +297,68 @@ create_qmd <- function(x) {
     
     # write("highlight = true", fileConn, append = T)
     
-    current.folder <-paste("./publications/EMB_publications/files/",folder,"/",sep = "")
-    new.folder <- paste("./publications/articles",foldername,"",sep="/")
     
-    # find the files that you want
-    list.of.files <- list.files(current.folder)
-    new_name<-str_split(list.of.files," - ", n = 3)
-    new_name<-unlist(new_name)
-    new_name<-paste(new_name[1],new_name[2])
-    new_name<-gsub(" ", "_",new_name)
-    new_name<-gsub("[.]", "",new_name)
-    new_name<-paste(new_name,".pdf",sep="")
-    file.rename(from = (paste(current.folder,
-                              (list.files(current.folder)),sep="/")), 
-                to = (paste(current.folder,new_name,sep="/")))
-    
-    # copy the files to the new folder
-    file.copy(paste(current.folder,"/",new_name,sep=""), new.folder)
-    
-    
+    # 
+    # 
+    # pdf_folder <- x[["file"]]
+    # pdf_folder<-as.data.frame(pdf_folder) 
+    # 
+    # # pdf_info<-pdf_folder %>%
+    # #   separate(value,c("value","folder"),extra="drop") %>%
+    # #   mutate(value=paste("./publications/articles/files",folder,"*.pdf",sep = "/")) %>%
+    # #   replace_na(list(folder="missing"))
+    # # pdf_folder<-as.vector(pdf_info$value)
+    # # folder<-as.vector(pdf_info$folder)
+    # 
+    # pdf_info<-pdf_folder |> mutate(pdf_folder=str_extract(pdf_folder, "(?<=files/)[^/]+(?=/)")) 
+    # # |> replace_na(list(pdf_folder="missing"))
+    # pdf_folder<-as.vector(pdf_info$pdf_folder) 
+    # 
+    # # current.folder <-paste("./publications/better_bibtex/EMB_publications/files/",folder,"/",sep = "")
+    # current.folder <-paste("./publications/better_bibtex/EMB_publications/files/",pdf_folder,"/",sep = "")
+    # new.folder <- paste("./publications/articles/",foldername,"/",sep="")
+    # 
+    # # find the files that you want
+    # 
+    # 
+    # 
+    # current.folder <- list.dirs("./publications/better_bibtex/EMB_publications/files", recursive = FALSE)
+    # 
+    # pdf_files <- map_chr(subfolders, ~ {
+    #   pdfs <- list.files(.x, pattern = "\\.pdf$", full.names = FALSE)
+    #   if (length(pdfs) == 0) NA_character_ else pdfs[1]
+    # })
+    # 
+    # list.of.files<-tibble(subfolder = current.folder, pdf = pdf_files)
+    # 
+    # 
+    # 
+    # new_name<-list.of.files |> separate_wider_delim(pdf,delim=" - ", names=c("x1","x2","x3"),too_few = "align_start",cols_remove=FALSE) |> 
+    #   mutate(new_name=paste(x1,x2,sep="_"))
+    # new_name<-new_name |> mutate(new_name=gsub("et al.", "etal",new_name),
+    #                  new_name=     gsub(" ", "_",new_name),
+    #                  new_name=gsub("[.]", "",new_name),
+    #                  new_name=paste(new_name,".pdf",sep="")) |> 
+    #   mutate(new_name=if_else(new_name=="NA_NA.pdf",NA,new_name)) |> 
+    #   distinct(new_name, .keep_all=TRUE)
+    # # new_name<-as.vector(new_name$new_name) 
+    # new_name$new_name
+    # 
+    # new_name<-new_name |> 
+    #   mutate(from=paste(current.folder,pdf,
+    #                             sep="/"),.before=1) |> 
+    #   mutate(from=paste(current.folder,pdf,
+    #                     sep="/"),.before=1) |> 
+    #   mutate(to=new.folder,.after=1)
+    # 
+    # file.rename(from = (paste(current.folder,list.of.files$pdf,
+    #                           sep="/")), 
+    #             to = new.folder)
+    # 
+    # # copy the files to the new folder
+    # file.copy(paste(current.folder,"/",new_name,sep=""), new.folder)
+    # 
+    # 
     write(paste0("bib: './articles/", x[["rowname"]],"/cite.bib'",sep="",collapse="|"),fileConn, append = T)
     write(paste0("pdf: './articles/",  x[["rowname"]],"/",new_name,"'",sep="",collapse="|"),fileConn, append = T)
     
@@ -357,7 +392,7 @@ create_qmd <- function(x) {
 
 
 
-apply(mypubs, FUN = function(x) create_qmd(x), MARGIN = 1)
+apply(x, FUN = function(x) create_qmd(x), MARGIN = 1)
 # }
 
 

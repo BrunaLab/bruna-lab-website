@@ -1,0 +1,19 @@
+---
+title: "Participatory research and management of aruma (Ischnosiphon gracilis rudge koern., Marantaceae) by the Kaiabi people in the Brazilian Amazon"
+date: "2006"
+author: ["Simone Ferreira De Athayde", "Geraldo Mosimann Da Silva", "Jewyt Kaiabi", "Myauiup Kaiabi", "Helder Rocha De Souza", "Katia Ono", "Emilio M. Bruna"]
+publication: "Journal of Ethnobiology"
+volume: "26"
+number: "1"
+pages: "36-59"
+doi: "NA"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/deathaydeParticipatoryResearchManagement2006/cite.bib'
+pdf: './articles/deathaydeParticipatoryResearchManagement2006/SimoneFerreiraDeAthayde_etal_2006_journal_of_ethnobiology.pdf'
+---

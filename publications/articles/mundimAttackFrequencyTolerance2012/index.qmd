@@ -1,0 +1,25 @@
+---
+title: "Attack frequency and the tolerance to herbivory of Neotropical savanna trees"
+date: "2012"
+author: ["Fabiane M. Mundim", "Emilio M. Bruna", "Ernane H. M. Vieira-Neto", "Heraldo L. Vasconcelos"]
+publication: "Oecologia"
+volume: "168"
+number: "2"
+pages: "405-414"
+doi: "10.1007/s00442-011-2088-8"
+abstract: "NA"
+categories: 
+  - Cerrado
+  - Atta laevigata
+  - Artificial defoliation
+  - artificial defoliation atta laevigata cerrado chronic herbivores leaf-cutter ants leaf-cutter ants gentianella-campestris community structure brazilian cerrado apical dominance african savanna plant defense damage responses growth
+  - Chronic herbivores
+  - Leaf-cutter ants
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/mundimAttackFrequencyTolerance2012/cite.bib'
+pdf: './articles/mundimAttackFrequencyTolerance2012/FabianeMMundim_etal_2012_oecologia.pdf'
+---

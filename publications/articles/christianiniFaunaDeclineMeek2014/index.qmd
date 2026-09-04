@@ -1,0 +1,20 @@
+---
+title: "Fauna in decline: Meek shall inherit"
+date: "2014"
+author: ["Alexander V. Christianini", "Paulo S. Oliveira", "Emilio M. Bruna", "Heraldo L. Vasconcelos"]
+publication: "Science"
+volume: "345"
+number: "6201"
+pages: "1129-1129"
+doi: "10.1126/science.345.6201.1129-a"
+abstract: "NA"
+categories: 
+  - savanna
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/christianiniFaunaDeclineMeek2014/cite.bib'
+pdf: './articles/christianiniFaunaDeclineMeek2014/AlexanderVChristianini_etal_2014_science.pdf'
+---

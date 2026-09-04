@@ -1,0 +1,19 @@
+---
+title: "A lack of open data standards for large infrastructure projects hampers social-ecological research in the Brazilian Amazon"
+date: "2025"
+author: ["Jacy L. Hyde", "Christine Swanson", "Stephanie A. Bohlman", "Simone Athayde", "Emilio M. Bruna", "Denis R. Valle"]
+publication: "PeerJ"
+volume: "13"
+number: "NA"
+pages: "e19926"
+doi: "10.7717/peerj.19926"
+abstract: "New infrastructure projects are planned or under construction in several countries, including in the bioculturally diverse Amazon, Mekong, and Congo regions. While infrastructure development can improve human health and living standards, it may also lead to environmental degradation, such as deforestation, and social change, such as loss of livelihoods. Accessible, high-quality data about infrastructure projects is essential for both monitoring these projects and studying their social and environmental impacts. As a case study, we investigated the availability and quality of data on infrastructure projects in the Brazilian Amazon by reviewing the academic literature and surveying researchers from the conservation and development community. We used the results of these surveys to identify recommended steps for the gathering, organizing, and sharing of infrastructure data by social-ecological researchers and practitioners. Although data on infrastructure in the Brazilian Amazon were generally available, they were often of poor quality and lacked information critical for monitoring and research. Data were often difficult to find on government and non-government websites as well as reformat, resulting in loss of time and resources for researchers and other stakeholders. Discrepancies between researchers’ survey responses on data needs and the types of data used in peer-reviewed articles on infrastructure projects indicate the following information was often missing: geographic extent of the project, construction and operation dates, and project type (e.g., paved vs. unpaved road). Including these data in a standardized format, along with making them more readily accessible by hosting them in public repositories and ensuring they are current and comprehensive, would facilitate research and improve planning, decision-making, and monitoring of operational and planned infrastructure projects in Brazil and other developing countries."
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/hydeLackOpenData2025/cite.bib'
+pdf: './articles/hydeLackOpenData2025/JacyLHyde_etal_2025_peerj.pdf'
+---

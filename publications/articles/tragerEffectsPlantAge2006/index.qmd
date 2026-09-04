@@ -1,0 +1,29 @@
+---
+title: "Effects of plant age, experimental nutrient addition and ant occupancy on herbivory in a neotropical myrmecophyte"
+date: "2006"
+author: ["Matthew D. Trager", "Emilio M. Bruna"]
+publication: "Journal of Ecology"
+volume: "94"
+number: "6"
+pages: "1156-1163"
+doi: "10.1111/j.1365-2745.2006.01165.x"
+abstract: "NA"
+categories: 
+  - Crematogaster
+  - herbivory
+  - Azteca
+  - mutualism
+  - ant-plant
+  - biotic defence
+  - Coptocycla
+  - direct defence
+  - indirect defence
+  - plant defence
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/tragerEffectsPlantAge2006/cite.bib'
+pdf: './articles/tragerEffectsPlantAge2006/MatthewDTrager_etal_2006_journal_of_ecology.pdf'
+---

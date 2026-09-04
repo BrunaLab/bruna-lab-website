@@ -1,0 +1,19 @@
+---
+title: "Forest fragments and tropical plant reproduction in Amazonian Brazil."
+date: "2005"
+author: ["E. M. Bruna", "W. J. Kress"]
+publication: "NA"
+volume: "NA"
+number: "NA"
+pages: "141-146"
+doi: "NA"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaForestFragmentsTropical2005/cite.bib'
+pdf: ''
+---

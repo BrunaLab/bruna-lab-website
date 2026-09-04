@@ -1,0 +1,19 @@
+---
+title: "2015 Biotropica Awards for Excellence in Tropical Biology and Conservation"
+date: "2015"
+author: ["Bruna, EM"]
+publication: "Biotropica"
+volume: "47"
+number: "6"
+pages: "779-782"
+doi: "10.1111/btp.12291"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaem2015BiotropicaAwards2015/cite.bib'
+pdf: './articles/brunaem2015BiotropicaAwards2015/Bruna_2015_biotropica.pdf'
+---

@@ -1,0 +1,28 @@
+---
+title: "Habitat fragmentation and plant populations: is what we know demographically irrelevant?"
+date: "2009"
+author: ["Emilio M. Bruna", "Ian J. Fiske", "Matthew D. Trager"]
+publication: "Journal of Vegetation Science"
+volume: "20"
+number: "3"
+pages: "569-576"
+doi: "10.1111/j.1654-1103.2009.01060.x"
+abstract: "Habitat fragmentation is considered a leading cause of plant extinction, and matrix models provide a powerful set of tools with which to identifying mechanisms that inﬂuence population declines. We surveyed the ecological literature to determine what components of plant demography have been studied in fragmented habitats, and determined the elasticity values of the vital rates inﬂuenced by these components. We found that there is a major disparity between the ecological processes and stages of life history with large demographic impacts and the focus of empirical research on plants in fragmented habitats. While the growth and survivorship of large, established individuals have the highest elasticity values, the focus of empirical research has been on components of reproduction and seedling dynamics. We argue that elucidating the demographic mechanisms underlying population declines in fragmented habitats, and developing strategies for mitigating these declines, will be challenging without a greater focus on understanding how fragmentation alters adult plant growth and survivorship."
+categories: 
+  - Demography
+  - Vital rates
+  - Seedling recruitment
+  - Lambda
+  - Matrix models
+  - Elasticity analyses
+  - Fertility
+  - Pollination
+  - Seed banks
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaHabitatFragmentationPlant2009/cite.bib'
+pdf: './articles/brunaHabitatFragmentationPlant2009/EmilioMBruna_etal_2009_journal_of_vegetation_science.pdf'
+---

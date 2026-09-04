@@ -1,0 +1,25 @@
+---
+title: "Demography of palm species in Brazil’s Atlantic forest: a comparison of harvested and unharvested species using matrix models"
+date: "2010"
+author: ["Rita de Cassia Quitete Portela", "Emilio M. Bruna", "Flavio Antonio Maes dos Santos"]
+publication: "Biodiversity and Conservation"
+volume: "19"
+number: "8"
+pages: "2389-2403"
+doi: "10.1007/s10531-010-9846-5"
+abstract: "NA"
+categories: 
+  - Lambda
+  - Matrix models
+  - Sensitivity analysis
+  - Euterpe edulis
+  - Astrocaryum aculeatissimum
+  - Geonoma schottiana
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/quiteteportelaDemographyPalmSpecies2010/cite.bib'
+pdf: './articles/quiteteportelaDemographyPalmSpecies2010/RitadeCassiaQuitetePortela_etal_2010_biodiversity_and_conservation.pdf'
+---

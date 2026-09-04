@@ -1,0 +1,19 @@
+---
+title: "Biotropica to become an ‘online‐only’ journal in 2015"
+date: "2014"
+author: ["Emilio M. Bruna"]
+publication: "Biotropica"
+volume: "46"
+number: "6"
+pages: "NA"
+doi: "10.1111/btp.12173"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaBiotropicaBecomeOnlineonly2014/cite.bib'
+pdf: './articles/brunaBiotropicaBecomeOnlineonly2014/EmilioMBruna_2014_biotropica.pdf'
+---

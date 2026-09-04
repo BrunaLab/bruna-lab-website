@@ -1,0 +1,29 @@
+---
+title: "Fire enables passive directed seed dispersal by birds"
+date: "2026"
+author: ["David S. Mason", "Kevin M. Robertson", "Phillip G. Hahn", "Emilio M. Bruna", "John L. Willis", "Marcus A. Lashley"]
+publication: "Current Biology"
+volume: "36"
+number: "1"
+pages: "28-37.e5"
+doi: "10.1016/j.cub.2025.11.014"
+abstract: "NA"
+categories: 
+  - directed dispersal
+  - fire
+  - indirect effects
+  - zoochory
+  - animal-dispersed plants
+  - avian seed dispersal
+  - magnet effect
+  - passive directed dispersal
+  - prescribed fire
+  - resource-tracking
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/masonFireEnablesPassive2026/cite.bib'
+pdf: './articles/masonFireEnablesPassive2026/DavidSMason_etal_2026_current_biology.pdf'
+---

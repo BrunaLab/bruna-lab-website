@@ -1,0 +1,26 @@
+---
+title: "Alternative spatial sampling in studies of plant demography: consequences for estimates of population growth rate"
+date: "2010"
+author: ["Ian J. Fiske", "Emilio M. Bruna"]
+publication: "Plant Ecology"
+volume: "207"
+number: "2"
+pages: "213-225"
+doi: "10.1007/s11258-009-9666-4"
+abstract: "NA"
+categories: 
+  - Vital rates
+  - Lambda
+  - Lambda Matrix models Plot Population dynamics Sampling Vital rates projection matrix analysis plot size understory herb dynamics community density models forest field autocorrelation
+  - Matrix models
+  - Plot
+  - Population dynamics
+  - Sampling
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/fiskeAlternativeSpatialSampling2010/cite.bib'
+pdf: './articles/fiskeAlternativeSpatialSampling2010/IanJFiske_etal_2010_plant_ecology.pdf'
+---

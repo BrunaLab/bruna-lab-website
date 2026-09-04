@@ -1,0 +1,53 @@
+---
+title: "Roads increase population growth rates of a native leaf-cutter ant in Neotropical savannahs"
+date: "2016"
+author: ["Ernane H. M. Vieira-Neto", "Heraldo L. Vasconcelos", "Emilio M. Bruna"]
+publication: "Journal of Applied Ecology"
+volume: "53"
+number: "4"
+pages: "983-992"
+doi: "10.1111/1365-2664.12651"
+abstract: "NA"
+categories: 
+  - dynamics
+  - population dynamics
+  - forest
+  - plant-populations
+  - herbivory
+  - demography
+  - ants
+  - anthropogenic
+  - experiments
+  - populations
+  - population
+  - brazilian
+  - comparative
+  - anthropogenic disturbances
+  - Atta laevigata ants
+  - Brazilian Cerrado
+  - elasticities
+  - life-table response experiments
+  - long-lived organisms
+  - roads
+  - superorganisms
+  - response
+  - impacts
+  - cerrado
+  - atta
+  - cutting
+  - laevigata
+  - animal
+  - atta-cephalotes
+  - disturbances
+  - life-table
+  - long-lived
+  - nests
+  - organisms
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/vieira-netoRoadsIncreasePopulation2016/cite.bib'
+pdf: './articles/vieira-netoRoadsIncreasePopulation2016/ErnaneHMVieiraNeto_etal_2016_journal_of_applied_ecology.pdf'
+---

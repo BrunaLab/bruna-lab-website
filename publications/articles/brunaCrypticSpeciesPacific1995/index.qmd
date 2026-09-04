@@ -1,0 +1,21 @@
+---
+title: "Cryptic species of Pacific skinks (Emoia): further support from mitochondrial DNA sequences"
+date: "1995"
+author: ["Emilio M. Bruna", "Robert N. Fisher", "Ted J. Case"]
+publication: "Copeia"
+volume: "1995"
+number: "4"
+pages: "981"
+doi: "10.2307/1447050"
+abstract: "NA"
+categories: 
+  - General and Systematic Zoology-Reptilia) Animals Chordates Vertebrates Nonhuman vertebrates Reptiles Research Article Emoia Impar Emoia Spp. Population Genetics
+  - Sauria 03506 (Genetics and Cytogenetics-Animal) 03509 (Genetics and Cytogenetics- Population Genetics (1972-)) 10062 (Biochemistry-Biochemical Studies- Nucleic Acids Purines and Pyrimidines) 62516 (Chordata
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaCrypticSpeciesPacific1995/cite.bib'
+pdf: './articles/brunaCrypticSpeciesPacific1995/EmilioMBruna_etal_1995_copeia.pdf'
+---

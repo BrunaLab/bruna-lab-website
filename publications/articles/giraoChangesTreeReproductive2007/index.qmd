@@ -1,0 +1,19 @@
+---
+title: "Changes in tree reproductive traits reduce functional diversity in a fragmented Atlantic Forest landscape"
+date: "2007"
+author: ["Luciana Coe Girao", "Ariadna Valentina Lopes", "Marcelo Tabarelli", "Emilio M. Bruna"]
+publication: "PLoS ONE"
+volume: "2"
+number: "9"
+pages: "e908"
+doi: "10.1371/journal.pone.0000908"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/giraoChangesTreeReproductive2007/cite.bib'
+pdf: './articles/giraoChangesTreeReproductive2007/LucianaCoeGirao_etal_2007_plos_one.pdf'
+---

@@ -1,0 +1,26 @@
+---
+title: "The role of roadsides in conserving Cerrado plant diversity"
+date: "2014"
+author: ["Pedro B. Vasconcelos", "Glein M. Araujo", "Emilio M. Bruna"]
+publication: "Biodiversity and Conservation"
+volume: "23"
+number: "12"
+pages: "3035-3050"
+doi: "10.1007/s10531-014-0762-y"
+abstract: "NA"
+categories: 
+  - Conservation
+  - Conservation Exotic species Fire Highway Resilience Road verge
+  - Exotic species
+  - Fire
+  - Highway
+  - Resilience
+  - Road verge
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/vasconcelosRoleRoadsidesConserving2014/cite.bib'
+pdf: './articles/vasconcelosRoleRoadsidesConserving2014/PedroBVasconcelos_etal_2014_biodiversity_and_conservation.pdf'
+---

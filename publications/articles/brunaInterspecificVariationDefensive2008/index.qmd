@@ -1,0 +1,26 @@
+---
+title: "Interspecific variation in the defensive responses of ant mutualists to plant volatiles"
+date: "2008"
+author: ["Emilio M. Bruna", "Maria Rosa Darrigo", "Angela Midori Furuya Pacheco", "Heraldo L. Vasconcelos"]
+publication: "Biological Journal of the Linnean Society"
+volume: "94"
+number: "2"
+pages: "241-249"
+doi: "10.1111/j.1095-8312.2008.00962.x"
+abstract: "NA"
+categories: 
+  - Maieta
+  - Melastomataceae
+  - Azteca
+  - Tococa bullifera
+  - myrmecophyte
+  - Pheidole minutula
+  - ant-plant mutualism
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaInterspecificVariationDefensive2008/cite.bib'
+pdf: './articles/brunaInterspecificVariationDefensive2008/EmilioMBruna_etal_2008_biological_journal_of_the_linnean_society.pdf'
+---

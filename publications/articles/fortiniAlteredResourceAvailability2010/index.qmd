@@ -1,0 +1,49 @@
+---
+title: "Altered resource availability and the population dynamics of tree species in Amazonian secondary forests"
+date: "2010"
+author: ["Lucas Berio Fortini", "Emilio M. Bruna", "Daniel J. Zarin", "Steel S. Vasconcelos", "Izildinha S. Miranda"]
+publication: "Oecologia"
+volume: "162"
+number: "4"
+pages: "923-934"
+doi: "10.1007/s00442-009-1524-5"
+abstract: "NA"
+categories: 
+  - amazon
+  - dynamics
+  - forest
+  - forests
+  - rain-forest
+  - tropical
+  - Amazonia
+  - limitation
+  - Nutrient limitation
+  - Regrowth forests
+  - Succession
+  - Water stress
+  - soil
+  - community
+  - regrowth
+  - plant-communities
+  - succession
+  - life-history
+  - amazonia
+  - structure
+  - nutrient
+  - phosphorus
+  - fertilization
+  - stress
+  - water
+  - gas-exchange
+  - melastomataceae
+  - evergreen
+  - miconia-ciliata
+  - peruvian
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/fortiniAlteredResourceAvailability2010/cite.bib'
+pdf: './articles/fortiniAlteredResourceAvailability2010/LucasBerioFortini_etal_2010_oecologia.pdf'
+---

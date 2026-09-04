@@ -1,0 +1,27 @@
+---
+title: "Regeneration and population structure of Heliconia acuminata in Amazonian secondary forests with contrasting land-use histories"
+date: "2005"
+author: ["E. M. Bruna", "M. B. Nogueira Ribeiro"]
+publication: "Journal of Tropical Ecology"
+volume: "21"
+number: "NA"
+pages: "127-131"
+doi: "NA"
+abstract: "NA"
+categories: 
+  - Heliconiaceae
+  - seed germination
+  - edge effects
+  - Cecropia
+  - dispersal limitation
+  - forest regeneration
+  - population structure
+  - Vismia
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaRegenerationPopulationStructure2005/cite.bib'
+pdf: './articles/brunaRegenerationPopulationStructure2005/EMBruna_etal_2005_journal_of_tropical_ecology.pdf'
+---

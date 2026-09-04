@@ -1,0 +1,22 @@
+---
+title: "Looking back and moving forward: reflections on 60 years of the association for tropical biology and conservation"
+date: "2025"
+author: ["Jennifer S. Powers", "Emilio M. Bruna", "Lucia G. Lohmann"]
+publication: "Biotropica"
+volume: "57"
+number: "5"
+pages: "e70074"
+doi: "10.1111/btp.70074"
+abstract: "NA"
+categories: 
+  - ATBC
+  - synthesis
+  - tropical biology
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/powersLookingBackMoving2025/cite.bib'
+pdf: './articles/powersLookingBackMoving2025/JenniferSPowers_etal_2025_biotropica.pdf'
+---

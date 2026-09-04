@@ -1,0 +1,19 @@
+---
+title: "Biological impacts of deforestation and fragmentation"
+date: "2004"
+author: ["E.M. Bruna"]
+publication: "NA"
+volume: "NA"
+number: "NA"
+pages: "85-90"
+doi: "10.1016/B0-12-145160-7/00017-X"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaBiologicalImpactsDeforestation2004/cite.bib'
+pdf: './articles/brunaBiologicalImpactsDeforestation2004/EMBruna_2004_NA.pdf'
+---

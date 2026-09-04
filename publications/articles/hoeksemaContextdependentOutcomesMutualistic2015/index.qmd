@@ -1,0 +1,19 @@
+---
+title: "Context-dependent outcomes of mutualistic interactions"
+date: "2015"
+author: ["Jason D. Hoeksema", "Emilio M. Bruna"]
+publication: "NA"
+volume: "NA"
+number: "NA"
+pages: "181-202"
+doi: "10.1093/acprof:oso/9780199675654.003.0010"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/hoeksemaContextdependentOutcomesMutualistic2015/cite.bib'
+pdf: './articles/hoeksemaContextdependentOutcomesMutualistic2015/JasonDHoeksema_etal_2015_NA.pdf'
+---

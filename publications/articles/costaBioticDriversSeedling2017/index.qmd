@@ -1,0 +1,59 @@
+---
+title: "Biotic drivers of seedling establishment in Neotropical savannas: selective granivory and seedling herbivory by leaf-cutter ants as an ecological filter"
+date: "2017"
+author: ["Alan N. Costa", "Heraldo L. Vasconcelos", "Emilio M. Bruna"]
+publication: "Journal of Ecology"
+volume: "105"
+number: "1"
+pages: "132-141"
+doi: "10.1111/1365-2745.12656"
+abstract: "NA"
+categories: 
+  - dynamics
+  - forest
+  - rain-forest
+  - seed predation
+  - ecology
+  - herbivory
+  - predation
+  - establishment
+  - recruitment
+  - savanna
+  - seed
+  - Cerrado
+  - Atta laevigata
+  - insect herbivory
+  - ants
+  - community
+  - seedling establishment
+  - tree
+  - seedling
+  - vegetation
+  - brazilian
+  - effect
+  - community ecology
+  - granivory
+  - plantherbivore interaction
+  - top-down effect
+  - vegetation dynamics
+  - woody-plants
+  - insect
+  - interaction
+  - atlantic
+  - cerrado
+  - african
+  - atta
+  - cutting
+  - fungus-growing
+  - laevigata
+  - plantherbivore
+  - spp.
+  - top-down
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/costaBioticDriversSeedling2017/cite.bib'
+pdf: './articles/costaBioticDriversSeedling2017/AlanNCosta_etal_2017_journal_of_ecology.pdf'
+---

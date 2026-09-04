@@ -1,0 +1,19 @@
+---
+title: "Scientific journals can advance tropical biology and conservation by requiring data archiving"
+date: "2010"
+author: ["Emilio M. Bruna"]
+publication: "Biotropica"
+volume: "42"
+number: "4"
+pages: "399-401"
+doi: "10.1111/j.1744-7429.2010.00652.x"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaScientificJournalsCan2010/cite.bib'
+pdf: './articles/brunaScientificJournalsCan2010/EmilioMBruna_2010_biotropica.pdf'
+---

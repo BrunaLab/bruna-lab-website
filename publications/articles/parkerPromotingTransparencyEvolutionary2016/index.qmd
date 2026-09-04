@@ -1,0 +1,19 @@
+---
+title: "Promoting transparency in evolutionary biology and ecology"
+date: "2016"
+author: ["T. H. Parker", "S. Nakagawa", "J. Gurevitch", "IIEE (Improving Inference in Evolutionary Biology", "cology) workshop participants"]
+publication: "Ecology Letters"
+volume: "19"
+number: "7"
+pages: "726-728"
+doi: "10.1111/ele.12610"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/parkerPromotingTransparencyEvolutionary2016/cite.bib'
+pdf: './articles/parkerPromotingTransparencyEvolutionary2016/THParker_etal_2016_ecology_letters.pdf'
+---

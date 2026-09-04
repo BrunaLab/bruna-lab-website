@@ -1,0 +1,19 @@
+---
+title: "Improving Wikipedia: educational opportunity and professional responsibility"
+date: "2009"
+author: ["Kristine L. Callis", "Lindsey R. Christ", "Julian Resasco", "David W. Armitage", "Jeremy D. Ash", "Timothy T. Caughlin", "Sharon F. Clemmensen", "Stella M. Copeland", "Timothy J. Fullman", "Ryan L. Lynch", "Charley Olson", "Raya A. Pruner", "Ernane H.M. Vieira-Neto", "Raneve West-Singh", "Emilio M. Bruna"]
+publication: "Trends in Ecology and Evolution"
+volume: "24"
+number: "4"
+pages: "177-179"
+doi: "10.1016/j.tree.2009.01.003"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/callisImprovingWikipediaEducational2009/cite.bib'
+pdf: './articles/callisImprovingWikipediaEducational2009/KristineLCallis_etal_2009_trends_in_ecology_and_evolution.pdf'
+---

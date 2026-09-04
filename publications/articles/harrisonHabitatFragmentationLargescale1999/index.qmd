@@ -1,0 +1,19 @@
+---
+title: "Habitat fragmentation and large-scale conservation: what do we know for sure?"
+date: "1999"
+author: ["S. Harrison", "E. Bruna"]
+publication: "Ecography"
+volume: "22"
+number: "NA"
+pages: "225-232"
+doi: "NA"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/harrisonHabitatFragmentationLargescale1999/cite.bib'
+pdf: './articles/harrisonHabitatFragmentationLargescale1999/SHarrison_etal_1999_ecography.pdf'
+---

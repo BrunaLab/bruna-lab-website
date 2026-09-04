@@ -1,0 +1,26 @@
+---
+title: "The compensatory responses of an understory herb to experimental damage are habitat‐dependent"
+date: "2005"
+author: ["Emilio M. Bruna", "Maria Beatriz Nogueira Ribeiro"]
+publication: "American Journal of Botany"
+volume: "92"
+number: "12"
+pages: "2101-2106"
+doi: "10.3732/ajb.92.12.2101"
+abstract: "NA"
+categories: 
+  - Heliconia acuminata
+  - Heliconiaceae
+  - biomass allocation
+  - compensation
+  - relative growth rate
+  - treefall gaps
+  - tropical rain forest
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaCompensatoryResponsesUnderstory2005/cite.bib'
+pdf: './articles/brunaCompensatoryResponsesUnderstory2005/EmilioMBruna_etal_2005_american_journal_of_botany.pdf'
+---

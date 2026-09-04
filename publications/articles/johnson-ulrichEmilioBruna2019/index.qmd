@@ -1,0 +1,19 @@
+---
+title: "Emilio Bruna"
+date: "2019"
+author: ["L. Johnson-Ulrich", "Emilio M. Bruna"]
+publication: "Project Biodiversify"
+volume: "NA"
+number: "NA"
+pages: "NA"
+doi: "NA"
+abstract: "textlessptextgreaterSeed germination is lower in fragmented rainforesttextless/ptextgreater"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/johnson-ulrichEmilioBruna2019/cite.bib'
+pdf: ''
+---

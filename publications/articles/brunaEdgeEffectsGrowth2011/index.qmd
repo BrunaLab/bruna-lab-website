@@ -1,0 +1,61 @@
+---
+title: "Edge effects on growth and biomass partitioning of an Amazonian understory herb ( \textitHeliconia acuminata ; Heliconiaceae)"
+date: "2011"
+author: ["Emilio M. Bruna", "Ana Segalin Andrade"]
+publication: "American Journal of Botany"
+volume: "98"
+number: "10"
+pages: "1727-1734"
+doi: "10.3732/ajb.1000290"
+abstract: "NA"
+categories: 
+  - Heliconia acuminata
+  - Heliconiaceae
+  - fragmentation
+  - growth
+  - forest fragmentation
+  - acuminata
+  - allocation
+  - area
+  - biomass
+  - common
+  - contrasting
+  - environments
+  - forest
+  - forests
+  - garden
+  - genotypic
+  - habitat
+  - habitats
+  - heliconia
+  - heliconiaceae
+  - heterogeneity
+  - land-use
+  - leaf
+  - light
+  - past
+  - phenotypic
+  - plant-populations
+  - plasticity
+  - rain-forest
+  - rate
+  - ratio
+  - relative
+  - secondary
+  - spatial
+  - specific
+  - tropical
+  - variation
+  - biomass allocation
+  - relative growth rate
+  - specific leaf area
+  - common garden
+  - leaf area ratio
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaEdgeEffectsGrowth2011/cite.bib'
+pdf: './articles/brunaEdgeEffectsGrowth2011/EmilioMBruna_etal_2011_american_journal_of_botany.pdf'
+---

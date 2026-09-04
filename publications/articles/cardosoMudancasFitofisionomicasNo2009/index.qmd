@@ -1,0 +1,19 @@
+---
+title: "Mudanças fitofisionômicas no Cerrado: 18 anos de sucesão ecológica na Estação Ecológica do Panga, Uberlândia, MG."
+date: "2009"
+author: ["E. Cardoso", "E. M. Cruzeiro Moreno M. I. Bruna", "H. L. Vasconcelos"]
+publication: "Caminhos de Geografia"
+volume: "10"
+number: "32"
+pages: "254-268"
+doi: "NA"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/cardosoMudancasFitofisionomicasNo2009/cite.bib'
+pdf: './articles/cardosoMudancasFitofisionomicasNo2009/ECardoso_etal_2009_caminhos_de_geografia.pdf'
+---

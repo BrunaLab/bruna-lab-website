@@ -1,0 +1,19 @@
+---
+title: "2010 Biotropica Award for Excellence in Tropical Biology and Conservation: Biotropica Award for Excellence in Tropical Biology and Conservation"
+date: "2010"
+author: ["Emilio M. Bruna"]
+publication: "Biotropica"
+volume: "42"
+number: "4"
+pages: "518-519"
+doi: "10.1111/j.1744-7429.2010.00691.x"
+abstract: "NA"
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/bruna2010BiotropicaAward2010/cite.bib'
+pdf: './articles/bruna2010BiotropicaAward2010/EmilioMBruna_2010_biotropica.pdf'
+---

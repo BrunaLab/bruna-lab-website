@@ -1,0 +1,25 @@
+---
+title: "Cooperative colony founding alters the outcome of interspecific competition between Amazonian plant-ants"
+date: "2009"
+author: ["T. J. Izzo", "E. M. Bruna", "H. L. Vasconcelos", "B. D. Inouye"]
+publication: "Insectes Sociaux"
+volume: "56"
+number: "4"
+pages: "341-345"
+doi: "10.1007/s00040-009-0029-x"
+abstract: "NA"
+categories: 
+  - Maieta guianensis
+  - Crematogaster laevis
+  - crematogaster laevis maieta guianensis myrmecophytes pheidole minutula pleometrosis mutualism limitation protection habitat size
+  - Myrmecophytes
+  - Pheidole minutula
+  - Pleometrosis
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/izzoCooperativeColonyFounding2009/cite.bib'
+pdf: './articles/izzoCooperativeColonyFounding2009/TJIzzo_etal_2009_insectes_sociaux.pdf'
+---

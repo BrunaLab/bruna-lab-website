@@ -1,0 +1,19 @@
+---
+title: "Sequencing foundational computational instruction in the life sciences"
+date: "NA"
+author: ["Morgan Manning", "Grady Roberts", "Phil Hahn", "Jessica Kahler", "Emilio Bruna", "Miguel Acevedo"]
+publication: "Authorea"
+volume: "2026"
+number: "0721"
+pages: "NA"
+doi: "10.22541/authorea.15006397/v1"
+abstract: "Computational and quantitative skills are increasingly central to the life sciences, yet how best to teach them remains debated. We used a mixed-methods design to examine how the pathway through which undergraduates encountered computational coursework related to changes in their self-reported coding anxiety, perceived math skills, and perceived computing skills over a semester. Fifty students at a single institution were classified into four pathways based on the timing and combination of a dedicated foundational R programming course and two advanced wildlife-ecology courses that apply R. Using linear models with retrospective pre/post ratings and reflexive thematic analysis of open-ended responses, we found that self-reported outcomes improved across all pathways. Students who completed the foundational course alone showed significantly larger computing-skill gains than students who encountered R only through advanced coursework (a 44textbackslash% larger improvement), an advantage robust to the inclusion of student-level covariates. No pathway differences emerged for anxiety or math skills. Across covariate blocks, prior preparation most strongly predicted anxiety and perceived career relevance most strongly predicted computing skills, while hardware access predicted no outcome. Qualitative responses converged with these patterns: students with foundational coursework adopted R more uniformly as a primary tool and described its professional value in more specific, applied terms. Together the results suggest that dedicated foundational instruction supports computing-skill development and tool adoption, and that whether students receive such instruction may matter more than its precise placement relative to applied coursework. We discuss implications for curricular design in quantitative life-science training."
+categories: 
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/manningSequencingFoundationalComputational/cite.bib'
+pdf: './articles/manningSequencingFoundationalComputational/MorganManning_etal_NA_authorea.pdf'
+---

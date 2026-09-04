@@ -1,0 +1,22 @@
+---
+title: "New evidence of habitat segregation between two cryptic species of pacific skinks (Emoia cyanura and E. impar)"
+date: "1996"
+author: ["Emilio M. Bruna", "Robert N. Fisher", "Ted J. Case"]
+publication: "Copeia"
+volume: "1996"
+number: "4"
+pages: "998"
+doi: "10.2307/1447665"
+abstract: "NA"
+categories: 
+  - Environmental Biology-Animal) 62516 (Chordata
+  - General and Systematic Zoology-Reptilia) Animals Chordates Vertebrates Nonhuman vertebrates Reptiles Research Article Emoia Cyanura Emoia Impar Habitat Segregation Resource Partitioning Ecology Evolution
+  - Sauria 01500 (Evolution) 07508 (Ecology
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaNewEvidenceHabitat1996/cite.bib'
+pdf: './articles/brunaNewEvidenceHabitat1996/EmilioMBruna_etal_1996_copeia.pdf'
+---

@@ -1,0 +1,25 @@
+---
+title: "Characterization of 10 microsatellite markers for the understorey Amazonian herb \textitHeliconia acuminata"
+date: "2009"
+author: ["M. C. Cortes", "V. Gowda", "W. J. Kress", "E. M. Bruna", "M. Uriarte"]
+publication: "Molecular Ecology Resources"
+volume: "9"
+number: "4"
+pages: "1261-1264"
+doi: "10.1111/j.1755-0998.2009.02627.x"
+abstract: "We characterized 10 microsatellite loci for the plant Heliconia acuminata from the Biological Dynamics of Forest Fragments Project (Manaus, Brazil). Markers were screened in 61 individuals from one population and were found to be polymorphic with an average of eight alleles per locus. We found moderate to high levels of polymorphic information content, and observed and expected heterozygosities. All 10 markers are suitable for spatial genetic structure and parentage analyses and will be used for understanding H. acuminata dynamics across a fragmented landscape."
+categories: 
+  - Heliconia acuminata
+  - forest fragmentation
+  - Amazon forest
+  - genetic relatedness
+  - microsatellites
+  - parentage analysis
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/cortesCharacterization10Microsatellite2009/cite.bib'
+pdf: './articles/cortesCharacterization10Microsatellite2009/MCCortes_etal_2009_molecular_ecology_resources.pdf'
+---

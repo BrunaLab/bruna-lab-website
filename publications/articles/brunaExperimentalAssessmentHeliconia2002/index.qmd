@@ -1,0 +1,25 @@
+---
+title: "Experimental assessment of Heliconia acuminata growth in a fragmented Amazonian landscape"
+date: "2002"
+author: ["E. M. Bruna", "O. Nardy", "S. Y. Strauss", "S. P. Harrison"]
+publication: "Journal of Ecology"
+volume: "90"
+number: "4"
+pages: "639-649."
+doi: "NA"
+abstract: "NA"
+categories: 
+  - Heliconiaceae
+  - forest fragmentation
+  - growth rates
+  - root - shoot ratio
+  - understorey plants
+  - water stress
+url: 
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/brunaExperimentalAssessmentHeliconia2002/cite.bib'
+pdf: './articles/brunaExperimentalAssessmentHeliconia2002/EMBruna_etal_2002_journal_of_ecology.pdf'
+---

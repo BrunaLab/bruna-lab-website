@@ -7,7 +7,7 @@ volume: "15"
 number: "12"
 pages: "e2002760"
 doi: "10.1371/journal.pbio.2002760"
-abstract: "NA"
+abstract: ""
 categories: 
   - Medical journals
   - Scientific publishing
@@ -16,7 +16,6 @@ categories:
   - Asia
   - Geography
   - Community ecology
-  - 
   - Biology
   - Ecology
   - Editorial Policies Internationality Publishing United States

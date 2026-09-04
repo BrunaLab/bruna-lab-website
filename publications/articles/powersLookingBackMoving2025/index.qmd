@@ -9,8 +9,8 @@ pages: "e70074"
 doi: "10.1111/btp.70074"
 abstract: "NA"
 categories: 
-  - ATBC
   - synthesis
+  - ATBC
   - tropical biology
 url: 
 image: featured.png

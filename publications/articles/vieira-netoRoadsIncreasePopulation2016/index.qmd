@@ -1,6 +1,6 @@
 ---
 title: "Roads increase population growth rates of a native leaf-cutter ant in Neotropical savannahs"
-date: "2016"
+year: "2016"
 author: ["Ernane H. M. Vieira-Neto", "Heraldo L. Vasconcelos", "Emilio M. Bruna"]
 publication: "Journal of Applied Ecology"
 volume: "53"

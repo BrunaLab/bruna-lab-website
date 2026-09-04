@@ -1,6 +1,6 @@
 ---
 title: "Recognition of host plant volatiles by pheidole minutula mayr (myrmicinae), an amazonian ant-plant specialist"
-date: "2009"
+year: "2009"
 author: ["W. Dattilo", "T. J. Izzo", "B. D. Inouye", "H. L. Vasconcelos", "E. M. Bruna"]
 publication: "Biotropica"
 volume: "41"

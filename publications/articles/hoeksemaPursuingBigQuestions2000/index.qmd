@@ -1,6 +1,6 @@
 ---
 title: "Pursuing the big questions about interspecific mutualism: a review of theoretical approaches"
-date: "2000"
+year: "2000"
 author: ["Jason D. Hoeksema", "Emilio M. Bruna"]
 publication: "Oecologia"
 volume: "125"

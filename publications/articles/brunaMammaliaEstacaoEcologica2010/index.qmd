@@ -1,6 +1,6 @@
 ---
 title: "Mammalia, Estação Ecológica do Panga, a Cerrado protected area in Minas Gerais state, Brazil"
-date: "2010"
+year: "2010"
 author: ["Emilio M. Bruna", "Juliane Fernandes Guimaraes", "Caue T. Lopes", "Polyanna Duarte", "Ana Claudia Lemos Gomes", "Sonia Cristina S. Belentani", "Renata Pacheco", "Katia G. Facure", "Frederico G. Lemos", "Heraldo L. Vasconcelos"]
 publication: "CheckList: the journal of biodiversity data"
 volume: "6"

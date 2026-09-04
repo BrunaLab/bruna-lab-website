@@ -1,6 +1,6 @@
 ---
 title: "Is there a temperate bias in our understanding of how climate change will alter plant-herbivore interactions? A meta-analysis of experimental studies"
-date: "2016"
+year: "2016"
 author: ["Fabiane M. Mundim", "Emilio M. Bruna"]
 publication: "The American Naturalist"
 volume: "188"

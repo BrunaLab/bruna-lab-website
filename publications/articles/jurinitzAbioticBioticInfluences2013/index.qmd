@@ -1,6 +1,6 @@
 ---
 title: "Abiotic and biotic influences on early-stage survival in two shade-tolerant tree species in brazil's atlantic forest"
-date: "2013"
+year: "2013"
 author: ["Cristiane F. Jurinitz", "Alexandre A. de Oliveira", "Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "45"

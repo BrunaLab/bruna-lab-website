@@ -1,6 +1,6 @@
 ---
 title: "Interspecific variation in the defensive responses of obligate plant-ants: experimental tests and consequences for herbivory"
-date: "2004"
+year: "2004"
 author: ["Emilio M. Bruna", "David M. Lapola", "Heraldo L. Vasconcelos"]
 publication: "Oecologia"
 volume: "138"

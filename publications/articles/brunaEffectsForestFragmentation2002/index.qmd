@@ -1,6 +1,6 @@
 ---
 title: "Effects of forest fragmentation on Heliconia acuminata seedling recruitment in central Amazonia"
-date: "2002"
+year: "2002"
 author: ["Emilio M. Bruna"]
 publication: "Oecologia"
 volume: "132"

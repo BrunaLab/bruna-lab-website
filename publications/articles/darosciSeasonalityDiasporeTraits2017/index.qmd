@@ -1,6 +1,6 @@
 ---
 title: "Seasonality, diaspore traits and the structure of plant-frugivore networks in Neotropical savanna forest"
-date: "2017"
+year: "2017"
 author: ["Adriano Antonio Brito Darosci", "Emilio M. Bruna", "Jose Carlos Motta-Junior", "Cristiane da Silva Ferreira", "John Gilman Blake", "Cassia Beatriz Rodrigues Munhoz"]
 publication: "Acta Oecologica"
 volume: "84"

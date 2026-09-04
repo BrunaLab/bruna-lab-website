@@ -1,6 +1,6 @@
 ---
 title: "Habitat fragmentation and large-scale conservation: what do we know for sure?"
-date: "1999"
+year: "1999"
 author: ["S. Harrison", "E. Bruna"]
 publication: "Ecography"
 volume: "22"

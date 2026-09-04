@@ -1,6 +1,6 @@
 ---
 title: "Volume and geographical distribution of ecological research in the andes and the amazon, 1995–2008"
-date: "2011"
+year: "2011"
 author: ["Nigel C. A. Pitman", "Jocelyn Widmer", "Clinton N. Jenkins", "Gabriela Stocks", "Lisa Seales", "Franklin Paniagua", "Emilio M. Bruna"]
 publication: "Tropical Conservation Science"
 volume: "4"

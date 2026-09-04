@@ -1,8 +1,8 @@
 ---
 title: "Landscape quality drives ecological responses to habitat loss and fragmentation"
-date: "2026"
+year: "2026"
 author: ["Robert J. Fletcher", "Thomas A. H. Smith", "Maggie Jones", "Fredericke Schellenberg", "Rikki Payne", "Nicholas Kortessis", "Emilio M. Bruna", "Robert D. Holt"]
-publication: "Nature Ecology & Evolution"
+publication: "Nature Ecology \& Evolution"
 volume: "10"
 number: "7"
 pages: "1265-1272"

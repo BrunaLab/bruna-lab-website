@@ -1,6 +1,6 @@
 ---
 title: "Roads alter the colonization dynamics of a keystone herbivore in Neotropical savannas"
-date: "2006"
+year: "2006"
 author: ["Heraldo L. Vasconcelos", "Ernane H. M. Vieira-Neto", "Fabiane M. Mundim", "Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "38"

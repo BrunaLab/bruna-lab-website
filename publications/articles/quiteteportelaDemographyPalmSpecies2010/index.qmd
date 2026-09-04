@@ -1,6 +1,6 @@
 ---
 title: "Demography of palm species in Brazil’s Atlantic forest: a comparison of harvested and unharvested species using matrix models"
-date: "2010"
+year: "2010"
 author: ["Rita de Cassia Quitete Portela", "Emilio M. Bruna", "Flavio Antonio Maes dos Santos"]
 publication: "Biodiversity and Conservation"
 volume: "19"

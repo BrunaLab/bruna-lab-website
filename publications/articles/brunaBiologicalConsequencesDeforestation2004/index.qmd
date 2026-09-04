@@ -1,6 +1,6 @@
 ---
 title: "The biological consequences of deforestation and habitat fragmentation."
-date: "2004"
+year: "2004"
 author: ["E. M. Bruna"]
 publication: "NA"
 volume: "NA"

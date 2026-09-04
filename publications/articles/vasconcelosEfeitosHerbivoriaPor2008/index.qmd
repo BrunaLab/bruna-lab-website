@@ -1,6 +1,6 @@
 ---
 title: "Efeitos da herbivoria por formigas do gênero Atta Fabricius, 1804 (Hymenoptera: Formicidae) sobre a vegetação do Cerrado."
-date: "2008"
+year: "2008"
 author: ["H. L . Vasconcelos", "A. N. Costa", "E. H. M. Vieira-Neto", "E. M. Bruna"]
 publication: "NA"
 volume: "NA"

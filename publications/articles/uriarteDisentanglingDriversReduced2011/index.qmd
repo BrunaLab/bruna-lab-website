@@ -1,6 +1,6 @@
 ---
 title: "Disentangling the drivers of reduced long-distance seed dispersal by birds in an experimentally fragmented landscape"
-date: "2011"
+year: "2011"
 author: ["Maria Uriarte", "Marina Anciaes", "Mariana T. B. da Silva", "Paulo Rubim", "Erik Johnson", "Emilio M. Bruna"]
 publication: "Ecology"
 volume: "92"

@@ -1,6 +1,6 @@
 ---
 title: "A new data archiving policy for \textitBiotropica"
-date: "2016"
+year: "2016"
 author: ["Emilio M. Bruna", "Marielos Pena-Claros", "Bryan Finegan", "Beth A. Kaplin"]
 publication: "Biotropica"
 volume: "48"

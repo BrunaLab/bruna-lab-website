@@ -1,6 +1,6 @@
 ---
 title: "The contribution of theory and experiments to conservation in fragmented landscapes"
-date: "2017"
+year: "2017"
 author: ["Julian Resasco", "Emilio M. Bruna", "Nick M. Haddad", "Cristina Banks-Leite", "Christopher R. Margules"]
 publication: "Ecography"
 volume: "40"

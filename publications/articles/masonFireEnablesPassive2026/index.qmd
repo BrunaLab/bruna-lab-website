@@ -1,6 +1,6 @@
 ---
 title: "Fire enables passive directed seed dispersal by birds"
-date: "2026"
+year: "2026"
 author: ["David S. Mason", "Kevin M. Robertson", "Phillip G. Hahn", "Emilio M. Bruna", "John L. Willis", "Marcus A. Lashley"]
 publication: "Current Biology"
 volume: "36"

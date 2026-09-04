@@ -1,6 +1,6 @@
 ---
 title: "On identifying rising stars in ecology"
-date: "2014"
+year: "2014"
 author: ["Emilio M. Bruna"]
 publication: "Bioscience"
 volume: "64"

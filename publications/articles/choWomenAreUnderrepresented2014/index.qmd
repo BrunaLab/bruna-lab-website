@@ -1,6 +1,6 @@
 ---
 title: "Women are underrepresented on the editorial boards of journals in environmental biology and natural resource management"
-date: "2014"
+year: "2014"
 author: ["Alyssa H. Cho", "Shelly A. Johnson", "Carrie E. Schuman", "Jennifer M. Adler", "Oscar Gonzalez", "Sarah J. Graves", "Jana R. Huebner", "D. Blaine Marchant", "Sami W. Rifai", "Irina Skinner", "Emilio M. Bruna"]
 publication: "PeerJ"
 volume: "2"

@@ -1,6 +1,6 @@
 ---
 title: "Landscape experiments unlock relationships among habitat loss, fragmentation, and patch-size effects"
-date: "2023"
+year: "2023"
 author: ["Robert J. Fletcher Jr.", "Thomas A. H. Smith", "Nicholas Kortessis", "Emilio M. Bruna", "Robert D. Holt"]
 publication: "Ecology"
 volume: "104"

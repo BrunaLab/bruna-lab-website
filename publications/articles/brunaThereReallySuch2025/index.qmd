@@ -1,6 +1,6 @@
 ---
 title: "Is there really such a thing as Tropical Biology?"
-date: "2025"
+year: "2025"
 author: ["Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "57"

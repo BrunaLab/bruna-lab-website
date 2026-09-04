@@ -1,6 +1,6 @@
 ---
 title: "A whole-plant perspective reveals unexpected impacts of above- and belowground herbivores on plant growth and defense"
-date: "2017"
+year: "2017"
 author: ["Fabiane M. Mundim", "Hans T. Alborn", "Ernane H. M. Vieira-Neto", "Emilio M. Bruna"]
 publication: "Ecology"
 volume: "98"

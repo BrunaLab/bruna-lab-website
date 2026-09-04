@@ -1,6 +1,6 @@
 ---
 title: "Effects of sample size on estimates of population growth rates calculated with matrix models"
-date: "2008"
+year: "2008"
 author: ["Ian J. Fiske", "Emilio M. Bruna", "Benjamin M. Bolker"]
 publication: "PLoS ONE"
 volume: "3"

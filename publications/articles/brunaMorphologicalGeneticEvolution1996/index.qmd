@@ -1,6 +1,6 @@
 ---
 title: "Morphological and genetic evolution appear decoupled in Pacific skinks (Squamata: Scincidae: Emoia)"
-date: "1996"
+year: "1996"
 author: ["E. M. Bruna", "R. N. Fisher", "T. J. Case"]
 publication: "Proceedings of the Royal Society of London Series B Biological Sciences"
 volume: "263"

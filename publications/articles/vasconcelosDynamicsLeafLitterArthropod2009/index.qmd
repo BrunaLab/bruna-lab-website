@@ -1,6 +1,6 @@
 ---
 title: "Dynamics of the leaf-litter arthropod fauna following fire in a neotropical woodland savanna"
-date: "2009"
+year: "2009"
 author: ["Heraldo L. Vasconcelos", "Renata Pacheco", "Raphael C. Silva", "Pedro B. Vasconcelos", "Caue T. Lopes", "Alan N. Costa", "Emilio M. Bruna"]
 publication: "PLoS ONE"
 volume: "4"

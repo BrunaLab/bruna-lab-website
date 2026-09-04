@@ -1,6 +1,6 @@
 ---
 title: "Experimental assessment of \textitHeliconia acuminata growth in a fragmented Amazonian landscape"
-date: "2002"
+year: "2002"
 author: ["Emilio M. Bruna", "Olavo Nardy", "Sharon Y. Strauss", "Susan Harrison"]
 publication: "Journal of Ecology"
 volume: "90"

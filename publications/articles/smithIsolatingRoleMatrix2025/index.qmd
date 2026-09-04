@@ -1,6 +1,6 @@
 ---
 title: "Isolating the role of the matrix at patch and landscape scales"
-date: "2025"
+year: "2025"
 author: ["Thomas A. H. Smith", "Robert D. Holt", "Emilio M. Bruna", "Robert J. Fletcher Jr."]
 publication: "Journal of Animal Ecology"
 volume: "94"

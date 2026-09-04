@@ -1,6 +1,6 @@
 ---
 title: "A lack of open data standards for large infrastructure projects hampers social-ecological research in the Brazilian Amazon"
-date: "2025"
+year: "2025"
 author: ["Jacy L. Hyde", "Christine Swanson", "Stephanie A. Bohlman", "Simone Athayde", "Emilio M. Bruna", "Denis R. Valle"]
 publication: "PeerJ"
 volume: "13"

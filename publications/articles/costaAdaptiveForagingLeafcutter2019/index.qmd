@@ -1,6 +1,6 @@
 ---
 title: "Adaptive foraging of leaf-cutter ants to spatiotemporal changes in resource availability in Neotropical savannas"
-date: "2019"
+year: "2019"
 author: ["Alan N. Costa", "Heraldo L. Vasconcelos", "Ernane H.M. Vieira-Neto", "Emilio M. Bruna"]
 publication: "Ecological Entomology"
 volume: "44"

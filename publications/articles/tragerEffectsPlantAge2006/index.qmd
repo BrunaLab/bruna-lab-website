@@ -1,6 +1,6 @@
 ---
 title: "Effects of plant age, experimental nutrient addition and ant occupancy on herbivory in a neotropical myrmecophyte"
-date: "2006"
+year: "2006"
 author: ["Matthew D. Trager", "Emilio M. Bruna"]
 publication: "Journal of Ecology"
 volume: "94"

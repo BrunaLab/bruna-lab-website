@@ -1,6 +1,6 @@
 ---
 title: "Biotropica to become an ‘online‐only’ journal in 2015"
-date: "2014"
+year: "2014"
 author: ["Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "46"

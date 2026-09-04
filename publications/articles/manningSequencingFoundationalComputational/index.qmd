@@ -1,6 +1,6 @@
 ---
 title: "Sequencing foundational computational instruction in the life sciences"
-date: "NA"
+year: "NA"
 author: ["Morgan Manning", "Grady Roberts", "Phil Hahn", "Jessica Kahler", "Emilio Bruna", "Miguel Acevedo"]
 publication: "Authorea"
 volume: "2026"

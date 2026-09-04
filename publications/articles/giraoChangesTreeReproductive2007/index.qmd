@@ -1,6 +1,6 @@
 ---
 title: "Changes in tree reproductive traits reduce functional diversity in a fragmented Atlantic Forest landscape"
-date: "2007"
+year: "2007"
 author: ["Luciana Coe Girao", "Ariadna Valentina Lopes", "Marcelo Tabarelli", "Emilio M. Bruna"]
 publication: "PLoS ONE"
 volume: "2"

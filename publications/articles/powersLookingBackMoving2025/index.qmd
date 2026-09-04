@@ -1,6 +1,6 @@
 ---
 title: "Looking back and moving forward: reflections on 60 years of the association for tropical biology and conservation"
-date: "2025"
+year: "2025"
 author: ["Jennifer S. Powers", "Emilio M. Bruna", "Lucia G. Lohmann"]
 publication: "Biotropica"
 volume: "57"

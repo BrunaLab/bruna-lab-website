@@ -1,6 +1,6 @@
 ---
 title: "Context-dependent outcomes of mutualistic interactions"
-date: "2015"
+year: "2015"
 author: ["Jason D. Hoeksema", "Emilio M. Bruna"]
 publication: "NA"
 volume: "NA"

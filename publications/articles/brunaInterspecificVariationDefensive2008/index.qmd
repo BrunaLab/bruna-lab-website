@@ -1,6 +1,6 @@
 ---
 title: "Interspecific variation in the defensive responses of ant mutualists to plant volatiles"
-date: "2008"
+year: "2008"
 author: ["Emilio M. Bruna", "Maria Rosa Darrigo", "Angela Midori Furuya Pacheco", "Heraldo L. Vasconcelos"]
 publication: "Biological Journal of the Linnean Society"
 volume: "94"

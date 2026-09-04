@@ -1,6 +1,6 @@
 ---
 title: "Editorial board members are a non-random sample of ecological experts"
-date: "2018"
+year: "2018"
 author: ["Emilio M. Bruna"]
 publication: "Nature Ecology and Evolution"
 volume: "2"

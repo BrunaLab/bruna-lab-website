@@ -1,6 +1,6 @@
 ---
 title: "Mudanças em atributos reprodutivos de árvores reduzema diversidade funcional em uma paisagem fragmentada de floresta Atlântica"
-date: "2014"
+year: "2014"
 author: ["Girao, LC", "AV Lopes", "Tabarelli, M", "Bruna, EM"]
 publication: "NA"
 volume: "NA"

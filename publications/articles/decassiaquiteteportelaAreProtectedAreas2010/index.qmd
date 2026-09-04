@@ -1,6 +1,6 @@
 ---
 title: "Are protected areas really protecting populations? A test with an Atlantic Rain Forest palm"
-date: "2010"
+year: "2010"
 author: ["Rita de Cassia Quitete Portela", "Emilio M. Bruna", "Flavio Antonio Maes dos Santos"]
 publication: "Tropical Conservation Science"
 volume: "3"

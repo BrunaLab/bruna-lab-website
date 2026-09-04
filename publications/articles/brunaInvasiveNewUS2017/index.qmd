@@ -1,6 +1,6 @@
 ---
 title: "Invasive new U.S. visa rules hurt americans too"
-date: "2017"
+year: "2017"
 author: ["Emilio M. Bruna"]
 publication: "Americas Quarterly"
 volume: "NA"

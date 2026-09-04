@@ -1,6 +1,6 @@
 ---
 title: "Experimental assessment of Heliconia acuminata growth in a fragmented Amazonian landscape"
-date: "2002"
+year: "2002"
 author: ["E. M. Bruna", "O. Nardy", "S. Y. Strauss", "S. P. Harrison"]
 publication: "Journal of Ecology"
 volume: "90"

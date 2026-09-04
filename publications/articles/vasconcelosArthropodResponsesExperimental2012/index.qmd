@@ -1,6 +1,6 @@
 ---
 title: "Arthropod responses to the experimental isolation of Amazonian forest fragments"
-date: "2012"
+year: "2012"
 author: ["Heraldo L. Vasconcelos", "Emilio M. Bruna"]
 publication: "Zoologia"
 volume: "29"

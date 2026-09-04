@@ -1,6 +1,6 @@
 ---
 title: "Tropical biology and conservation in the time of the COVID-19 pandemic"
-date: "2020"
+year: "2020"
 author: ["Jennifer S. Powers", "Emilio M. Bruna", "Ahimsa Campos-Arceiz", "Patricia Delamonica Sampaio", "Saara J. DeWalt", "Lucia G. Lohmann", "Rakan A. Zahawi"]
 publication: "Biotropica"
 volume: "52"

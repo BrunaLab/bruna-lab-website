@@ -1,6 +1,6 @@
 ---
 title: "Fundamental errors of data collection and validation undermine claims of ideological intensification in STEM"
-date: "2023"
+year: "2023"
 author: ["Emilio M Bruna"]
 publication: "BioScience"
 volume: "73"

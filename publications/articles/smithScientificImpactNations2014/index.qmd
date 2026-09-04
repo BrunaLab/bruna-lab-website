@@ -1,6 +1,6 @@
 ---
 title: "The scientific impact of nations: journal placement and citation performance"
-date: "2014"
+year: "2014"
 author: ["Matthew J. Smith", "Cody Weinberger", "Emilio M. Bruna", "Stefano Allesina"]
 publication: "PLOS ONE"
 volume: "9"

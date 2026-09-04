@@ -1,6 +1,6 @@
 ---
 title: "Plant size, latitude, and phylogeny explain within-population variability in herbivory"
-date: "2023"
+year: "2023"
 author: ["The Herbivory Variability Network"]
 publication: "Science"
 volume: "382"

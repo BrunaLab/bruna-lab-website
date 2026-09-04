@@ -1,6 +1,6 @@
 ---
 title: "Herbaceous plants in forest ecosystems: one hundred fundamental and applied questions"
-date: "2026"
+year: "2026"
 author: ["Harikrishnan Venugopalan Nair Radhamoni", "Michelle Elise Spicer", "Marlyse C. Duguid", "Liza S. Comita", "Emilio Bruna", "Andrew J. Andrade", "Jared J. Beck", "Julia I. Burton", "Hector Chuquillanqui", "Daniele Cicuzza", "Martin Dovciak", "Frank S. Gilliam", "Keri Greig", "Clayton W. Hale", "Catherine Hulshof", "Natalie Izlar", "Sarah E. Johnson", "Joseph LaManna", "David P. Matlaga", "David Kimutai Melly", "Austin Menzmer", "Kathryn Miller", "Gabriel M. Moulatlet", "Jonathan A. Myers", "Jay P. Sah", "Marcel Carita Vaz", "Anna Wassel", "Sienna A. Wessel", "Jin Yin", "Alejandro Zuluaga", "Simon A. Queenborough"]
 publication: "Journal of Vegetation Science"
 volume: "37"

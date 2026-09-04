@@ -1,6 +1,6 @@
 ---
 title: "Correctly estimating how environmental stochasticity influences fitness and population growth"
-date: "2005"
+year: "2005"
 author: ["Daniel F. Doak", "William F. Morris", "Cathy Pfister", "Bruce E. Kendall", "Emilio M. Bruna"]
 publication: "The American Naturalist"
 volume: "166"

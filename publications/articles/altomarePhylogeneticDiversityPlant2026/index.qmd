@@ -1,6 +1,6 @@
 ---
 title: "The phylogenetic diversity of plant communities in response to anthropogenic disturbances in a Neotropical savanna"
-date: "2026"
+year: "2026"
 author: ["Monize Altomare", "Emilio M Bruna", "Karen Neves", "Erica Rievrs Borges", "Imma Oliveras Menor", "Jamir A Prado Junior", "Heraldo L Vasconcelos"]
 publication: "Annals of Botany"
 volume: "NA"

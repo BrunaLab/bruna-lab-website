@@ -1,6 +1,6 @@
 ---
 title: "Annual litter production in a Brazilian Cerrado woodland savanna"
-date: "2020"
+year: "2020"
 author: ["Alan N Costa", "Alessandra Bartimachi", "Heraldo L Vasconcelos", "Emilio M Bruna", "Ernane HM Vieira-Neto"]
 publication: "Southern Forests: a Journal of Forest Science"
 volume: "82"

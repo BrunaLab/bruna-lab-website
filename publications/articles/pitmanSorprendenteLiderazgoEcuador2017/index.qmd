@@ -1,6 +1,6 @@
 ---
 title: "El sorprendente liderazgo del Ecuador en la producción científica de la región andino-amazónica"
-date: "2017"
+year: "2017"
 author: ["Nigel Pitman", "Joyce Widmer", "Emilio Bruna", "Clinton Jenkins", "Gabriela Stocks", "Lisa Seales", "Franklin Paniagua", "Erin Maehr"]
 publication: "NA"
 volume: "NA"

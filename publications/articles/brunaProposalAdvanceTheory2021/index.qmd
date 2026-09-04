@@ -1,6 +1,6 @@
 ---
 title: "A proposal to advance theory and promote collaboration in tropical biology by supporting replications"
-date: "2021"
+year: "2021"
 author: ["Emilio M. Bruna", "Robin Chazdon", "Timothy M. Errington", "Brian A. Nosek"]
 publication: "Biotropica"
 volume: "53"

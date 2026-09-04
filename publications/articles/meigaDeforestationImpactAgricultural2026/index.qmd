@@ -1,6 +1,6 @@
 ---
 title: "Beyond deforestation: the impact of agricultural intensification on a flagship mammal species"
-date: "2026"
+year: "2026"
 author: ["Ana Yoko Ykeuti Meiga", "Arnaud J. L. Desbiez", "Rubem A. P. Dornas", "Aline Giroux", "Emilio M. Bruna", "Alessandra Bertassoni", "Nina Attias", "Vanessa Hull", "Grazielle Soresini", "Mario H. Alves", "Denis Valle"]
 publication: "NA"
 volume: "NA"

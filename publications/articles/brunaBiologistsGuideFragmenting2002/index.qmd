@@ -1,6 +1,6 @@
 ---
 title: "A biologist's guide to fragmenting the Amazon (including why that's a bad idea)"
-date: "2002"
+year: "2002"
 author: ["Emilio M. Bruna"]
 publication: "Conservation Biology"
 volume: "16"
